@@ -74,66 +74,65 @@ frequent_3_itemsets = (
     .collectAsMap()
 )
 
-# Show top 10 for k=2
-top_2 = sorted(frequent_2_itemsets.items(), key=lambda x: -x[1])[:10]
-print("Top 10 frequent itemsets of size 2:")
-for itemset, support in top_2:
-    print(f"{itemset} -> support: {support}")
-
-# Show top 10 for k=3
-top_3 = sorted(frequent_3_itemsets.items(), key=lambda x: -x[1])[:10]
-print("\nTop 10 frequent itemsets of size 3:")
-for itemset, support in top_3:
-    print(f"{itemset} -> support: {support}")
-
 # -- B2 -- 
 
-# List to collect all rules with their metrics
+# List to store all valid association rules and their computed metrics
 association_rules = []
 
+# Function to calculate confidence, interest, lift and standardized lift for a given rule
 def calculate_rule_metrics(antecedent, consequent, full_itemset_support):
     antecedent = tuple(sorted(antecedent))
     consequent = tuple(sorted(consequent))
 
-    # Obter os suportes individuais
+    # Get support for the antecedent
+    # Use 1-itemset dictionary if antecedent has only 1 item, otherwise use 2-itemset
     if len(antecedent) == 1:
         support_A = frequent_1_itemsets.get(antecedent[0], 0)
     else:
         support_A = frequent_2_itemsets.get(antecedent, 0)
 
+    # Same logic for the consequent: check in 1-itemsets or 2-itemsets
     if len(consequent) == 1:
         support_B = frequent_1_itemsets.get(consequent[0], 0)
     else:
         support_B = frequent_2_itemsets.get(consequent, 0)
 
+    # If any part has zero support, we cannot compute the rule reliably
     if support_A == 0 or support_B == 0:
         return None
 
-    # Calcular métricas principais
+    # Compute confidence: how often B appears when A is present
     confidence = full_itemset_support / support_A
+    
+    # Compute marginal probabilities
     prob_A = support_A / num_transactions
     prob_B = support_B / num_transactions
 
+    # Lift: how much more likely B is to appear with A than at random
     lift = confidence / prob_B
+    
+    # Interest: how much the confidence exceeds the base probability of B
     interest = confidence - prob_B
 
-    # Calcular lift máximo e mínimo
+    # Compute lift_max (theoretical maximum possible lift)
     try:
         lift_max = min(1 / prob_B, 1 / prob_A)
     except ZeroDivisionError:
         lift_max = float('inf')
 
+    # Compute lift_min (theoretical minimum possible lift)
     try:
         lift_min = max((prob_A + prob_B - 1) / (prob_A * prob_B), 0)
     except ZeroDivisionError:
         lift_min = 0
 
-    # Calcular standardized lift
+    # Standardized lift scales the lift between 0 and 1
     if lift_max == lift_min:
-        standardized_lift = 0  # evitar divisão por zero
+        standardized_lift = 0  
     else:
         standardized_lift = (lift - lift_min) / (lift_max - lift_min)
 
+    # Return a dictionary containing all the rule’s metrics
     return {
         "antecedent": antecedent,
         "consequent": consequent,
@@ -147,6 +146,7 @@ def calculate_rule_metrics(antecedent, consequent, full_itemset_support):
 num_transactions = patient_transactions.count()
 
 # Generate rules from frequent 2-itemsets
+# Only rules of the form (X) → Y are possible for size-2 itemsets
 for itemset, supp in frequent_2_itemsets.items():
     items = list(itemset)
     for i in range(1, len(items)):
@@ -157,6 +157,7 @@ for itemset, supp in frequent_2_itemsets.items():
                 association_rules.append(metrics)
 
 # Generate rules from frequent 3-itemsets
+# Here we generate rules of the form (X,Y) → Z and (X) → (Y,Z)
 for itemset, supp in frequent_3_itemsets.items():
     items = list(itemset)
     for i in range(1, len(items)):
@@ -166,15 +167,23 @@ for itemset, supp in frequent_3_itemsets.items():
             if metrics:
                 association_rules.append(metrics)
 
-# Sort all rules by interest (descending)
-top_rules_by_sl = sorted(association_rules, key=lambda x: -x["standardized_lift"])[:10]
+# Filter rules with standardized lift ≥ 0.2 (as per the assignment)
+filtered_rules = [r for r in association_rules if r["standardized_lift"] >= 0.2]
 
-print("\nTop 10 Association Rules by Interest:")
-for rule in top_rules_by_sl:
-    antecedent = ", ".join(rule["antecedent"])
-    consequent = ", ".join(rule["consequent"])
-    print(f"{antecedent} -> {consequent} | SL: {rule['standardized_lift']:.4f}, lift: {rule['lift']:.4f}, conf: {rule['confidence']:.4f}, interest: {rule['interest']:.4f}")
+# Sort rules by standardized lift (descending order)
+sorted_rules = sorted(filtered_rules, key=lambda x: -x["standardized_lift"])
+
+output_path = "association_rules_output.txt"
+with open(output_path, "w") as f:
+    for rule in sorted_rules:
+        antecedent = ", ".join(rule["antecedent"])
+        consequent = ", ".join(rule["consequent"])
+        f.write(f"{antecedent} -> {consequent} | SL: {rule['standardized_lift']:.4f}, lift: {rule['lift']:.4f}, conf: {rule['confidence']:.4f}, interest: {rule['interest']:.4f}\n")
+
+print(f"\n{len(sorted_rules)} association rules written to {output_path}")
     
+sc.stop()
+
 '''
 A = '126906006'
 B = '92691004'
@@ -213,7 +222,3 @@ print(f"Lift calculado: {lift:.4f}")
 print(f"Standardized Lift calculado: {standardized_lift:.4f}")
 print(f"Lift max: {lift_max:.4f}, Lift min: {lift_min:.4f}") 
 '''
-    
-sc.stop()
-    
-# Diferença entre RDD´s e Dicionários
