@@ -3,1042 +3,963 @@
 
 --- Processing chunk 2 ---
 Points in this chunk: 1000
-DS clusters: 10 (1958 points)
+DS clusters: 10 (1962 points)
 CS clusters: 0 (0 points)
-RS points: 42
+RS points: 38
 
 --- Processing chunk 3 ---
 Points in this chunk: 1000
-DS clusters: 10 (2953 points)
+DS clusters: 10 (2958 points)
 CS clusters: 0 (0 points)
-RS points: 47
+RS points: 42
 
 --- Processing chunk 4 ---
 Points in this chunk: 1000
-DS clusters: 10 (3945 points)
-CS clusters: 3 (8 points)
-RS points: 47
+DS clusters: 10 (3950 points)
+CS clusters: 0 (0 points)
+RS points: 50
 
 --- Processing chunk 5 ---
 Points in this chunk: 1000
-DS clusters: 10 (4847 points)
-CS clusters: 26 (126 points)
-RS points: 27
+DS clusters: 10 (4852 points)
+CS clusters: 29 (127 points)
+RS points: 21
 
 --- Processing chunk 6 ---
 Points in this chunk: 1000
-DS clusters: 10 (5829 points)
-CS clusters: 26 (126 points)
-RS points: 45
+DS clusters: 10 (5835 points)
+CS clusters: 29 (127 points)
+RS points: 38
 
 --- Processing chunk 7 ---
 Points in this chunk: 1000
-DS clusters: 10 (6822 points)
-CS clusters: 28 (130 points)
-RS points: 48
+DS clusters: 10 (6829 points)
+CS clusters: 29 (128 points)
+RS points: 43
 
 --- Processing chunk 8 ---
 Points in this chunk: 1000
-DS clusters: 10 (7815 points)
-CS clusters: 33 (140 points)
-RS points: 45
+DS clusters: 10 (7825 points)
+CS clusters: 29 (128 points)
+RS points: 47
 
 --- Processing chunk 9 ---
 Points in this chunk: 1000
-DS clusters: 10 (8807 points)
-CS clusters: 36 (146 points)
-RS points: 47
+DS clusters: 10 (8818 points)
+CS clusters: 33 (136 points)
+RS points: 46
 
 --- Processing chunk 10 ---
 Points in this chunk: 1000
-DS clusters: 10 (9786 points)
-CS clusters: 45 (168 points)
-RS points: 40
+DS clusters: 10 (9798 points)
+CS clusters: 46 (165 points)
+RS points: 37
 
 --- Processing chunk 11 ---
 Points in this chunk: 1000
-DS clusters: 10 (10776 points)
-CS clusters: 45 (168 points)
-RS points: 50
+DS clusters: 10 (10788 points)
+CS clusters: 46 (166 points)
+RS points: 46
 
 --- Processing chunk 12 ---
 Points in this chunk: 1000
-DS clusters: 10 (11762 points)
-CS clusters: 54 (191 points)
-RS points: 41
+DS clusters: 10 (11776 points)
+CS clusters: 52 (180 points)
+RS points: 44
 
 --- Processing chunk 13 ---
 Points in this chunk: 1000
-DS clusters: 10 (12734 points)
-CS clusters: 65 (221 points)
-RS points: 39
+DS clusters: 10 (12748 points)
+CS clusters: 67 (217 points)
+RS points: 35
 
 --- Processing chunk 14 ---
 Points in this chunk: 1000
-DS clusters: 10 (13720 points)
-CS clusters: 67 (226 points)
-RS points: 48
+DS clusters: 10 (13734 points)
+CS clusters: 67 (217 points)
+RS points: 49
 
 --- Processing chunk 15 ---
 Points in this chunk: 1000
-DS clusters: 10 (14707 points)
-CS clusters: 73 (243 points)
+DS clusters: 10 (14725 points)
+CS clusters: 73 (231 points)
 RS points: 44
 
 --- Processing chunk 16 ---
 Points in this chunk: 1000
-DS clusters: 10 (15693 points)
-CS clusters: 79 (257 points)
-RS points: 44
+DS clusters: 10 (15713 points)
+CS clusters: 78 (242 points)
+RS points: 45
 
 --- Processing chunk 17 ---
 Points in this chunk: 1000
-DS clusters: 10 (16682 points)
-CS clusters: 83 (266 points)
+DS clusters: 10 (16703 points)
+CS clusters: 82 (251 points)
 RS points: 46
 
 --- Processing chunk 18 ---
 Points in this chunk: 1000
-DS clusters: 10 (17669 points)
-CS clusters: 89 (281 points)
-RS points: 44
+DS clusters: 10 (17690 points)
+CS clusters: 90 (268 points)
+RS points: 42
 
 --- Processing chunk 19 ---
 Points in this chunk: 1000
-DS clusters: 10 (18647 points)
-CS clusters: 99 (307 points)
-RS points: 40
+DS clusters: 10 (18669 points)
+CS clusters: 97 (288 points)
+RS points: 43
 
 --- Processing chunk 20 ---
 Points in this chunk: 1000
-DS clusters: 10 (19644 points)
-CS clusters: 99 (309 points)
-RS points: 41
+DS clusters: 10 (19665 points)
+CS clusters: 97 (289 points)
+RS points: 46
 
 --- Processing chunk 21 ---
 Points in this chunk: 1000
-DS clusters: 10 (20634 points)
-CS clusters: 99 (310 points)
-RS points: 50
+DS clusters: 10 (20656 points)
+CS clusters: 101 (298 points)
+RS points: 46
 
 --- Processing chunk 22 ---
 Points in this chunk: 1000
-DS clusters: 10 (21621 points)
-CS clusters: 109 (333 points)
-RS points: 40
+DS clusters: 10 (21643 points)
+CS clusters: 107 (313 points)
+RS points: 44
 
 --- Processing chunk 23 ---
 Points in this chunk: 1000
-DS clusters: 10 (22614 points)
-CS clusters: 108 (328 points)
-RS points: 45
+DS clusters: 10 (22635 points)
+CS clusters: 109 (317 points)
+RS points: 48
 
 --- Processing chunk 24 ---
 Points in this chunk: 1000
-DS clusters: 10 (23595 points)
-CS clusters: 115 (349 points)
-RS points: 43
+DS clusters: 10 (23619 points)
+CS clusters: 119 (341 points)
+RS points: 40
 
 --- Processing chunk 25 ---
 Points in this chunk: 1000
-DS clusters: 10 (24572 points)
-CS clusters: 119 (369 points)
-RS points: 46
+DS clusters: 10 (24597 points)
+CS clusters: 124 (358 points)
+RS points: 45
 
 --- Processing chunk 26 ---
 Points in this chunk: 1000
-DS clusters: 10 (25566 points)
-CS clusters: 121 (373 points)
+DS clusters: 10 (25593 points)
+CS clusters: 124 (359 points)
 RS points: 48
 
 --- Processing chunk 27 ---
 Points in this chunk: 1000
-DS clusters: 10 (26556 points)
-CS clusters: 127 (387 points)
+DS clusters: 10 (26583 points)
+CS clusters: 130 (373 points)
 RS points: 44
 
 --- Processing chunk 28 ---
 Points in this chunk: 1000
-DS clusters: 10 (27531 points)
-CS clusters: 134 (408 points)
+DS clusters: 10 (27559 points)
+CS clusters: 138 (399 points)
 RS points: 42
 
 --- Processing chunk 29 ---
 Points in this chunk: 1000
-DS clusters: 10 (28514 points)
-CS clusters: 138 (421 points)
-RS points: 46
+DS clusters: 10 (28543 points)
+CS clusters: 138 (407 points)
+RS points: 50
 
 --- Processing chunk 30 ---
 Points in this chunk: 1000
-DS clusters: 10 (29510 points)
-CS clusters: 138 (421 points)
-RS points: 50
+DS clusters: 10 (29539 points)
+CS clusters: 142 (415 points)
+RS points: 46
 
 --- Processing chunk 31 ---
 Points in this chunk: 1000
-DS clusters: 10 (30494 points)
-CS clusters: 147 (446 points)
-RS points: 41
+DS clusters: 10 (30525 points)
+CS clusters: 144 (427 points)
+RS points: 48
 
 --- Processing chunk 32 ---
 Points in this chunk: 1000
-DS clusters: 10 (31483 points)
-CS clusters: 146 (442 points)
-RS points: 46
+DS clusters: 10 (31515 points)
+CS clusters: 144 (437 points)
+RS points: 48
 
 --- Processing chunk 33 ---
 Points in this chunk: 1000
-DS clusters: 10 (32477 points)
-CS clusters: 148 (446 points)
-RS points: 48
+DS clusters: 10 (32507 points)
+CS clusters: 148 (447 points)
+RS points: 46
 
 --- Processing chunk 34 ---
 Points in this chunk: 1000
-DS clusters: 10 (33455 points)
-CS clusters: 156 (474 points)
-RS points: 42
+DS clusters: 10 (33486 points)
+CS clusters: 150 (466 points)
+RS points: 48
 
 --- Processing chunk 35 ---
 Points in this chunk: 1000
-DS clusters: 10 (34452 points)
-CS clusters: 156 (474 points)
-RS points: 45
+DS clusters: 10 (34481 points)
+CS clusters: 152 (471 points)
+RS points: 48
 
 --- Processing chunk 36 ---
 Points in this chunk: 1000
-DS clusters: 10 (35417 points)
-CS clusters: 164 (504 points)
-RS points: 41
+DS clusters: 10 (35445 points)
+CS clusters: 163 (516 points)
+RS points: 39
 
 --- Processing chunk 37 ---
 Points in this chunk: 1000
-DS clusters: 10 (36410 points)
-CS clusters: 164 (506 points)
-RS points: 46
+DS clusters: 10 (36438 points)
+CS clusters: 163 (519 points)
+RS points: 43
 
 --- Processing chunk 38 ---
 Points in this chunk: 1000
-DS clusters: 10 (37399 points)
-CS clusters: 169 (518 points)
-RS points: 45
+DS clusters: 10 (37427 points)
+CS clusters: 163 (526 points)
+RS points: 47
 
 --- Processing chunk 39 ---
 Points in this chunk: 1000
-DS clusters: 10 (38374 points)
-CS clusters: 176 (545 points)
-RS points: 43
+DS clusters: 10 (38402 points)
+CS clusters: 167 (552 points)
+RS points: 46
 
 --- Processing chunk 40 ---
 Points in this chunk: 1000
-DS clusters: 10 (39359 points)
-CS clusters: 175 (545 points)
-RS points: 50
+DS clusters: 10 (39386 points)
+CS clusters: 167 (565 points)
+RS points: 49
 
 --- Processing chunk 41 ---
 Points in this chunk: 1000
-DS clusters: 10 (40357 points)
-CS clusters: 177 (549 points)
-RS points: 48
+DS clusters: 10 (40384 points)
+CS clusters: 167 (566 points)
+RS points: 50
 
 --- Processing chunk 42 ---
 Points in this chunk: 1000
-DS clusters: 10 (41342 points)
-CS clusters: 184 (569 points)
-RS points: 43
+DS clusters: 10 (41371 points)
+CS clusters: 171 (583 points)
+RS points: 46
 
 --- Processing chunk 43 ---
 Points in this chunk: 1000
-DS clusters: 10 (42328 points)
-CS clusters: 190 (582 points)
-RS points: 44
+DS clusters: 10 (42356 points)
+CS clusters: 171 (594 points)
+RS points: 50
 
 --- Processing chunk 44 ---
 Points in this chunk: 1000
-DS clusters: 10 (43314 points)
-CS clusters: 193 (593 points)
-RS points: 47
+DS clusters: 10 (43342 points)
+CS clusters: 175 (612 points)
+RS points: 46
 
 --- Processing chunk 45 ---
 Points in this chunk: 1000
-DS clusters: 10 (44298 points)
-CS clusters: 199 (612 points)
-RS points: 44
+DS clusters: 10 (44329 points)
+CS clusters: 177 (623 points)
+RS points: 48
 
 --- Processing chunk 46 ---
 Points in this chunk: 1000
-DS clusters: 10 (45287 points)
-CS clusters: 203 (621 points)
-RS points: 46
+DS clusters: 10 (45319 points)
+CS clusters: 177 (633 points)
+RS points: 48
 
 --- Processing chunk 47 ---
 Points in this chunk: 1000
-DS clusters: 10 (46277 points)
-CS clusters: 205 (629 points)
-RS points: 48
+DS clusters: 10 (46309 points)
+CS clusters: 177 (642 points)
+RS points: 49
 
 --- Processing chunk 48 ---
 Points in this chunk: 1000
-DS clusters: 10 (47267 points)
-CS clusters: 210 (642 points)
-RS points: 45
+DS clusters: 10 (47297 points)
+CS clusters: 180 (656 points)
+RS points: 47
 
 --- Processing chunk 49 ---
 Points in this chunk: 1000
-DS clusters: 10 (48258 points)
-CS clusters: 212 (648 points)
-RS points: 48
+DS clusters: 10 (48290 points)
+CS clusters: 181 (661 points)
+RS points: 49
 
 --- Processing chunk 50 ---
 Points in this chunk: 1000
-DS clusters: 10 (49244 points)
-CS clusters: 218 (666 points)
-RS points: 44
+DS clusters: 10 (49274 points)
+CS clusters: 185 (680 points)
+RS points: 46
 
 --- Processing chunk 51 ---
 Points in this chunk: 1000
-DS clusters: 10 (50234 points)
-CS clusters: 220 (674 points)
-RS points: 46
+DS clusters: 10 (50265 points)
+CS clusters: 185 (688 points)
+RS points: 47
 
 --- Processing chunk 52 ---
 Points in this chunk: 1000
-DS clusters: 10 (51230 points)
-CS clusters: 220 (674 points)
+DS clusters: 10 (51261 points)
+CS clusters: 185 (689 points)
 RS points: 50
 
 --- Processing chunk 53 ---
 Points in this chunk: 1000
-DS clusters: 10 (52220 points)
-CS clusters: 226 (690 points)
-RS points: 44
+DS clusters: 10 (52249 points)
+CS clusters: 189 (705 points)
+RS points: 46
 
 --- Processing chunk 54 ---
 Points in this chunk: 1000
-DS clusters: 10 (53210 points)
-CS clusters: 225 (687 points)
+DS clusters: 10 (53239 points)
+CS clusters: 189 (711 points)
 RS points: 50
 
 --- Processing chunk 55 ---
 Points in this chunk: 1000
-DS clusters: 10 (54191 points)
-CS clusters: 235 (716 points)
-RS points: 40
+DS clusters: 10 (54221 points)
+CS clusters: 195 (735 points)
+RS points: 44
 
 --- Processing chunk 56 ---
 Points in this chunk: 1000
-DS clusters: 10 (55165 points)
-CS clusters: 238 (730 points)
-RS points: 46
+DS clusters: 10 (55195 points)
+CS clusters: 197 (757 points)
+RS points: 48
 
 --- Processing chunk 57 ---
 Points in this chunk: 1000
-DS clusters: 10 (56154 points)
-CS clusters: 239 (738 points)
-RS points: 49
+DS clusters: 10 (56185 points)
+CS clusters: 197 (765 points)
+RS points: 50
 
 --- Processing chunk 58 ---
 Points in this chunk: 1000
-DS clusters: 10 (57142 points)
-CS clusters: 244 (754 points)
-RS points: 45
+DS clusters: 10 (57173 points)
+CS clusters: 200 (780 points)
+RS points: 47
 
 --- Processing chunk 59 ---
 Points in this chunk: 1000
-DS clusters: 10 (58125 points)
-CS clusters: 249 (771 points)
-RS points: 45
+DS clusters: 10 (58154 points)
+CS clusters: 202 (798 points)
+RS points: 48
 
 --- Processing chunk 60 ---
 Points in this chunk: 1000
-DS clusters: 10 (59114 points)
-CS clusters: 252 (780 points)
+DS clusters: 10 (59143 points)
+CS clusters: 205 (810 points)
 RS points: 47
 
 --- Processing chunk 61 ---
 Points in this chunk: 1000
-DS clusters: 10 (60100 points)
-CS clusters: 259 (798 points)
-RS points: 43
+DS clusters: 10 (60129 points)
+CS clusters: 208 (824 points)
+RS points: 47
 
 --- Processing chunk 62 ---
 Points in this chunk: 1000
-DS clusters: 10 (61096 points)
-CS clusters: 259 (799 points)
-RS points: 46
+DS clusters: 10 (61125 points)
+CS clusters: 208 (826 points)
+RS points: 49
 
 --- Processing chunk 63 ---
 Points in this chunk: 1000
-DS clusters: 10 (62087 points)
-CS clusters: 258 (797 points)
+DS clusters: 10 (62117 points)
+CS clusters: 208 (833 points)
 RS points: 50
 
 --- Processing chunk 64 ---
 Points in this chunk: 1000
-DS clusters: 10 (63075 points)
-CS clusters: 266 (817 points)
-RS points: 42
+DS clusters: 10 (63105 points)
+CS clusters: 214 (851 points)
+RS points: 44
 
 --- Processing chunk 65 ---
 Points in this chunk: 1000
-DS clusters: 10 (64061 points)
-CS clusters: 269 (827 points)
-RS points: 46
+DS clusters: 10 (64090 points)
+CS clusters: 215 (861 points)
+RS points: 49
 
 --- Processing chunk 66 ---
 Points in this chunk: 1000
-DS clusters: 10 (65046 points)
-CS clusters: 274 (843 points)
+DS clusters: 10 (65075 points)
+CS clusters: 220 (880 points)
 RS points: 45
 
 --- Processing chunk 67 ---
 Points in this chunk: 1000
-DS clusters: 10 (66031 points)
-CS clusters: 277 (856 points)
-RS points: 47
+DS clusters: 10 (66061 points)
+CS clusters: 220 (891 points)
+RS points: 48
 
 --- Processing chunk 68 ---
 Points in this chunk: 1000
-DS clusters: 10 (67017 points)
-CS clusters: 280 (866 points)
-RS points: 46
+DS clusters: 10 (67046 points)
+CS clusters: 223 (907 points)
+RS points: 47
 
 --- Processing chunk 69 ---
 Points in this chunk: 1000
-DS clusters: 10 (68009 points)
-CS clusters: 282 (872 points)
-RS points: 48
+DS clusters: 10 (68038 points)
+CS clusters: 223 (913 points)
+RS points: 49
 
 --- Processing chunk 70 ---
 Points in this chunk: 1000
-DS clusters: 10 (68995 points)
-CS clusters: 289 (891 points)
-RS points: 43
+DS clusters: 10 (69024 points)
+CS clusters: 228 (931 points)
+RS points: 45
 
 --- Processing chunk 71 ---
 Points in this chunk: 1000
-DS clusters: 10 (69990 points)
-CS clusters: 289 (892 points)
-RS points: 47
+DS clusters: 10 (70019 points)
+CS clusters: 228 (933 points)
+RS points: 48
 
 --- Processing chunk 72 ---
 Points in this chunk: 1000
-DS clusters: 10 (70980 points)
-CS clusters: 290 (900 points)
-RS points: 49
+DS clusters: 10 (71009 points)
+CS clusters: 230 (943 points)
+RS points: 48
 
 --- Processing chunk 73 ---
 Points in this chunk: 1000
-DS clusters: 10 (71961 points)
-CS clusters: 299 (927 points)
-RS points: 41
+DS clusters: 10 (71990 points)
+CS clusters: 236 (966 points)
+RS points: 44
 
 --- Processing chunk 74 ---
 Points in this chunk: 1000
-DS clusters: 10 (72947 points)
-CS clusters: 299 (933 points)
-RS points: 49
+DS clusters: 10 (72976 points)
+CS clusters: 236 (977 points)
+RS points: 47
 
 --- Processing chunk 75 ---
 Points in this chunk: 1000
-DS clusters: 10 (73936 points)
-CS clusters: 301 (945 points)
-RS points: 48
+DS clusters: 10 (73966 points)
+CS clusters: 237 (985 points)
+RS points: 49
 
 --- Processing chunk 76 ---
 Points in this chunk: 1000
-DS clusters: 10 (74862 points)
-CS clusters: 320 (1030 points)
-RS points: 30
+DS clusters: 10 (74898 points)
+CS clusters: 253 (1068 points)
+RS points: 34
 
 --- Processing chunk 77 ---
 Points in this chunk: 1000
-DS clusters: 10 (75802 points)
-CS clusters: 321 (1055 points)
-RS points: 43
+DS clusters: 10 (75842 points)
+CS clusters: 253 (1109 points)
+RS points: 49
 
 --- Processing chunk 78 ---
 Points in this chunk: 1000
-DS clusters: 10 (76794 points)
-CS clusters: 321 (1061 points)
-RS points: 45
+DS clusters: 10 (76834 points)
+CS clusters: 255 (1118 points)
+RS points: 48
 
 --- Processing chunk 79 ---
 Points in this chunk: 1000
-DS clusters: 10 (77778 points)
-CS clusters: 320 (1063 points)
+DS clusters: 10 (77819 points)
+CS clusters: 256 (1132 points)
 RS points: 49
 
 --- Processing chunk 80 ---
 Points in this chunk: 1000
-DS clusters: 10 (78760 points)
-CS clusters: 325 (1079 points)
+DS clusters: 10 (78802 points)
+CS clusters: 262 (1154 points)
 RS points: 44
 
 --- Processing chunk 81 ---
 Points in this chunk: 1000
-DS clusters: 10 (79734 points)
-CS clusters: 329 (1093 points)
-RS points: 45
+DS clusters: 10 (79776 points)
+CS clusters: 266 (1178 points)
+RS points: 46
 
 --- Processing chunk 82 ---
 Points in this chunk: 1000
-DS clusters: 10 (80721 points)
-CS clusters: 329 (1103 points)
-RS points: 48
+DS clusters: 10 (80762 points)
+CS clusters: 266 (1189 points)
+RS points: 49
 
 --- Processing chunk 83 ---
 Points in this chunk: 1000
-DS clusters: 10 (81711 points)
-CS clusters: 332 (1114 points)
-RS points: 47
+DS clusters: 10 (81753 points)
+CS clusters: 268 (1201 points)
+RS points: 46
 
 --- Processing chunk 84 ---
 Points in this chunk: 1000
-DS clusters: 10 (82696 points)
-CS clusters: 335 (1128 points)
-RS points: 46
+DS clusters: 10 (82738 points)
+CS clusters: 271 (1215 points)
+RS points: 47
 
 --- Processing chunk 85 ---
 Points in this chunk: 1000
-DS clusters: 10 (83676 points)
-CS clusters: 339 (1148 points)
-RS points: 46
+DS clusters: 10 (83720 points)
+CS clusters: 276 (1235 points)
+RS points: 45
 
 --- Processing chunk 86 ---
 Points in this chunk: 1000
-DS clusters: 10 (84665 points)
-CS clusters: 341 (1157 points)
-RS points: 48
+DS clusters: 10 (84710 points)
+CS clusters: 276 (1240 points)
+RS points: 50
 
 --- Processing chunk 87 ---
 Points in this chunk: 1000
-DS clusters: 10 (85648 points)
-CS clusters: 342 (1169 points)
-RS points: 48
+DS clusters: 10 (85694 points)
+CS clusters: 279 (1259 points)
+RS points: 47
 
 --- Processing chunk 88 ---
 Points in this chunk: 1000
-DS clusters: 10 (86642 points)
-CS clusters: 344 (1175 points)
-RS points: 48
+DS clusters: 10 (86686 points)
+CS clusters: 279 (1264 points)
+RS points: 50
 
 --- Processing chunk 89 ---
 Points in this chunk: 1000
-DS clusters: 10 (87619 points)
-CS clusters: 353 (1201 points)
-RS points: 40
+DS clusters: 10 (87664 points)
+CS clusters: 286 (1293 points)
+RS points: 43
 
 --- Processing chunk 90 ---
 Points in this chunk: 1000
-DS clusters: 10 (88601 points)
-CS clusters: 353 (1209 points)
+DS clusters: 10 (88647 points)
+CS clusters: 286 (1303 points)
 RS points: 50
 
 --- Processing chunk 91 ---
 Points in this chunk: 1000
-DS clusters: 10 (89569 points)
-CS clusters: 360 (1248 points)
-RS points: 43
+DS clusters: 10 (89615 points)
+CS clusters: 290 (1339 points)
+RS points: 46
 
 --- Processing chunk 92 ---
 Points in this chunk: 1000
-DS clusters: 10 (90546 points)
-CS clusters: 361 (1265 points)
-RS points: 49
+DS clusters: 10 (90596 points)
+CS clusters: 292 (1356 points)
+RS points: 48
 
 --- Processing chunk 93 ---
 Points in this chunk: 1000
-DS clusters: 10 (91527 points)
-CS clusters: 369 (1291 points)
-RS points: 42
+DS clusters: 10 (91576 points)
+CS clusters: 298 (1380 points)
+RS points: 44
 
 --- Processing chunk 94 ---
 Points in this chunk: 1000
-DS clusters: 10 (92506 points)
-CS clusters: 369 (1308 points)
-RS points: 46
+DS clusters: 10 (92555 points)
+CS clusters: 298 (1398 points)
+RS points: 47
 
 --- Processing chunk 95 ---
 Points in this chunk: 1000
-DS clusters: 10 (93492 points)
-CS clusters: 371 (1320 points)
-RS points: 48
+DS clusters: 10 (93541 points)
+CS clusters: 299 (1410 points)
+RS points: 49
 
 --- Processing chunk 96 ---
 Points in this chunk: 1000
-DS clusters: 10 (94469 points)
-CS clusters: 378 (1348 points)
+DS clusters: 10 (94519 points)
+CS clusters: 306 (1438 points)
 RS points: 43
 
 --- Processing chunk 97 ---
 Points in this chunk: 1000
-DS clusters: 10 (95446 points)
-CS clusters: 380 (1366 points)
-RS points: 48
+DS clusters: 10 (95498 points)
+CS clusters: 307 (1453 points)
+RS points: 49
 
 --- Processing chunk 98 ---
 Points in this chunk: 1000
-DS clusters: 10 (96435 points)
-CS clusters: 383 (1380 points)
-RS points: 45
+DS clusters: 10 (96487 points)
+CS clusters: 307 (1463 points)
+RS points: 50
 
 --- Processing chunk 99 ---
 Points in this chunk: 1000
-DS clusters: 10 (97413 points)
-CS clusters: 384 (1393 points)
-RS points: 48
+DS clusters: 10 (97466 points)
+CS clusters: 313 (1490 points)
+RS points: 44
 
 --- Processing chunk 100 ---
 Points in this chunk: 1000
-DS clusters: 10 (98379 points)
-CS clusters: 392 (1433 points)
-RS points: 42
+DS clusters: 10 (98432 points)
+CS clusters: 319 (1524 points)
+RS points: 44
 
 --- Processing chunk 101 ---
 Points in this chunk: 1000
-DS clusters: 10 (99355 points)
-CS clusters: 396 (1453 points)
-RS points: 46
+DS clusters: 10 (99409 points)
+CS clusters: 320 (1542 points)
+RS points: 49
 
 --- Processing chunk 102 ---
 Points in this chunk: 1000
-DS clusters: 10 (100346 points)
-CS clusters: 397 (1459 points)
+DS clusters: 10 (100400 points)
+CS clusters: 321 (1551 points)
 RS points: 49
 
 --- Processing chunk 103 ---
 Points in this chunk: 1000
-DS clusters: 10 (101331 points)
-CS clusters: 398 (1469 points)
+DS clusters: 10 (101385 points)
+CS clusters: 323 (1567 points)
 RS points: 48
 
 --- Processing chunk 104 ---
 Points in this chunk: 1000
-DS clusters: 10 (102323 points)
-CS clusters: 401 (1478 points)
+DS clusters: 10 (102375 points)
+CS clusters: 326 (1578 points)
 RS points: 47
 
 --- Processing chunk 105 ---
 Points in this chunk: 1000
-DS clusters: 10 (103306 points)
-CS clusters: 406 (1497 points)
-RS points: 45
+DS clusters: 10 (103359 points)
+CS clusters: 328 (1593 points)
+RS points: 48
 
 --- Processing chunk 106 ---
 Points in this chunk: 1000
-DS clusters: 10 (104291 points)
-CS clusters: 411 (1512 points)
-RS points: 45
+DS clusters: 10 (104344 points)
+CS clusters: 331 (1609 points)
+RS points: 47
 
 --- Processing chunk 107 ---
 Points in this chunk: 574
-DS clusters: 10 (104856 points)
-CS clusters: 411 (1518 points)
-RS points: 48
+DS clusters: 10 (104909 points)
+CS clusters: 332 (1616 points)
+RS points: 49
 
 === FINAL REPORT ===
 DS clusters: 10
-CS clusters: 387
-RS points: 48
+CS clusters: 308
+RS points: 49
 
 Discard Set (DS) contains 10 clusters:
-  Cluster 8: N=100354, SUM[:3]=[7.99674083e+09 9.66756451e+03 2.84090281e+03], SUMSQ[:3]=[8.34097444e+14 1.56466427e+05 1.37030038e+05]
-  Cluster 3: N=1353, SUM[:3]=[1.28000792e+08 2.12133687e+03 1.15945815e+03], SUMSQ[:3]=[1.56176779e+13 8.24624856e+04 1.53225861e+04]
-  Cluster 5: N=795, SUM[:3]=[4.30232310e+07 3.30542634e+03 2.11549601e+03], SUMSQ[:3]=[3.57630717e+12 1.79587556e+05 1.12777443e+05]
-  Cluster 7: N=197, SUM[:3]=[6.11496900e+06 1.23087108e+02 1.26347383e+02], SUMSQ[:3]=[3.75575480e+11 6.21952315e+02 8.97540239e+02]
-  Cluster 0: N=1864, SUM[:3]=[1.48878655e+08 2.35750158e+03 1.57776671e+03], SUMSQ[:3]=[1.63493794e+13 6.48330437e+04 3.58328493e+04]
-  Cluster 6: N=41, SUM[:3]=[3.17960000e+04 2.67383493e+01 4.29530318e+01], SUMSQ[:3]=[2.71318980e+07 7.33503405e+01 1.78951115e+02]
-  Cluster 9: N=88, SUM[:3]=[1.26676200e+06 2.01853482e+01 2.33709733e+01], SUMSQ[:3]=[3.93457540e+10 1.00071055e+02 1.05058205e+02]
-  Cluster 1: N=34, SUM[:3]=[2.97920000e+04 2.59222007e+01 3.75958412e+01], SUMSQ[:3]=[2.85784560e+07 9.12808652e+01 3.28368593e+02]
-  Cluster 2: N=62, SUM[:3]=[4.92160000e+04 3.86836335e+01 1.61826914e+01], SUMSQ[:3]=[4.67934860e+07 1.66916179e+03 8.54365022e+01]
-  Cluster 4: N=92, SUM[:3]=[2.01519933e+06 3.13576822e+01 4.40748966e+01], SUMSQ[:3]=[1.95992114e+11 2.07685385e+02 2.67546849e+02]
+  Cluster 6: N=100387, SUM[:3]=[7.99681545e+09 9.67546838e+03 2.85764495e+03], SUMSQ[:3]=[8.34100557e+14 1.56511845e+05 1.37047058e+05]
+  Cluster 9: N=107, SUM[:3]=[8.46030000e+04 7.88767697e+01 5.82740817e+01], SUMSQ[:3]=[8.32921950e+07 2.50925555e+02 3.29025566e+02]
+  Cluster 5: N=936, SUM[:3]=[8.27260915e+07 1.41495206e+03 4.82756775e+02], SUMSQ[:3]=[1.08975895e+13 7.27716664e+04 6.56535461e+03]
+  Cluster 0: N=3146, SUM[:3]=[2.45226678e+08 6.23573522e+03 3.95489471e+03], SUMSQ[:3]=[2.53001989e+13 2.44566827e+05 7.92310598e+04]
+  Cluster 2: N=110, SUM[:3]=[2.51197000e+06 2.99625463e+01 3.33286447e+01], SUMSQ[:3]=[1.17187571e+11 1.34017720e+02 1.54516252e+02]
+  Cluster 3: N=50, SUM[:3]=[3.77560000e+04 1.00634856e+01 2.08729385e+01], SUMSQ[:3]=[3.52265900e+07 4.18299556e+01 5.79942316e+01]
+  Cluster 4: N=74, SUM[:3]=[5.58400000e+04 1.19093606e+01 2.53698988e+01], SUMSQ[:3]=[4.99221020e+07 5.39268531e+01 8.49008869e+01]
+  Cluster 1: N=36, SUM[:3]=[3.30390000e+04 2.96036227e+01 3.68697023e+01], SUMSQ[:3]=[3.40155490e+07 1.06908815e+02 3.28603353e+02]
+  Cluster 8: N=22, SUM[:3]=[20111.            57.52218478    20.61688979], SUMSQ[:3]=[2.06286110e+07 2.03437850e+03 2.83049837e+02]
+  Cluster 7: N=65, SUM[:3]=[2.13665900e+06 3.78932746e+01 3.82368856e+01], SUMSQ[:3]=[2.17533895e+11 3.79458169e+02 2.32114911e+02]
 
-Compression Set (CS) contains 387 clusters:
-  Cluster CS_33_3000: N=2, SUM[:3]=[2795.           22.02664864   54.64637566], SUMSQ[:3]=[3.92167700e+06 4.62285964e+02 1.60091695e+03]
-  Cluster CS_38_3000: N=3, SUM[:3]=[4.42800000e+03 4.98118952e-01 2.66233288e+01], SUMSQ[:3]=[6.56556200e+06 8.54328783e-01 6.04342297e+02]
-  Cluster CS_13_4000: N=2, SUM[:3]=[ 2.66500000e+03 -2.38362002e+00 -2.60258329e+00], SUMSQ[:3]=[3.57509300e+06 3.27387093e+00 3.74476617e+00]
-  Cluster CS_41_4000: N=3, SUM[:3]=[6.64200000e+03 2.84165798e+00 2.93746647e+00], SUMSQ[:3]=[1.67427380e+07 4.50498515e+00 9.66696129e+00]
-  Cluster CS_46_4000: N=400, SUM[:3]=[4.43580237e+07 2.14821158e+02 2.62872561e+02], SUMSQ[:3]=[5.37264270e+12 5.83147707e+03 1.68482352e+04]
-  Cluster CS_16_4000: N=2, SUM[:3]=[ 4.00500000e+03 -9.01048690e-01 -2.75879636e-01], SUMSQ[:3]=[8.02967300e+06 1.11774216e+00 6.30107533e-02]
-  Cluster CS_9_4000: N=4, SUM[:3]=[ 2.03760000e+04  1.25396289e+01 -2.06755582e-01], SUMSQ[:3]=[1.11685254e+08 1.97894212e+02 2.47398397e+00]
-  Cluster CS_10_4000: N=4, SUM[:3]=[7.87867381e+04 3.47960145e+00 1.10962784e+01], SUMSQ[:3]=[4.16731798e+09 1.59208919e+01 1.04731992e+02]
-  Cluster CS_40_4000: N=2, SUM[:3]=[1.39090000e+04 5.63570261e-01 5.77273774e+00], SUMSQ[:3]=[9.67392530e+07 3.39658062e+00 2.31929315e+01]
-  Cluster CS_6_4000: N=3, SUM[:3]=[4.71236250e+04 1.91663914e+00 4.32163749e+00], SUMSQ[:3]=[1.04675682e+09 1.14639172e+01 7.03080559e+00]
-  Cluster CS_18_4000: N=15, SUM[:3]=[ 1.34726000e+05 -1.74496733e+01 -9.91751325e+00], SUMSQ[:3]=[1.21080060e+09 2.30643323e+01 2.24195527e+01]
-  Cluster CS_34_4000: N=9, SUM[:3]=[ 8.14400000e+04 -5.60798544e+00 -4.42918903e+00], SUMSQ[:3]=[7.36960540e+08 3.49704328e+00 2.45523937e+00]
-  Cluster CS_32_4000: N=7, SUM[:3]=[ 6.33590000e+04  2.23960888e+00 -1.69396394e-03], SUMSQ[:3]=[5.73567271e+08 1.93753333e+01 3.10840452e+01]
-  Cluster CS_38_4000: N=10, SUM[:3]=[ 9.08870000e+04  2.14176387e-01 -3.23557156e+00], SUMSQ[:3]=[8.26097353e+08 2.46528658e+00 7.49006873e+00]
-  Cluster CS_5_4000: N=9, SUM[:3]=[ 8.15100000e+04 -3.24951237e+00  2.34934028e+00], SUMSQ[:3]=[7.38230052e+08 2.10467048e+00 5.74778760e+00]
-  Cluster CS_37_4000: N=2, SUM[:3]=[ 1.80530000e+04 -1.19770396e+00  1.16576445e+00], SUMSQ[:3]=[1.62955405e+08 7.17247385e-01 6.79503378e-01]
-  Cluster CS_26_4000: N=8, SUM[:3]=[ 7.23220000e+04 -1.00895396e+01 -8.84724464e+00], SUMSQ[:3]=[6.53809340e+08 1.50600246e+01 1.45354446e+01]
-  Cluster CS_21_4000: N=4, SUM[:3]=[ 3.63460000e+04  1.95567816e-01 -2.05390605e+00], SUMSQ[:3]=[3.30259478e+08 3.45856150e+00 1.67789532e+00]
-  Cluster CS_14_4000: N=8, SUM[:3]=[ 7.30500000e+04 -5.22015408e+00  3.29152113e+00], SUMSQ[:3]=[6.67042584e+08 4.22678943e+00 1.78946414e+01]
-  Cluster CS_7_4000: N=6, SUM[:3]=[ 5.48260000e+04  2.06134595e+00 -3.35179430e+00], SUMSQ[:3]=[5.01000272e+08 8.46617756e-01 2.40753805e+00]
-  Cluster CS_17_4000: N=5, SUM[:3]=[4.56700000e+04 1.61802724e+01 1.38162951e+02], SUMSQ[:3]=[4.17150690e+08 9.78595696e+01 6.30428815e+03]
-  Cluster CS_14_6000: N=2, SUM[:3]=[2.04790000e+04 5.88769007e+00 6.13176346e+00], SUMSQ[:3]=[2.09694721e+08 1.73324472e+01 1.87992616e+01]
-  Cluster CS_42_7000: N=2, SUM[:3]=[ 1.96230000e+04 -1.65273994e+00 -6.15800295e-01], SUMSQ[:3]=[1.93563549e+08 1.39352043e+00 3.23549653e-01]
-  Cluster CS_37_7000: N=2, SUM[:3]=[1.94940000e+04 5.56812704e+00 2.49180102e+00], SUMSQ[:3]=[1.90576196e+08 2.51328241e+01 1.50760744e+01]
-  Cluster CS_14_7000: N=2, SUM[:3]=[1.85600000e+04 1.04156251e+01 1.09903663e+01], SUMSQ[:3]=[1.72243528e+08 1.23770474e+02 1.20449511e+02]
-  Cluster CS_41_7000: N=2, SUM[:3]=[2.15310000e+04 2.93150502e+00 8.39413404e-02], SUMSQ[:3]=[2.31899165e+08 1.35522301e+01 2.35076484e+00]
-  Cluster CS_9_7000: N=24, SUM[:3]=[2.74614818e+06 4.91362323e+01 1.55602985e+01], SUMSQ[:3]=[3.56314040e+11 8.13959394e+02 4.67670281e+02]
-  Cluster CS_1_8000: N=2, SUM[:3]=[3235.          16.4381634   42.9261193], SUMSQ[:3]=[5.43422500e+06 2.88945010e+02 1.88462606e+03]
-  Cluster CS_2_8000: N=2, SUM[:3]=[ 2.35110000e+04 -2.15058553e+00  1.95094675e-01], SUMSQ[:3]=[2.76383561e+08 2.35973332e+00 3.34606711e-01]
-  Cluster CS_40_8000: N=3, SUM[:3]=[1.16596625e+05 5.40689525e+01 1.69333489e+01], SUMSQ[:3]=[8.00302820e+09 3.10428873e+03 3.77732801e+02]
-  Cluster CS_29_9000: N=2, SUM[:3]=[2872.            5.71402474    9.28288114], SUMSQ[:3]=[4.12981000e+06 3.54303705e+01 1.02135747e+02]
-  Cluster CS_9_9000: N=3, SUM[:3]=[33898.            79.6340934    230.76063507], SUMSQ[:3]=[3.83683714e+08 6.65910106e+03 5.30257085e+04]
-  Cluster CS_40_9000: N=3, SUM[:3]=[3.90120000e+04 1.28362322e+00 2.00980704e+01], SUMSQ[:3]=[5.09160770e+08 2.47381884e+00 3.80975473e+02]
-  Cluster CS_7_9000: N=2, SUM[:3]=[2.65230000e+04 1.50207916e+01 1.92954273e+01], SUMSQ[:3]=[3.52773005e+08 2.46362887e+02 2.69428002e+02]
-  Cluster CS_20_9000: N=2, SUM[:3]=[ 3.07050000e+04 -3.95174503e-01 -6.65500164e-02], SUMSQ[:3]=[4.71564977e+08 1.35880256e+00 1.56085492e+00]
-  Cluster CS_47_9000: N=2, SUM[:3]=[ 3.23200000e+04 -1.34871751e-01  5.01393917e+01], SUMSQ[:3]=[5.22557650e+08 5.48665841e-01 2.36752342e+03]
-  Cluster CS_2_9000: N=2, SUM[:3]=[3.25650000e+04 2.84001207e+01 1.57108393e+01], SUMSQ[:3]=[5.30239613e+08 4.53229685e+02 1.50591174e+02]
-  Cluster CS_43_11000: N=2, SUM[:3]=[ 1.65140000e+04 -1.70890391e+00 -7.31212914e-01], SUMSQ[:3]=[1.36374148e+08 1.54353892e+00 2.20208551e+00]
-  Cluster CS_3_11000: N=3, SUM[:3]=[3.07210000e+04 4.40498710e-01 1.46222174e+00], SUMSQ[:3]=[3.14712829e+08 1.35594558e+00 1.05403222e+01]
-  Cluster CS_32_11000: N=3, SUM[:3]=[ 4.31010000e+04  5.39609332e+01 -8.22334409e-01], SUMSQ[:3]=[6.21094569e+08 2.58224027e+03 1.50281519e+00]
-  Cluster CS_4_11000: N=2, SUM[:3]=[ 3.15830000e+04 -2.91737711e+00 -1.99772483e+00], SUMSQ[:3]=[4.98742957e+08 4.27096760e+00 2.02530866e+00]
-  Cluster CS_45_11000: N=4, SUM[:3]=[6.83690000e+04 2.31644572e+01 7.98344072e+01], SUMSQ[:3]=[1.16901884e+09 3.32224495e+02 5.13458937e+03]
-  Cluster CS_8_11000: N=2, SUM[:3]=[3.86330000e+04 6.47130758e+00 1.14281875e+00], SUMSQ[:3]=[7.46539357e+08 4.08372473e+01 3.40853993e+00]
-  Cluster CS_44_12000: N=2, SUM[:3]=[2.01010000e+04 1.47003308e+01 2.11697669e+01], SUMSQ[:3]=[2.02109561e+08 2.43441188e+02 4.75654187e+02]
-  Cluster CS_24_12000: N=2, SUM[:3]=[3.42910000e+04 1.91197944e+00 1.65472656e+00], SUMSQ[:3]=[5.89847353e+08 6.92682934e+00 5.93629135e+00]
-  Cluster CS_2_12000: N=2, SUM[:3]=[3.25360000e+04 7.07356405e+00 2.50172524e+01], SUMSQ[:3]=[5.29295986e+08 2.53188392e+01 4.27782177e+02]
-  Cluster CS_17_12000: N=3, SUM[:3]=[1.11714500e+05 1.43371697e+01 2.58330552e+00], SUMSQ[:3]=[6.16608450e+09 2.05251054e+02 5.67496067e+00]
-  Cluster CS_8_12000: N=2, SUM[:3]=[ 3.91940000e+04 -8.49860758e-01 -1.13233837e+00], SUMSQ[:3]=[7.68107290e+08 3.88783762e-01 6.73062856e-01]
-  Cluster CS_45_12000: N=2, SUM[:3]=[ 4.05210000e+04 -2.37398446e+00 -1.87298578e+00], SUMSQ[:3]=[8.21608533e+08 2.83381458e+00 1.91143993e+00]
-  Cluster CS_42_12000: N=7, SUM[:3]=[1.44297000e+05 6.28908193e+01 3.75014267e+01], SUMSQ[:3]=[2.97451790e+09 6.87432689e+02 2.43902478e+02]
-  Cluster CS_19_12000: N=3, SUM[:3]=[6.18390000e+04 9.17335892e+00 6.40108788e+00], SUMSQ[:3]=[1.27468735e+09 3.28813126e+01 1.48912221e+01]
-  Cluster CS_23_12000: N=3, SUM[:3]=[6.18520000e+04 5.66078906e+01 4.13259702e+01], SUMSQ[:3]=[1.27522341e+09 1.41578515e+03 6.75651079e+02]
-  Cluster CS_49_12000: N=3, SUM[:3]=[61848.           396.47109986   178.39556503], SUMSQ[:3]=[1.27505841e+09 7.06209860e+04 1.18137565e+04]
-  Cluster CS_41_13000: N=2, SUM[:3]=[ 4.35480000e+04 -6.63873091e-01 -2.40778852e+00], SUMSQ[:3]=[9.48225402e+08 7.08895913e-01 2.98217475e+00]
-  Cluster CS_8_14000: N=2, SUM[:3]=[3.53410000e+04 3.60023193e+01 2.72342790e+01], SUMSQ[:3]=[6.25273141e+08 9.17867683e+02 8.41868626e+02]
-  Cluster CS_3_14000: N=2, SUM[:3]=[3.43980000e+04 4.49576974e-02 6.56928480e-01], SUMSQ[:3]=[5.91611300e+08 7.57179049e-01 2.29798293e+00]
-  Cluster CS_9_14000: N=4, SUM[:3]=[ 8.27450000e+04 -7.62613200e-01 -2.56408662e+00], SUMSQ[:3]=[1.73375819e+09 1.20058077e+00 1.81033059e+00]
-  Cluster CS_17_14000: N=6, SUM[:3]=[ 1.34580000e+05  7.74198826e+00 -4.43873885e+00], SUMSQ[:3]=[3.01965711e+09 5.73136815e+01 5.89598164e+00]
-  Cluster CS_7_14000: N=2, SUM[:3]=[ 4.36570000e+04 -1.94418311e+00 -1.87605929e+00], SUMSQ[:3]=[9.52966825e+08 2.07685455e+00 1.81110624e+00]
-  Cluster CS_0_14000: N=2, SUM[:3]=[ 4.68520000e+04 -2.15542728e+00 -2.40723127e+00], SUMSQ[:3]=[1.09758233e+09 2.35050277e+00 3.03860143e+00]
-  Cluster CS_31_15000: N=2, SUM[:3]=[ 4.52160000e+04 -1.54025999e+00 -1.95184052e+00], SUMSQ[:3]=[1.02339246e+09 1.57408571e+00 2.14733436e+00]
-  Cluster CS_27_15000: N=2, SUM[:3]=[4.71020000e+04 8.63353944e+00 3.42175728e+00], SUMSQ[:3]=[1.10938325e+09 8.46410096e+01 1.86521458e+01]
-  Cluster CS_41_15000: N=2, SUM[:3]=[4.78280000e+04 4.17860723e+00 1.75437915e+00], SUMSQ[:3]=[1.14392815e+09 9.09005112e+00 8.96770649e+00]
-  Cluster CS_42_15000: N=2, SUM[:3]=[ 4.83990000e+04 -2.00763643e-02 -2.03651273e+00], SUMSQ[:3]=[1.17151661e+09 1.08880348e-01 2.35650643e+00]
-  Cluster CS_35_15000: N=3, SUM[:3]=[7.41720000e+04 1.67242759e+00 1.25305581e+00], SUMSQ[:3]=[1.83395731e+09 2.22054910e+01 1.13000229e+01]
-  Cluster CS_7_15000: N=2, SUM[:3]=[5.14450000e+04 5.20239849e+01 1.80220103e+01], SUMSQ[:3]=[1.32329405e+09 2.08523823e+03 1.92951349e+02]
-  Cluster CS_49_16000: N=2, SUM[:3]=[ 4.50230000e+04  1.05092227e-01 -1.58805043e+00], SUMSQ[:3]=[1.01414578e+09 1.32793840e+00 1.27730739e+00]
-  Cluster CS_30_16000: N=2, SUM[:3]=[5.14510000e+04 6.28426128e+01 1.90895136e+01], SUMSQ[:3]=[1.32360278e+09 3.93502587e+03 3.65639654e+02]
-  Cluster CS_25_16000: N=2, SUM[:3]=[ 5.17130000e+04 -9.56447631e-01  1.38746250e+00], SUMSQ[:3]=[1.33711719e+09 4.62186035e-01 7.23588416e+00]
-  Cluster CS_26_17000: N=2, SUM[:3]=[ 3.04470000e+04 -8.21142778e-01 -4.88543272e-01], SUMSQ[:3]=[4.66825217e+08 5.17087833e-01 1.50875698e-01]
-  Cluster CS_39_17000: N=2, SUM[:3]=[ 5.21960000e+04 -1.65017396e+00  6.94789767e-01], SUMSQ[:3]=[1.36327409e+09 1.42395459e+00 2.46929880e+00]
-  Cluster CS_17_17000: N=2, SUM[:3]=[ 5.41870000e+04  2.93496597e+00 -1.34562385e+00], SUMSQ[:3]=[1.46858690e+09 1.57928240e+01 9.09042045e-01]
-  Cluster CS_40_17000: N=2, SUM[:3]=[ 5.60900000e+04 -6.65001061e-01 -8.24151307e-01], SUMSQ[:3]=[1.57309026e+09 4.89370498e-01 3.93036341e-01]
-  Cluster CS_38_18000: N=2, SUM[:3]=[ 3.88780000e+04 -1.06112891e+00 -1.53636581e+00], SUMSQ[:3]=[7.56257474e+08 1.69892697e+00 1.21194583e+00]
-  Cluster CS_39_18000: N=2, SUM[:3]=[ 4.26050000e+04  5.86313784e-01 -2.44609284e+00], SUMSQ[:3]=[9.07890233e+08 2.05662987e+00 2.99536340e+00]
-  Cluster CS_2_18000: N=2, SUM[:3]=[ 5.17230000e+04 -1.73906809e+00  2.31778236e+00], SUMSQ[:3]=[1.33763438e+09 1.65065312e+00 5.13896874e+00]
-  Cluster CS_7_18000: N=2, SUM[:3]=[ 5.89810000e+04 -1.39337319e+00 -7.61403233e-01], SUMSQ[:3]=[1.73979962e+09 1.00833212e+00 1.07211714e+00]
-  Cluster CS_47_18000: N=4, SUM[:3]=[ 1.16850000e+05 -2.60631561e-01  6.36119798e-01], SUMSQ[:3]=[3.41348069e+09 1.96457294e+00 4.73779272e+00]
-  Cluster CS_20_18000: N=2, SUM[:3]=[6.01030000e+04 5.92121620e+01 4.30389843e+01], SUMSQ[:3]=[1.80619553e+09 2.14520874e+03 9.41743688e+02]
-  Cluster CS_16_21000: N=2, SUM[:3]=[ 4.87000000e+04 -2.26562852e+00 -2.24100316e+00], SUMSQ[:3]=[1.18753780e+09 2.74235145e+00 2.56907543e+00]
-  Cluster CS_21_21000: N=3, SUM[:3]=[ 8.74480000e+04  1.18909710e+00 -3.04241341e+00], SUMSQ[:3]=[2.54962731e+09 8.66803688e-01 3.53660393e+00]
-  Cluster CS_32_21000: N=2, SUM[:3]=[ 6.37690000e+04 -9.41699326e-01  4.61642623e-01], SUMSQ[:3]=[2.03341496e+09 4.89859443e-01 4.81170260e-01]
-  Cluster CS_48_21000: N=3, SUM[:3]=[ 9.84660000e+04 -1.36478323e+00  3.11815165e+01], SUMSQ[:3]=[3.23324212e+09 2.23398246e+00 5.86831151e+02]
-  Cluster CS_23_21000: N=2, SUM[:3]=[ 6.64120000e+04 -1.36267239e+00 -6.30430579e-02], SUMSQ[:3]=[2.20542052e+09 9.63841353e-01 1.00533264e+00]
-  Cluster CS_49_21000: N=2, SUM[:3]=[6.58990000e+04 1.91754466e+00 7.52215731e+00], SUMSQ[:3]=[2.17133911e+09 1.83885764e+00 5.41889575e+01]
-  Cluster CS_47_21000: N=2, SUM[:3]=[6.61770000e+04 7.72705704e-01 2.46320057e+00], SUMSQ[:3]=[2.18972343e+09 1.23687825e+00 1.14063320e+01]
-  Cluster CS_45_21000: N=3, SUM[:3]=[1.20236200e+05 5.76925271e+01 3.47870451e+01], SUMSQ[:3]=[5.06102479e+09 1.93831707e+03 8.95515966e+02]
-  Cluster CS_14_21000: N=2, SUM[:3]=[6.72540000e+04 1.73498442e+01 3.15536875e+01], SUMSQ[:3]=[2.26155060e+09 3.21277798e+02 1.07245836e+03]
-  Cluster CS_0_21000: N=2, SUM[:3]=[6.81650000e+04 1.91763821e+01 7.10879593e+01], SUMSQ[:3]=[2.32329312e+09 2.23020017e+02 4.59874316e+03]
-  Cluster CS_2_23000: N=2, SUM[:3]=[4.21670000e+04 5.02119339e+00 6.60149255e+00], SUMSQ[:3]=[8.89446557e+08 4.36836559e+01 4.94123915e+01]
-  Cluster CS_24_23000: N=2, SUM[:3]=[ 4.58000000e+04 -1.28868141e+00 -2.57778680e+00], SUMSQ[:3]=[1.05113986e+09 1.62897524e+00 3.47785699e+00]
-  Cluster CS_45_23000: N=2, SUM[:3]=[7.13710000e+04 3.12694788e-01 4.06048336e+01], SUMSQ[:3]=[2.54712042e+09 3.11721103e+00 1.77912185e+03]
-  Cluster CS_20_23000: N=4, SUM[:3]=[ 1.47413000e+05 -3.05643159e+00 -2.04290813e+00], SUMSQ[:3]=[5.43285882e+09 2.96660765e+00 4.91461525e+00]
-  Cluster CS_25_23000: N=3, SUM[:3]=[1.31790444e+05 3.55363033e+00 5.14531044e-01], SUMSQ[:3]=[6.10002283e+09 8.99047054e+00 1.30395990e+00]
-  Cluster CS_7_23000: N=3, SUM[:3]=[ 1.10483000e+05  3.86988044e-01 -3.16389054e-01], SUMSQ[:3]=[4.06886777e+09 8.04870108e+00 2.29975127e+00]
-  Cluster CS_40_23000: N=2, SUM[:3]=[ 7.36950000e+04 -1.32086124e+00 -1.36291787e+00], SUMSQ[:3]=[2.71548852e+09 1.58634433e+00 1.42936118e+00]
-  Cluster CS_39_24000: N=3, SUM[:3]=[1.10007000e+05 8.25967417e+01 1.10140021e+01], SUMSQ[:3]=[4.03543110e+09 5.78859939e+03 8.35457457e+01]
-  Cluster CS_20_24000: N=5, SUM[:3]=[1.99972000e+05 1.91449226e+00 6.36296058e+00], SUMSQ[:3]=[8.06573012e+09 4.29267783e+00 1.89025119e+01]
-  Cluster CS_7_24000: N=2, SUM[:3]=[7.62300000e+04 1.92015237e+01 4.52569203e+01], SUMSQ[:3]=[2.90600047e+09 3.46470044e+02 2.13123298e+03]
-  Cluster CS_30_24000: N=4, SUM[:3]=[ 1.53778000e+05 -2.18263557e+00  2.14572138e+00], SUMSQ[:3]=[5.91204755e+09 2.34980624e+00 1.58747733e+01]
-  Cluster CS_47_25000: N=3, SUM[:3]=[1.87915167e+05 3.63361466e+01 2.34386176e+01], SUMSQ[:3]=[1.69975412e+10 1.46764530e+03 6.38442817e+02]
-  Cluster CS_48_25000: N=2, SUM[:3]=[ 7.73690000e+04  1.06986880e+00 -1.14619058e+00], SUMSQ[:3]=[2.99312850e+09 6.17251789e+00 6.73504032e-01]
-  Cluster CS_38_26000: N=2, SUM[:3]=[ 7.06930000e+04  1.57304204e+00 -1.02109164e-01], SUMSQ[:3]=[2.49875018e+09 1.51954853e+00 2.24287182e-01]
-  Cluster CS_42_26000: N=2, SUM[:3]=[ 7.44910000e+04  1.05521977e+00 -2.04969633e+00], SUMSQ[:3]=[2.77494558e+09 3.94871204e+00 2.13216825e+00]
-  Cluster CS_14_26000: N=2, SUM[:3]=[ 7.57010000e+04 -8.26119751e-01  1.74867137e+01], SUMSQ[:3]=[2.86681196e+09 3.68786268e-01 3.18915094e+02]
-  Cluster CS_48_26000: N=3, SUM[:3]=[ 1.20497000e+05  2.58990771e+00 -1.18627363e+00], SUMSQ[:3]=[4.84025997e+09 4.21203235e+00 2.22745952e+00]
-  Cluster CS_47_26000: N=3, SUM[:3]=[ 1.95907333e+05 -9.55749585e-01 -9.69479109e-02], SUMSQ[:3]=[1.65291535e+10 5.10387874e-01 1.17545707e+00]
-  Cluster CS_25_26000: N=2, SUM[:3]=[ 8.11030000e+04 -9.16063547e-01 -2.10463226e+00], SUMSQ[:3]=[3.28886693e+09 7.24758453e-01 2.79205301e+00]
-  Cluster CS_14_27000: N=4, SUM[:3]=[ 1.76298000e+05 -4.35627925e+00 -3.82611996e+00], SUMSQ[:3]=[7.96145673e+09 5.71171723e+00 4.89752415e+00]
-  Cluster CS_45_27000: N=3, SUM[:3]=[1.24989000e+05 7.28472450e+00 1.55583495e+00], SUMSQ[:3]=[5.21033998e+09 6.83725605e+01 5.72259433e+00]
-  Cluster CS_48_27000: N=3, SUM[:3]=[ 1.26111000e+05 -1.93140507e-01  1.09418032e+01], SUMSQ[:3]=[5.30180829e+09 3.30941407e+00 1.40155799e+02]
-  Cluster CS_41_27000: N=3, SUM[:3]=[1.26269000e+05 1.48022407e+00 2.11833915e+00], SUMSQ[:3]=[5.31507828e+09 4.46688238e+00 1.07466848e+01]
-  Cluster CS_47_27000: N=2, SUM[:3]=[ 8.47260000e+04 -1.19299266e+00 -2.05416185e+00], SUMSQ[:3]=[3.58924767e+09 8.58916185e-01 2.52629946e+00]
-  Cluster CS_0_27000: N=2, SUM[:3]=[8.47300000e+04 4.68483037e+00 1.17483513e+01], SUMSQ[:3]=[3.58958647e+09 3.10039230e+01 1.68210003e+02]
-  Cluster CS_6_28000: N=2, SUM[:3]=[ 3.37150000e+04 -1.84947867e+00 -2.78123963e+00], SUMSQ[:3]=[5.68577077e+08 3.57266688e+00 4.46385070e+00]
-  Cluster CS_9_28000: N=2, SUM[:3]=[ 8.51140000e+04 -2.91691691e+00 -6.01378918e-01], SUMSQ[:3]=[3.62227412e+09 4.74891061e+00 5.08881963e+00]
-  Cluster CS_35_28000: N=3, SUM[:3]=[ 1.29837000e+05 -1.08701709e+00 -9.69918743e-01], SUMSQ[:3]=[5.61972826e+09 1.23375769e+00 4.31016700e-01]
-  Cluster CS_15_28000: N=3, SUM[:3]=[1.29804000e+05 1.27628151e+01 9.09519875e+00], SUMSQ[:3]=[5.61649909e+09 1.95512872e+02 8.74781460e+01]
-  Cluster CS_1_30000: N=2, SUM[:3]=[4.01900000e+03 6.16195142e-01 4.67316209e+00], SUMSQ[:3]=[8.08640500e+06 2.04113495e-01 2.02185205e+01]
-  Cluster CS_27_30000: N=2, SUM[:3]=[7.46610000e+04 2.25001667e+01 2.25782870e+01], SUMSQ[:3]=[2.78724338e+09 5.11786547e+02 5.62992877e+02]
-  Cluster CS_9_30000: N=2, SUM[:3]=[ 7.76490000e+04  2.58223498e+00 -2.66619235e-01], SUMSQ[:3]=[3.01468998e+09 4.25625786e+00 7.08239957e-01]
-  Cluster CS_30_30000: N=2, SUM[:3]=[8.42920000e+04 1.62882661e+01 6.83209050e+00], SUMSQ[:3]=[3.55287483e+09 3.21277593e+02 7.89652431e+01]
-  Cluster CS_17_30000: N=2, SUM[:3]=[ 8.81850000e+04  1.05070084e+00 -1.21462560e+00], SUMSQ[:3]=[3.89167451e+09 5.52978833e-01 7.37967793e-01]
-  Cluster CS_7_30000: N=2, SUM[:3]=[ 8.64940000e+04  8.22558463e-01 -9.41693984e-01], SUMSQ[:3]=[3.74067373e+09 1.66278682e+00 7.12374419e-01]
-  Cluster CS_42_30000: N=2, SUM[:3]=[9.00710000e+04 1.53083923e+01 2.12297445e+01], SUMSQ[:3]=[4.05639252e+09 2.64272125e+02 4.38843374e+02]
-  Cluster CS_2_30000: N=12, SUM[:3]=[8.45519000e+05 3.56804194e+02 3.64043149e+01], SUMSQ[:3]=[7.08470950e+10 1.09490970e+05 9.72069562e+02]
-  Cluster CS_31_30000: N=3, SUM[:3]=[ 1.37657000e+05 -8.90103757e-01 -2.57599536e+00], SUMSQ[:3]=[6.31701848e+09 1.34129712e+00 3.11996036e+00]
-  Cluster CS_8_32000: N=2, SUM[:3]=[9.61230000e+04 2.67855851e+01 8.07623377e+01], SUMSQ[:3]=[4.61993808e+09 7.28669118e+02 6.13803796e+03]
-  Cluster CS_15_32000: N=2, SUM[:3]=[ 9.89560000e+04 -4.07618150e-01 -1.44802606e+00], SUMSQ[:3]=[4.89623828e+09 4.84817424e-01 1.08897624e+00]
-  Cluster CS_31_33000: N=2, SUM[:3]=[ 9.11240000e+04  8.75751853e-01 -9.74906236e-01], SUMSQ[:3]=[4.15179489e+09 7.81193055e+00 5.47829661e-01]
-  Cluster CS_47_33000: N=2, SUM[:3]=[ 9.51330000e+04 -1.02871677e+00  1.19791242e+00], SUMSQ[:3]=[4.52805030e+09 8.60746748e-01 9.02716736e-01]
-  Cluster CS_42_33000: N=3, SUM[:3]=[1.43501000e+05 4.56909341e+00 3.49925542e+00], SUMSQ[:3]=[6.86433571e+09 4.76122352e+01 3.48350863e+01]
-  Cluster CS_48_33000: N=5, SUM[:3]=[ 2.52495000e+05 -1.04853532e+00 -6.93909647e-01], SUMSQ[:3]=[1.27509109e+10 3.04308162e+00 5.94971730e+00]
-  Cluster CS_0_33000: N=4, SUM[:3]=[ 2.02071000e+05 -4.10508567e+00  4.41103107e+00], SUMSQ[:3]=[1.02082504e+10 4.64323103e+00 6.59686025e+01]
-  Cluster CS_45_33000: N=2, SUM[:3]=[ 1.01012000e+05 -2.26575232e+00  1.21808956e+01], SUMSQ[:3]=[5.10174382e+09 2.67423811e+00 1.65915368e+02]
-  Cluster CS_23_33000: N=4, SUM[:3]=[ 2.03108000e+05  5.26553452e-01 -8.52747261e-01], SUMSQ[:3]=[1.03134363e+10 6.98075177e+00 4.53612215e+00]
-  Cluster CS_17_33000: N=3, SUM[:3]=[ 1.53162000e+05 -2.30495170e+00 -5.18139303e-01], SUMSQ[:3]=[7.81965374e+09 2.72533577e+00 3.71032153e+00]
-  Cluster CS_4_35000: N=3, SUM[:3]=[ 1.56045000e+05 -2.72378016e+00 -5.64082622e-01], SUMSQ[:3]=[8.12068577e+09 2.82812373e+00 2.76709265e+00]
-  Cluster CS_45_35000: N=2, SUM[:3]=[1.04358000e+05 1.39701200e+00 1.11580259e+00], SUMSQ[:3]=[5.44618053e+09 9.76950006e-01 1.95629933e+00]
-  Cluster CS_30_35000: N=3, SUM[:3]=[1.57978000e+05 5.86057872e-01 1.02313632e+00], SUMSQ[:3]=[8.31922078e+09 1.94304775e+00 1.44067829e+00]
-  Cluster CS_15_35000: N=2, SUM[:3]=[ 1.05635000e+05 -1.22776014e+00  1.18118703e-01], SUMSQ[:3]=[5.57937665e+09 7.68340031e-01 1.06913667e+00]
-  Cluster CS_49_35000: N=6, SUM[:3]=[3.24500000e+05 9.41133637e+01 1.87190353e+02], SUMSQ[:3]=[1.75518242e+10 9.58335890e+03 3.08217496e+04]
-  Cluster CS_2_35000: N=4, SUM[:3]=[ 2.15262000e+05 -8.28950785e-01 -2.11117089e-01], SUMSQ[:3]=[1.15844323e+10 8.21683020e+00 1.35568476e+01]
-  Cluster CS_48_35000: N=5, SUM[:3]=[ 2.69089000e+05  1.35116100e+00 -1.42582129e+00], SUMSQ[:3]=[1.44817781e+10 1.93238220e+01 4.96374278e+00]
-  Cluster CS_49_37000: N=2, SUM[:3]=[9.08340000e+04 5.68408948e+00 1.48843951e+01], SUMSQ[:3]=[4.12765922e+09 2.39679869e+01 1.57676230e+02]
-  Cluster CS_25_37000: N=2, SUM[:3]=[1.13348000e+05 1.69072710e-01 3.00074404e+00], SUMSQ[:3]=[6.42390222e+09 1.96369282e-02 5.60687875e+00]
-  Cluster CS_22_37000: N=2, SUM[:3]=[ 1.13907000e+05 -7.27863133e-01 -3.61184299e-01], SUMSQ[:3]=[6.48748434e+09 1.58827423e+00 1.31610605e+00]
-  Cluster CS_23_37000: N=2, SUM[:3]=[ 1.13795000e+05  3.54096927e-02 -7.89802551e-01], SUMSQ[:3]=[6.47465515e+09 6.26923168e-04 3.11894035e-01]
-  Cluster CS_0_37000: N=2, SUM[:3]=[ 1.14239000e+05 -6.51290834e-01  3.63851786e-02], SUMSQ[:3]=[6.52527566e+09 2.60236192e-01 1.42287014e+00]
-  Cluster CS_6_38000: N=2, SUM[:3]=[ 9.61970000e+04  3.80039132e+00 -2.30253220e+00], SUMSQ[:3]=[4.62964818e+09 2.92689546e+01 2.66318019e+00]
-  Cluster CS_44_38000: N=2, SUM[:3]=[1.07999000e+05 3.69223499e+00 8.08569920e+00], SUMSQ[:3]=[5.83458552e+09 2.48749869e+01 5.03570794e+01]
-  Cluster CS_1_38000: N=2, SUM[:3]=[ 1.08451000e+05  9.03645635e-01 -5.87207325e-01], SUMSQ[:3]=[5.88080970e+09 2.69388340e+00 4.98108292e-01]
-  Cluster CS_41_38000: N=2, SUM[:3]=[ 1.12600000e+05 -2.36791468e+00  1.72021890e+00], SUMSQ[:3]=[6.34794152e+09 3.06356814e+00 1.02867540e+01]
-  Cluster CS_3_38000: N=2, SUM[:3]=[1.15299000e+05 2.63566166e-01 4.65900570e+00], SUMSQ[:3]=[6.64749681e+09 3.52704542e-01 2.47387070e+01]
-  Cluster CS_27_40000: N=2, SUM[:3]=[ 1.18836000e+05 -3.06794047e-01 -7.07902253e-01], SUMSQ[:3]=[7.06413747e+09 1.31119683e+00 1.44714313e+00]
-  Cluster CS_45_40000: N=2, SUM[:3]=[ 1.19338000e+05  8.96013979e-03 -4.72793162e-01], SUMSQ[:3]=[7.12080511e+09 8.87600327e-05 1.37572586e+00]
-  Cluster CS_6_41000: N=2, SUM[:3]=[8.43850000e+04 4.76570749e+00 3.31404424e+00], SUMSQ[:3]=[3.56104692e+09 3.31388914e+01 2.01305594e+01]
-  Cluster CS_38_41000: N=2, SUM[:3]=[ 1.15351000e+05 -1.90145016e-01  2.30684280e-02], SUMSQ[:3]=[6.65294021e+09 2.46037003e+00 1.14368430e+00]
-  Cluster CS_31_41000: N=3, SUM[:3]=[ 1.78330000e+05 -1.51088780e+00 -1.05569696e+00], SUMSQ[:3]=[1.06058517e+10 1.11406191e+00 8.25824996e-01]
-  Cluster CS_14_41000: N=2, SUM[:3]=[ 1.18514000e+05  6.38244212e+00 -6.58430219e-01], SUMSQ[:3]=[7.02280532e+09 5.41958869e+01 1.01572566e+00]
-  Cluster CS_47_41000: N=3, SUM[:3]=[ 1.83109000e+05  1.50501335e+00 -2.13018832e+00], SUMSQ[:3]=[1.11763059e+10 3.91182053e+00 1.82659279e+00]
-  Cluster CS_41_41000: N=2, SUM[:3]=[ 1.24018000e+05 -1.56828070e+00 -1.38311914e+00], SUMSQ[:3]=[7.69059171e+09 1.23198902e+00 1.05103464e+00]
-  Cluster CS_2_41000: N=2, SUM[:3]=[1.24272000e+05 4.08662915e+00 6.08626187e-01], SUMSQ[:3]=[7.72187733e+09 8.36002372e+00 3.35610514e+00]
-  Cluster CS_45_42000: N=2, SUM[:3]=[ 1.26250000e+05 -2.20739335e+00  1.27686739e-01], SUMSQ[:3]=[7.96953384e+09 2.55780678e+00 3.90569491e+00]
-  Cluster CS_9_42000: N=2, SUM[:3]=[1.26305000e+05 2.62915289e+00 1.17186949e+01], SUMSQ[:3]=[7.97647652e+09 1.73483867e+01 8.76744957e+01]
-  Cluster CS_30_42000: N=2, SUM[:3]=[ 1.26330000e+05  6.96819627e+00 -3.34140420e-01], SUMSQ[:3]=[7.97963445e+09 5.59916393e+01 2.88715565e+00]
-  Cluster CS_40_42000: N=2, SUM[:3]=[1.26332000e+05 8.47918121e+00 7.84771219e-01], SUMSQ[:3]=[7.97988711e+09 7.18203820e+01 3.97465808e-01]
-  Cluster CS_20_42000: N=2, SUM[:3]=[ 1.26635000e+05 -1.66210067e+00 -1.59033936e+00], SUMSQ[:3]=[8.01821161e+09 1.38150699e+00 1.41045442e+00]
-  Cluster CS_7_42000: N=2, SUM[:3]=[ 1.26640000e+05 -1.70707983e+00 -1.09245166e+00], SUMSQ[:3]=[8.01884480e+09 1.47520257e+00 6.02847764e-01]
-  Cluster CS_27_43000: N=2, SUM[:3]=[1.29137000e+05 3.10145680e+01 2.16933169e+02], SUMSQ[:3]=[8.33866947e+09 1.02885226e+03 4.73809310e+04]
-  Cluster CS_0_43000: N=3, SUM[:3]=[ 1.92829000e+05 -8.52919191e-01  3.11109280e+00], SUMSQ[:3]=[1.23944013e+10 4.33615716e+00 2.19865511e+01]
-  Cluster CS_37_44000: N=2, SUM[:3]=[4.96080000e+04 1.48116410e+00 1.10426564e+01], SUMSQ[:3]=[1.23089453e+09 4.77268942e+00 1.05949234e+02]
-  Cluster CS_44_44000: N=2, SUM[:3]=[ 6.46590000e+04 -8.20044704e-01 -1.92330068e+00], SUMSQ[:3]=[2.09105554e+09 5.47207044e-01 2.77923104e+00]
-  Cluster CS_7_44000: N=2, SUM[:3]=[ 1.30691000e+05 -3.41341704e-01  2.65817046e-01], SUMSQ[:3]=[8.54170498e+09 6.16648490e-02 1.64146500e+00]
-  Cluster CS_15_44000: N=2, SUM[:3]=[ 1.30781000e+05 -1.29488605e+00 -8.70249271e-01], SUMSQ[:3]=[8.55209779e+09 8.65438076e-01 1.88391986e+00]
-  Cluster CS_20_44000: N=4, SUM[:3]=[ 2.62975000e+05 -1.88967705e-01  7.24641296e+00], SUMSQ[:3]=[1.72894573e+10 1.02591438e+01 9.61573319e+01]
-  Cluster CS_40_44000: N=2, SUM[:3]=[1.31717000e+05 4.35302103e+00 2.58947134e-01], SUMSQ[:3]=[8.67499216e+09 1.31871826e+01 4.36112859e+00]
-  Cluster CS_48_45000: N=2, SUM[:3]=[ 1.17000000e+05 -1.41978765e+00 -1.09135687e+00], SUMSQ[:3]=[6.84535805e+09 1.00838273e+00 7.62542945e-01]
-  Cluster CS_20_45000: N=3, SUM[:3]=[2.00389000e+05 3.67484435e+00 8.43340158e-01], SUMSQ[:3]=[1.33855091e+10 6.09275451e+00 7.59541694e-01]
-  Cluster CS_30_45000: N=2, SUM[:3]=[1.33355000e+05 2.70118093e+00 2.04918334e+00], SUMSQ[:3]=[8.89177801e+09 1.45798327e+01 4.84045708e+00]
-  Cluster CS_35_45000: N=2, SUM[:3]=[1.33364000e+05 5.51671982e-02 1.54168338e-01], SUMSQ[:3]=[8.89297825e+09 2.44493667e+00 4.97374886e-01]
-  Cluster CS_22_46000: N=2, SUM[:3]=[1.36156000e+05 7.05724454e+00 7.92471156e-01], SUMSQ[:3]=[9.26951243e+09 3.17529250e+01 3.76016787e-01]
-  Cluster CS_40_46000: N=2, SUM[:3]=[1.38028000e+05 3.79491425e+00 2.82298792e+01], SUMSQ[:3]=[9.52586478e+09 2.24988311e+01 8.47215189e+02]
-  Cluster CS_15_47000: N=2, SUM[:3]=[1.25712000e+05 4.14003724e+00 4.27828151e+00], SUMSQ[:3]=[7.90600500e+09 1.72896610e+01 2.59509715e+01]
-  Cluster CS_47_47000: N=2, SUM[:3]=[ 1.32259000e+05 -1.17199242e-01  2.52842870e+01], SUMSQ[:3]=[8.74738435e+09 1.05843191e+00 6.08091958e+02]
-  Cluster CS_40_47000: N=2, SUM[:3]=[1.34710000e+05 1.98079297e+00 6.51729128e+00], SUMSQ[:3]=[9.07470425e+09 6.18761638e+00 4.91801544e+01]
-  Cluster CS_0_47000: N=2, SUM[:3]=[1.39016000e+05 1.30797120e+01 1.82942837e-01], SUMSQ[:3]=[9.66356913e+09 1.93396278e+02 7.06176254e-01]
-  Cluster CS_48_47000: N=2, SUM[:3]=[ 1.40732000e+05  1.13332206e+00 -1.28929317e-01], SUMSQ[:3]=[9.90277255e+09 6.43185808e-01 1.82393142e+00]
-  Cluster CS_3_48000: N=2, SUM[:3]=[1.27137000e+05 3.52156487e+00 1.89364019e+00], SUMSQ[:3]=[8.08224213e+09 9.68337603e+00 5.86590199e+00]
-  Cluster CS_45_48000: N=3, SUM[:3]=[2.13176000e+05 1.06652884e+01 2.69295931e+00], SUMSQ[:3]=[1.51482328e+10 7.18415405e+01 2.08206893e+01]
-  Cluster CS_18_49000: N=2, SUM[:3]=[1.23870000e+05 1.03067570e+01 1.01709466e+01], SUMSQ[:3]=[7.67213205e+09 5.49791452e+01 6.49634957e+01]
-  Cluster CS_32_49000: N=2, SUM[:3]=[ 1.33175000e+05 -5.54972291e-02 -5.83350650e-01], SUMSQ[:3]=[8.86780894e+09 1.77031931e+00 3.27393012e-01]
-  Cluster CS_47_49000: N=2, SUM[:3]=[1.41106000e+05 6.32113206e+00 5.95227051e+00], SUMSQ[:3]=[9.95713340e+09 6.12607680e+01 4.21096124e+01]
-  Cluster CS_23_49000: N=2, SUM[:3]=[ 1.43697000e+05 -2.90454042e+00 -8.71895015e-01], SUMSQ[:3]=[1.03244153e+10 4.23872282e+00 4.30323072e-01]
-  Cluster CS_22_49000: N=3, SUM[:3]=[ 2.15924000e+05 -1.58579496e+00  3.61205742e-01], SUMSQ[:3]=[1.55410580e+10 9.32825660e-01 1.78155004e+00]
-  Cluster CS_0_50000: N=6, SUM[:3]=[5.25623000e+05 2.21919362e+01 2.55911357e+01], SUMSQ[:3]=[5.05020451e+10 5.86459523e+02 3.74032705e+02]
-  Cluster CS_45_50000: N=2, SUM[:3]=[ 1.46826000e+05 -1.22588176e+00 -8.31573769e-01], SUMSQ[:3]=[1.07789403e+10 7.60777967e-01 4.27233127e-01]
-  Cluster CS_4_52000: N=2, SUM[:3]=[1.42091000e+05 4.31604198e+01 4.88906751e+01], SUMSQ[:3]=[1.00952832e+10 1.97504691e+03 2.49447324e+03]
-  Cluster CS_42_52000: N=2, SUM[:3]=[ 1.44865000e+05  1.60956889e+00 -7.87354589e-01], SUMSQ[:3]=[1.04934291e+10 1.36777509e+00 3.72548714e-01]
-  Cluster CS_49_52000: N=3, SUM[:3]=[ 2.62966250e+05 -1.48617457e+00  1.18740677e+00], SUMSQ[:3]=[2.42537959e+10 1.45787298e+00 3.62423482e+00]
-  Cluster CS_14_52000: N=2, SUM[:3]=[1.49835000e+05 1.57780582e+00 9.12347958e-01], SUMSQ[:3]=[1.12252636e+10 1.24542858e+00 1.24711907e+00]
-  Cluster CS_0_52000: N=2, SUM[:3]=[ 1.52370000e+05 -2.29717040e+00  9.56847072e-01], SUMSQ[:3]=[1.16086992e+10 2.63989254e+00 5.47381284e+00]
-  Cluster CS_41_52000: N=2, SUM[:3]=[ 1.52344000e+05  3.45950717e+00 -8.13904062e-01], SUMSQ[:3]=[1.16044576e+10 1.06186756e+01 4.15253323e-01]
-  Cluster CS_5_54000: N=2, SUM[:3]=[5.50990000e+04 8.63931781e+00 3.55900747e+00], SUMSQ[:3]=[1.52370612e+09 7.55245800e+01 1.03477433e+01]
-  Cluster CS_21_54000: N=2, SUM[:3]=[ 7.92240000e+04 -1.12809682e+00  5.35558617e+00], SUMSQ[:3]=[3.14776954e+09 6.42155618e-01 3.82867338e+01]
-  Cluster CS_14_54000: N=2, SUM[:3]=[1.18718000e+05 8.05517954e+00 9.26752582e+00], SUMSQ[:3]=[7.04702981e+09 5.50938412e+01 7.87580769e+01]
-  Cluster CS_35_54000: N=2, SUM[:3]=[1.59317000e+05 1.57747703e+01 1.11658843e+01], SUMSQ[:3]=[1.26913035e+10 1.27189385e+02 7.34010611e+01]
-  Cluster CS_15_54000: N=3, SUM[:3]=[ 2.41797000e+05  3.56059056e+02 -1.43613070e-01], SUMSQ[:3]=[1.94913122e+10 1.27021112e+05 1.00431418e+00]
-  Cluster CS_39_54000: N=2, SUM[:3]=[ 1.60383000e+05 -1.00039372e+00  7.23812312e-01], SUMSQ[:3]=[1.28614329e+10 6.13950514e-01 1.33068936e+00]
-  Cluster CS_20_54000: N=4, SUM[:3]=[3.24908000e+05 1.24795153e+01 7.37611280e+00], SUMSQ[:3]=[2.63913022e+10 5.49071411e+01 3.82296750e+01]
-  Cluster CS_7_54000: N=7, SUM[:3]=[ 5.70472000e+05 -6.12711084e+00 -5.17356652e+00], SUMSQ[:3]=[4.64912277e+10 5.79247834e+00 8.62273082e+00]
-  Cluster CS_49_55000: N=2, SUM[:3]=[1.63825000e+05 1.23553306e+00 4.24952644e+00], SUMSQ[:3]=[1.34201256e+10 4.02265308e+00 1.21333217e+01]
-  Cluster CS_42_55000: N=3, SUM[:3]=[ 2.45195000e+05 -2.95636281e+00  7.30802208e+00], SUMSQ[:3]=[2.00402067e+10 3.68263900e+00 9.44254354e+01]
+Compression Set (CS) contains 308 clusters:
+  Cluster CS_46_4000: N=2, SUM[:3]=[ 2.66500000e+03 -2.38362002e+00 -2.60258329e+00], SUMSQ[:3]=[3.57509300e+06 3.27387093e+00 3.74476617e+00]
+  Cluster CS_1_4000: N=144, SUM[:3]=[1.34452980e+07 9.12281823e+02 7.25851299e+02], SUMSQ[:3]=[1.53424303e+12 1.60700624e+05 8.84872223e+04]
+  Cluster CS_36_4000: N=3, SUM[:3]=[4953.            5.93766738   13.77576673], SUMSQ[:3]=[8.46037100e+06 3.54803865e+01 1.22321768e+02]
+  Cluster CS_10_4000: N=2, SUM[:3]=[4770.           23.51426411   19.51434785], SUMSQ[:3]=[1.29928520e+07 4.66082992e+02 3.99474387e+02]
+  Cluster CS_44_4000: N=2, SUM[:3]=[ 4.00500000e+03 -9.01048690e-01 -2.75879636e-01], SUMSQ[:3]=[8.02967300e+06 1.11774216e+00 6.30107533e-02]
+  Cluster CS_3_4000: N=2, SUM[:3]=[9.84600000e+03 1.88927317e+00 7.48457176e-01], SUMSQ[:3]=[4.84732100e+07 6.61385735e+00 5.58918897e-01]
+  Cluster CS_47_4000: N=3, SUM[:3]=[2.10300000e+04 5.47836850e-01 5.93195902e+00], SUMSQ[:3]=[1.47447894e+08 3.39682816e+00 2.32182829e+01]
+  Cluster CS_35_4000: N=15, SUM[:3]=[ 1.34726000e+05 -1.74496733e+01 -9.91751325e+00], SUMSQ[:3]=[1.21080060e+09 2.30643323e+01 2.24195527e+01]
+  Cluster CS_24_4000: N=8, SUM[:3]=[ 7.23850000e+04 -5.40246424e+00 -1.33902001e+00], SUMSQ[:3]=[6.54977427e+08 3.72025943e+00 7.46399793e+00]
+  Cluster CS_48_4000: N=6, SUM[:3]=[ 5.40350000e+04 -2.07949054e+00 -5.16318297e+00], SUMSQ[:3]=[4.86630295e+08 7.20713486e-01 4.44307640e+00]
+  Cluster CS_0_4000: N=9, SUM[:3]=[ 8.16990000e+04  4.83795255e-01 -5.21649983e+00], SUMSQ[:3]=[7.41682521e+08 2.62009052e+00 5.62651965e+00]
+  Cluster CS_41_4000: N=5, SUM[:3]=[ 4.51150000e+04 -4.16287743e-01  9.37395170e-01], SUMSQ[:3]=[4.07072655e+08 3.46590969e-02 1.75741941e-01]
+  Cluster CS_27_4000: N=2, SUM[:3]=[ 1.80530000e+04 -1.19770396e+00  1.16576445e+00], SUMSQ[:3]=[1.62955405e+08 7.17247385e-01 6.79503378e-01]
+  Cluster CS_39_4000: N=5, SUM[:3]=[ 4.51750000e+04 -8.39843690e+00 -8.51424754e+00], SUMSQ[:3]=[4.08156135e+08 1.41067485e+01 1.44984822e+01]
+  Cluster CS_14_4000: N=9, SUM[:3]=[8.20160000e+04 1.63758402e+01 1.36109045e+02], SUMSQ[:3]=[7.47410168e+08 1.01318131e+02 6.30596604e+03]
+  Cluster CS_9_4000: N=6, SUM[:3]=[ 5.46640000e+04 -2.44908482e+00 -2.87890655e+00], SUMSQ[:3]=[4.98038306e+08 2.19449533e+00 2.00492590e+00]
+  Cluster CS_42_4000: N=4, SUM[:3]=[ 3.65410000e+04  9.50627580e-01 -1.71001691e+00], SUMSQ[:3]=[3.33829659e+08 2.29770108e-01 1.05982154e+00]
+  Cluster CS_15_4000: N=5, SUM[:3]=[ 4.56850000e+04 -2.20957354e+00 -1.60300046e+00], SUMSQ[:3]=[4.17423855e+08 9.76443043e-01 5.13922096e-01]
+  Cluster CS_40_4000: N=2, SUM[:3]=[ 1.82810000e+04 -1.21377206e+00  1.93181825e+00], SUMSQ[:3]=[1.67097481e+08 7.36621305e-01 1.86596087e+00]
+  Cluster CS_17_4000: N=2, SUM[:3]=[ 1.82850000e+04  1.11071837e+00 -1.64177740e+00], SUMSQ[:3]=[1.67170613e+08 6.16847648e-01 1.34771651e+00]
+  Cluster CS_30_4000: N=2, SUM[:3]=[ 1.82970000e+04 -1.61620164e+00  7.60312915e-01], SUMSQ[:3]=[1.67390105e+08 1.30605387e+00 2.89037864e-01]
+  Cluster CS_20_4000: N=2, SUM[:3]=[1.85600000e+04 1.04156251e+01 1.09903663e+01], SUMSQ[:3]=[1.72243528e+08 1.23770474e+02 1.20449511e+02]
+  Cluster CS_37_8000: N=2, SUM[:3]=[2.04790000e+04 5.88769007e+00 6.13176346e+00], SUMSQ[:3]=[2.09694721e+08 1.73324472e+01 1.87992616e+01]
+  Cluster CS_19_8000: N=2, SUM[:3]=[ 2.35110000e+04 -2.15058553e+00  1.95094675e-01], SUMSQ[:3]=[2.76383561e+08 2.35973332e+00 3.34606711e-01]
+  Cluster CS_15_8000: N=2, SUM[:3]=[ 2.96240000e+04 -1.63490582e+00 -2.42612815e+00], SUMSQ[:3]=[4.38790696e+08 1.36890268e+00 2.94344791e+00]
+  Cluster CS_38_9000: N=2, SUM[:3]=[ 1.92880000e+04 -2.49869597e+00  9.77241069e-01], SUMSQ[:3]=[1.86726290e+08 3.12190656e+00 2.00262824e+00]
+  Cluster CS_26_9000: N=2, SUM[:3]=[1.93480000e+04 3.58408713e+00 7.82669234e+00], SUMSQ[:3]=[1.87907024e+08 2.67294166e+01 3.07261170e+01]
+  Cluster CS_2_9000: N=2, SUM[:3]=[20492.            97.16855526   252.06910133], SUMSQ[:3]=[2.10282634e+08 6.89970563e+03 5.34989411e+04]
+  Cluster CS_32_9000: N=3, SUM[:3]=[ 3.16470000e+04  2.17753357e+00 -9.53939557e-01], SUMSQ[:3]=[3.34232621e+08 1.41207031e+01 3.42796160e+00]
+  Cluster CS_31_9000: N=2, SUM[:3]=[ 2.10890000e+04 -2.95222163e-01 -1.30503070e+00], SUMSQ[:3]=[2.22373381e+08 6.72965469e-01 8.66284459e-01]
+  Cluster CS_14_9000: N=2, SUM[:3]=[ 2.44790000e+04 -1.86221623e+00 -1.36473328e+00], SUMSQ[:3]=[3.00634601e+08 1.94289429e+00 9.35688219e-01]
+  Cluster CS_25_9000: N=2, SUM[:3]=[ 3.07050000e+04 -3.95174503e-01 -6.65500164e-02], SUMSQ[:3]=[4.71564977e+08 1.35880256e+00 1.56085492e+00]
+  Cluster CS_17_9000: N=2, SUM[:3]=[3.10030000e+04 3.04682791e-01 1.60582227e+00], SUMSQ[:3]=[4.80602389e+08 1.58952253e+00 1.44677490e+00]
+  Cluster CS_0_9000: N=2, SUM[:3]=[3.12080000e+04 1.10887831e+00 8.23918569e+00], SUMSQ[:3]=[4.86971554e+08 9.80127145e-01 8.37514577e+01]
+  Cluster CS_8_9000: N=3, SUM[:3]=[4.88120000e+04 1.45318563e+01 5.43313105e+01], SUMSQ[:3]=[7.94543714e+08 2.15661577e+02 2.38509561e+03]
+  Cluster CS_27_9000: N=2, SUM[:3]=[3.25650000e+04 2.84001207e+01 1.57108393e+01], SUMSQ[:3]=[5.30239613e+08 4.53229685e+02 1.50591174e+02]
+  Cluster CS_38_11000: N=2, SUM[:3]=[2.65230000e+04 1.50207916e+01 1.92954273e+01], SUMSQ[:3]=[3.52773005e+08 2.46362887e+02 2.69428002e+02]
+  Cluster CS_26_11000: N=2, SUM[:3]=[2.98780000e+04 5.59932833e+01 7.89527690e+00], SUMSQ[:3]=[4.46625700e+08 2.59755023e+03 5.31970787e+01]
+  Cluster CS_21_11000: N=2, SUM[:3]=[ 3.15830000e+04 -2.91737711e+00 -1.99772483e+00], SUMSQ[:3]=[4.98742957e+08 4.27096760e+00 2.02530866e+00]
+  Cluster CS_4_11000: N=2, SUM[:3]=[3.45120000e+04 1.09998034e+01 7.27005377e+01], SUMSQ[:3]=[5.95740050e+08 1.50172334e+02 5.07609726e+03]
+  Cluster CS_17_11000: N=2, SUM[:3]=[ 3.78740000e+04 -1.20277529e+00 -1.49652231e+00], SUMSQ[:3]=[7.17219946e+08 1.65579656e+00 1.16235715e+00]
+  Cluster CS_28_12000: N=2, SUM[:3]=[ 1.20970000e+04 -1.65046668e+00 -9.26381622e-01], SUMSQ[:3]=[7.67679490e+07 1.41586366e+00 9.48488464e-01]
+  Cluster CS_6_12000: N=2, SUM[:3]=[ 1.65140000e+04 -1.70890391e+00 -7.31212914e-01], SUMSQ[:3]=[1.36374148e+08 1.54353892e+00 2.20208551e+00]
+  Cluster CS_18_12000: N=2, SUM[:3]=[ 3.33490000e+04 -8.63590300e-01 -1.08310622e+00], SUMSQ[:3]=[5.56590985e+08 4.60197581e-01 6.27028124e-01]
+  Cluster CS_38_12000: N=2, SUM[:3]=[ 3.37190000e+04  5.11857700e+00 -2.22704297e+00], SUMSQ[:3]=[5.68555045e+08 4.24004332e+01 3.23779475e+00]
+  Cluster CS_3_12000: N=2, SUM[:3]=[3.43980000e+04 4.49576974e-02 6.56928480e-01], SUMSQ[:3]=[5.91611300e+08 7.57179049e-01 2.29798293e+00]
+  Cluster CS_47_12000: N=2, SUM[:3]=[ 3.91940000e+04 -8.49860758e-01 -1.13233837e+00], SUMSQ[:3]=[7.68107290e+08 3.88783762e-01 6.73062856e-01]
+  Cluster CS_22_12000: N=2, SUM[:3]=[ 4.05210000e+04 -2.37398446e+00 -1.87298578e+00], SUMSQ[:3]=[8.21608533e+08 2.83381458e+00 1.91143993e+00]
+  Cluster CS_41_12000: N=3, SUM[:3]=[6.12860000e+04 1.62402933e+01 6.78736866e+00], SUMSQ[:3]=[1.25219407e+09 1.00773800e+02 1.60074461e+01]
+  Cluster CS_39_12000: N=7, SUM[:3]=[1.44289000e+05 8.44331167e+01 6.06599431e+01], SUMSQ[:3]=[2.97418810e+09 1.50511503e+03 8.07479199e+02]
+  Cluster CS_27_12000: N=3, SUM[:3]=[61848.           396.47109986   178.39556503], SUMSQ[:3]=[1.27505841e+09 7.06209860e+04 1.18137565e+04]
+  Cluster CS_45_12000: N=2, SUM[:3]=[4.12400000e+04 1.21996894e+01 1.10848508e+01], SUMSQ[:3]=[8.50368808e+08 7.52532511e+01 6.19110926e+01]
+  Cluster CS_25_12000: N=2, SUM[:3]=[4.12460000e+04 2.93184204e+01 1.40997009e+01], SUMSQ[:3]=[8.50616276e+08 5.64484529e+02 9.94029286e+01]
+  Cluster CS_3_14000: N=2, SUM[:3]=[ 3.04470000e+04 -8.21142778e-01 -4.88543272e-01], SUMSQ[:3]=[4.66825217e+08 5.17087833e-01 1.50875698e-01]
+  Cluster CS_20_14000: N=2, SUM[:3]=[ 4.35480000e+04 -6.63873091e-01 -2.40778852e+00], SUMSQ[:3]=[9.48225402e+08 7.08895913e-01 2.98217475e+00]
+  Cluster CS_19_14000: N=3, SUM[:3]=[ 6.54800000e+04 -3.22043574e+00 -2.88623726e+00], SUMSQ[:3]=[1.42921015e+09 3.70567532e+00 2.83156577e+00]
+  Cluster CS_2_14000: N=2, SUM[:3]=[4.42140000e+04 7.88441241e+00 1.97995273e+01], SUMSQ[:3]=[9.77599076e+08 4.06585865e+01 3.87808070e+02]
+  Cluster CS_40_14000: N=2, SUM[:3]=[ 4.39670000e+04  8.47876070e-04 -1.56619392e-01], SUMSQ[:3]=[9.66593245e+08 3.32723275e-01 8.39403786e-02]
+  Cluster CS_27_14000: N=2, SUM[:3]=[ 4.64170000e+04  8.19897354e-01 -1.88429016e+00], SUMSQ[:3]=[1.07761256e+09 3.48759278e+00 1.79857725e+00]
+  Cluster CS_4_15000: N=2, SUM[:3]=[ 3.65270000e+04  1.23085912e+01 -2.57711089e+00], SUMSQ[:3]=[6.69398525e+08 2.05163133e+02 4.16069160e+00]
+  Cluster CS_22_15000: N=2, SUM[:3]=[3.64150000e+04 2.81463718e+00 1.43826360e+00], SUMSQ[:3]=[6.63040393e+08 6.58490933e+00 6.27918250e+00]
+  Cluster CS_40_15000: N=2, SUM[:3]=[4.90780000e+04 6.80814505e+00 5.89518309e+00], SUMSQ[:3]=[1.20454815e+09 2.47621060e+01 1.74175621e+01]
+  Cluster CS_9_15000: N=2, SUM[:3]=[ 4.92990000e+04 -2.62234312e+00 -1.83766198e+00], SUMSQ[:3]=[1.21529118e+09 3.76043551e+00 1.74748639e+00]
+  Cluster CS_47_15000: N=2, SUM[:3]=[5.14450000e+04 5.20239849e+01 1.80220103e+01], SUMSQ[:3]=[1.32329405e+09 2.08523823e+03 1.92951349e+02]
+  Cluster CS_47_16000: N=2, SUM[:3]=[4.02540000e+04 3.04811583e+01 2.82598089e+01], SUMSQ[:3]=[8.16904706e+08 8.77825202e+02 8.39373800e+02]
+  Cluster CS_31_16000: N=2, SUM[:3]=[ 4.49240000e+04 -2.08973044e+00 -1.44468388e+00], SUMSQ[:3]=[1.01077937e+09 2.48218615e+00 1.23173037e+00]
+  Cluster CS_40_16000: N=2, SUM[:3]=[ 5.17130000e+04 -9.56447631e-01  1.38746250e+00], SUMSQ[:3]=[1.33711719e+09 4.62186035e-01 7.23588416e+00]
+  Cluster CS_38_17000: N=2, SUM[:3]=[ 4.79520000e+04 -1.19100029e+00 -1.76538473e+00], SUMSQ[:3]=[1.15044135e+09 1.46573771e+00 1.94801789e+00]
+  Cluster CS_21_17000: N=2, SUM[:3]=[ 4.87000000e+04 -2.26562852e+00 -2.24100316e+00], SUMSQ[:3]=[1.18753780e+09 2.74235145e+00 2.56907543e+00]
+  Cluster CS_18_17000: N=2, SUM[:3]=[4.89240000e+04 2.31933743e+00 1.36798203e-01], SUMSQ[:3]=[1.19680534e+09 4.44409748e+00 1.01930138e+00]
+  Cluster CS_32_17000: N=2, SUM[:3]=[5.22810000e+04 1.19296494e+02 4.44863663e+01], SUMSQ[:3]=[1.36698522e+09 7.13481718e+03 1.00900596e+03]
+  Cluster CS_23_17000: N=3, SUM[:3]=[8.44110000e+04 1.84215781e+00 6.04502702e+00], SUMSQ[:3]=[2.37545182e+09 7.64031373e+00 2.30799737e+01]
+  Cluster CS_41_17000: N=2, SUM[:3]=[ 5.64120000e+04 -1.09939721e+00 -1.45638670e-01], SUMSQ[:3]=[1.59135532e+09 9.06807722e-01 2.04393688e-02]
+  Cluster CS_3_17000: N=2, SUM[:3]=[ 5.60900000e+04 -6.65001061e-01 -8.24151307e-01], SUMSQ[:3]=[1.57309026e+09 4.89370498e-01 3.93036341e-01]
+  Cluster CS_27_18000: N=2, SUM[:3]=[2.27560000e+04 3.28504741e+00 3.36682677e-01], SUMSQ[:3]=[2.60383240e+08 8.45988504e+00 1.03231486e+00]
+  Cluster CS_30_18000: N=2, SUM[:3]=[ 4.18020000e+04 -3.10221892e-01 -1.06897444e+00], SUMSQ[:3]=[8.75504804e+08 1.09109978e-01 5.88736052e-01]
+  Cluster CS_34_18000: N=2, SUM[:3]=[5.17170000e+04 7.55767465e+00 5.46261978e+00], SUMSQ[:3]=[1.33732410e+09 7.68049035e+01 1.53524908e+01]
+  Cluster CS_47_18000: N=2, SUM[:3]=[ 5.80480000e+04  5.47514789e-01 -1.54504246e+00], SUMSQ[:3]=[1.68526731e+09 4.55175827e-01 1.29448415e+00]
+  Cluster CS_0_18000: N=4, SUM[:3]=[1.17805000e+05 2.50268742e+00 3.80106053e+00], SUMSQ[:3]=[3.47021544e+09 2.10300029e+01 4.51169580e+01]
+  Cluster CS_48_18000: N=2, SUM[:3]=[ 5.89810000e+04 -1.39337319e+00 -7.61403233e-01], SUMSQ[:3]=[1.73979962e+09 1.00833212e+00 1.07211714e+00]
+  Cluster CS_3_18000: N=6, SUM[:3]=[ 1.75269000e+05 -9.57740426e-01  1.56332076e+00], SUMSQ[:3]=[5.11987048e+09 2.32112395e+00 5.75486913e+00]
+  Cluster CS_45_20000: N=2, SUM[:3]=[5.92260000e+04 1.55520490e+01 1.90923687e+01], SUMSQ[:3]=[1.75412892e+09 2.43458375e+02 3.50930812e+02]
+  Cluster CS_35_20000: N=2, SUM[:3]=[ 6.42380000e+04 -2.52557158e-01  1.64434880e-01], SUMSQ[:3]=[2.06381789e+09 5.25882790e-01 6.89555653e-01]
+  Cluster CS_7_20000: N=3, SUM[:3]=[9.88410000e+04 4.63198602e-01 6.52831066e+00], SUMSQ[:3]=[3.25651448e+09 3.95398010e+00 5.51766886e+01]
+  Cluster CS_38_21000: N=2, SUM[:3]=[ 4.26050000e+04  5.86313784e-01 -2.44609284e+00], SUMSQ[:3]=[9.07890233e+08 2.05662987e+00 2.99536340e+00]
+  Cluster CS_2_21000: N=2, SUM[:3]=[6.45890000e+04 3.24108361e+00 3.68210071e+00], SUMSQ[:3]=[2.08661488e+09 1.10716777e+01 1.57754166e+01]
+  Cluster CS_20_21000: N=2, SUM[:3]=[ 6.51600000e+04 -1.20133340e-01  8.85427266e+00], SUMSQ[:3]=[2.12395248e+09 6.84829114e-01 8.83253346e+01]
+  Cluster CS_30_21000: N=2, SUM[:3]=[6.58570000e+04 2.31071293e+00 5.03468955e+00], SUMSQ[:3]=[2.16872183e+09 2.68382369e+00 1.38301829e+01]
+  Cluster CS_47_21000: N=4, SUM[:3]=[1.35620000e+05 5.86703820e+01 7.62274365e+01], SUMSQ[:3]=[4.59846284e+09 1.83015069e+03 4.61528085e+03]
+  Cluster CS_49_21000: N=2, SUM[:3]=[6.72180000e+04 1.67314712e+01 3.13873867e+01], SUMSQ[:3]=[2.25912981e+09 3.22359512e+02 1.07287639e+03]
+  Cluster CS_49_22000: N=2, SUM[:3]=[ 6.66110000e+04 -1.73328230e+00  2.15245968e+01], SUMSQ[:3]=[2.21851266e+09 1.78791497e+00 4.99150058e+02]
+  Cluster CS_48_22000: N=2, SUM[:3]=[ 7.03730000e+04 -1.38263941e-01 -5.42962134e-01], SUMSQ[:3]=[2.47622730e+09 3.04207429e+00 7.55466378e-01]
+  Cluster CS_10_23000: N=2, SUM[:3]=[ 5.35910000e+04 -9.00164694e-01  2.67429519e-02], SUMSQ[:3]=[1.43775170e+09 4.54021533e-01 3.25550394e-03]
+  Cluster CS_21_23000: N=2, SUM[:3]=[ 5.90720000e+04  7.18255782e+00 -1.19188619e+00], SUMSQ[:3]=[1.74562179e+09 3.31703951e+01 7.12454135e-01]
+  Cluster CS_34_23000: N=2, SUM[:3]=[5.99230000e+04 4.37691937e+01 2.37481511e+01], SUMSQ[:3]=[1.79543513e+09 1.90177860e+03 5.91259395e+02]
+  Cluster CS_38_23000: N=2, SUM[:3]=[ 6.64120000e+04 -1.36267239e+00 -6.30430579e-02], SUMSQ[:3]=[2.20542052e+09 9.63841353e-01 1.00533264e+00]
+  Cluster CS_49_23000: N=2, SUM[:3]=[ 7.10950000e+04 -8.94760489e-01 -1.19718620e+00], SUMSQ[:3]=[2.52732595e+09 1.87327832e+00 8.10436640e-01]
+  Cluster CS_47_23000: N=2, SUM[:3]=[ 7.33960000e+04 -2.28323114e+00 -2.41277862e+00], SUMSQ[:3]=[2.69359129e+09 2.61816115e+00 2.91121384e+00]
+  Cluster CS_45_23000: N=5, SUM[:3]=[ 1.83842000e+05  2.87974715e-01 -1.30087976e+00], SUMSQ[:3]=[6.75965185e+09 8.79551598e+00 2.96593606e+00]
+  Cluster CS_17_23000: N=2, SUM[:3]=[ 7.34740000e+04  9.41533983e-01 -5.54408953e-01], SUMSQ[:3]=[2.69921514e+09 2.16742322e+00 1.61327186e-01]
+  Cluster CS_0_23000: N=2, SUM[:3]=[ 7.37570000e+04 -3.58627185e-01 -5.48859239e-01], SUMSQ[:3]=[2.72007107e+09 9.13956771e-02 1.68019918e-01]
+  Cluster CS_41_23000: N=2, SUM[:3]=[ 7.38520000e+04 -1.08851755e+00  5.01040518e-01], SUMSQ[:3]=[2.72710455e+09 7.90913987e-01 1.81108113e+00]
+  Cluster CS_30_24000: N=3, SUM[:3]=[1.11524000e+05 6.93406044e+00 5.58227113e+00], SUMSQ[:3]=[4.14587932e+09 5.76401975e+01 4.94399766e+01]
+  Cluster CS_22_24000: N=5, SUM[:3]=[1.89740000e+05 3.13561797e+00 1.97956300e+00], SUMSQ[:3]=[7.20095262e+09 5.87173264e+00 1.53819321e+01]
+  Cluster CS_0_24000: N=2, SUM[:3]=[7.61230000e+04 1.85313538e+01 4.98465276e+01], SUMSQ[:3]=[2.89774895e+09 3.46118443e+02 2.14403992e+03]
+  Cluster CS_49_24000: N=4, SUM[:3]=[ 1.53421000e+05 -2.82369625e+00 -4.34473598e+00], SUMSQ[:3]=[5.88456795e+09 3.57117828e+00 5.52399950e+00]
+  Cluster CS_47_24000: N=2, SUM[:3]=[ 7.69260000e+04 -1.64007688e+00  1.97316456e+00], SUMSQ[:3]=[2.95880974e+09 1.54765560e+00 6.25965909e+00]
+  Cluster CS_2_26000: N=2, SUM[:3]=[4.71020000e+04 8.63353944e+00 3.42175728e+00], SUMSQ[:3]=[1.10938325e+09 8.46410096e+01 1.86521458e+01]
+  Cluster CS_23_26000: N=2, SUM[:3]=[ 5.79300000e+04 -1.48228705e-01 -9.91774082e-01], SUMSQ[:3]=[1.67832090e+09 1.03542930e+00 2.49774799e+00]
+  Cluster CS_41_26000: N=2, SUM[:3]=[ 7.74940000e+04 -2.75283408e+00 -2.72924769e+00], SUMSQ[:3]=[3.00277331e+09 4.08414718e+00 3.95703087e+00]
+  Cluster CS_7_26000: N=2, SUM[:3]=[ 8.07000000e+04 -9.83203411e-01 -8.76373649e-02], SUMSQ[:3]=[3.25642380e+09 5.09634161e-01 1.17537038e+00]
+  Cluster CS_40_26000: N=3, SUM[:3]=[ 1.21663000e+05 -1.91477435e+00 -3.13122901e+00], SUMSQ[:3]=[4.93403070e+09 2.23407812e+00 3.86133660e+00]
+  Cluster CS_20_26000: N=2, SUM[:3]=[ 8.11030000e+04 -9.16063547e-01 -2.10463226e+00], SUMSQ[:3]=[3.28886693e+09 7.24758453e-01 2.79205301e+00]
+  Cluster CS_9_27000: N=2, SUM[:3]=[ 7.76490000e+04  2.58223498e+00 -2.66619235e-01], SUMSQ[:3]=[3.01468998e+09 4.25625786e+00 7.08239957e-01]
+  Cluster CS_2_27000: N=625, SUM[:3]=[6.41053770e+07 7.40603248e+02 1.07536135e+03], SUMSQ[:3]=[7.23655608e+12 2.60845881e+04 7.42002151e+04]
+  Cluster CS_7_27000: N=2, SUM[:3]=[8.33090000e+04 4.46547747e-01 4.84389544e+00], SUMSQ[:3]=[3.47022235e+09 5.46425897e+00 1.28441025e+01]
+  Cluster CS_20_27000: N=2, SUM[:3]=[ 8.47240000e+04 -2.02551228e+00 -2.25779086e+00], SUMSQ[:3]=[3.58907819e+09 2.09332698e+00 2.80019935e+00]
+  Cluster CS_31_27000: N=2, SUM[:3]=[ 8.47220000e+04 -9.55083579e-01  6.97723865e-01], SUMSQ[:3]=[3.58890869e+09 4.78123214e-01 4.98623970e+00]
+  Cluster CS_37_27000: N=4, SUM[:3]=[1.69462000e+05 4.30401433e+00 1.06989408e+01], SUMSQ[:3]=[7.17934238e+09 3.20073350e+01 1.68922050e+02]
+  Cluster CS_31_29000: N=2, SUM[:3]=[7.10060000e+04 7.70980697e+01 4.80066385e+01], SUMSQ[:3]=[2.52096635e+09 5.73290674e+03 1.81101559e+03]
+  Cluster CS_49_29000: N=2, SUM[:3]=[ 7.44910000e+04  1.05521977e+00 -2.04969633e+00], SUMSQ[:3]=[2.77494558e+09 3.94871204e+00 2.13216825e+00]
+  Cluster CS_42_29000: N=2, SUM[:3]=[ 7.49170000e+04  8.40826780e-02 -1.51489806e+00], SUMSQ[:3]=[2.80630156e+09 5.74874275e-02 1.41414623e+00]
+  Cluster CS_25_29000: N=2, SUM[:3]=[ 8.51140000e+04 -2.91691691e+00 -6.01378918e-01], SUMSQ[:3]=[3.62227412e+09 4.74891061e+00 5.08881963e+00]
+  Cluster CS_4_30000: N=2, SUM[:3]=[ 8.64940000e+04  8.22558463e-01 -9.41693984e-01], SUMSQ[:3]=[3.74067373e+09 1.66278682e+00 7.12374419e-01]
+  Cluster CS_9_30000: N=2, SUM[:3]=[9.00710000e+04 1.53083923e+01 2.12297445e+01], SUMSQ[:3]=[4.05639252e+09 2.64272125e+02 4.38843374e+02]
+  Cluster CS_10_32000: N=2, SUM[:3]=[1.60000000e+04 6.81466436e+00 5.91180164e+00], SUMSQ[:3]=[1.31505952e+08 2.48824642e+01 2.72039378e+01]
+  Cluster CS_22_32000: N=2, SUM[:3]=[ 6.88150000e+04 -1.24280339e+00 -2.37486136e+00], SUMSQ[:3]=[2.36893022e+09 7.78539520e-01 2.82036119e+00]
+  Cluster CS_4_32000: N=2, SUM[:3]=[8.30600000e+04 8.78743744e+00 2.63250649e-01], SUMSQ[:3]=[3.45267214e+09 6.81943352e+01 1.09021357e+00]
+  Cluster CS_23_32000: N=2, SUM[:3]=[ 9.89560000e+04 -4.07618150e-01 -1.44802606e+00], SUMSQ[:3]=[4.89623828e+09 4.84817424e-01 1.08897624e+00]
+  Cluster CS_0_33000: N=3, SUM[:3]=[ 1.51415000e+05 -2.19542408e+00  5.40396762e+00], SUMSQ[:3]=[7.64221949e+09 1.77734230e+00 6.43896181e+01]
+  Cluster CS_48_33000: N=2, SUM[:3]=[ 1.01290000e+05 -1.21795180e+00 -1.38733009e+00], SUMSQ[:3]=[5.12983229e+09 2.45163319e+00 1.34708594e+00]
+  Cluster CS_14_34000: N=2, SUM[:3]=[8.57880000e+04 2.78971276e+00 1.16481251e+00], SUMSQ[:3]=[3.68033753e+09 9.80782134e+00 3.33784891e+00]
+  Cluster CS_49_34000: N=2, SUM[:3]=[ 9.40440000e+04 -4.49418127e-01  3.62787223e+00], SUMSQ[:3]=[4.42622677e+09 1.44175624e+00 3.03841877e+01]
+  Cluster CS_26_35000: N=2, SUM[:3]=[ 6.02830000e+04  4.13659459e+00 -2.45204079e+00], SUMSQ[:3]=[1.82222036e+09 2.42704970e+01 3.35473885e+00]
+  Cluster CS_4_35000: N=2, SUM[:3]=[8.43850000e+04 4.76570749e+00 3.31404424e+00], SUMSQ[:3]=[3.56104692e+09 3.31388914e+01 2.01305594e+01]
+  Cluster CS_17_35000: N=2, SUM[:3]=[8.42920000e+04 1.62882661e+01 6.83209050e+00], SUMSQ[:3]=[3.55287483e+09 3.21277593e+02 7.89652431e+01]
+  Cluster CS_27_35000: N=2, SUM[:3]=[9.91690000e+04 1.56427892e+01 5.71845733e+01], SUMSQ[:3]=[4.91851410e+09 2.79581597e+02 3.40022021e+03]
+  Cluster CS_39_35000: N=3, SUM[:3]=[1.57197000e+05 2.38242865e-01 2.18646330e+00], SUMSQ[:3]=[8.23814045e+09 2.31969590e+00 3.10261368e+00]
+  Cluster CS_15_35000: N=4, SUM[:3]=[2.09608000e+05 3.41032505e-01 5.43456572e+00], SUMSQ[:3]=[1.09848777e+10 2.00308519e+00 2.09013877e+01]
+  Cluster CS_0_35000: N=2, SUM[:3]=[104735.            166.03941345    224.99682188], SUMSQ[:3]=[5.48511962e+09 2.66409408e+04 4.96158349e+04]
+  Cluster CS_8_35000: N=3, SUM[:3]=[ 1.60466000e+05  1.99669705e+00 -2.78485179e-01], SUMSQ[:3]=[8.58375729e+09 6.41324396e+00 4.03179267e+00]
+  Cluster CS_40_35000: N=2, SUM[:3]=[1.07598000e+05 9.76849955e+01 1.32665019e+01], SUMSQ[:3]=[5.78866483e+09 9.57971633e+03 1.92882497e+02]
+  Cluster CS_20_35000: N=8, SUM[:3]=[ 4.30540000e+05  4.06447172e-01 -2.39809915e-01], SUMSQ[:3]=[2.31705867e+10 2.75272511e+01 1.65686225e+01]
+  Cluster CS_18_38000: N=2, SUM[:3]=[9.29610000e+04 1.28908154e+00 1.18447167e+01], SUMSQ[:3]=[4.32087377e+09 9.28501278e-01 1.51112643e+02]
+  Cluster CS_19_38000: N=2, SUM[:3]=[ 1.15256000e+05 -1.89586842e+00 -1.52107543e+00], SUMSQ[:3]=[6.64254951e+09 1.79715901e+00 1.42607467e+00]
+  Cluster CS_23_38000: N=2, SUM[:3]=[ 1.14239000e+05 -6.51290834e-01  3.63851786e-02], SUMSQ[:3]=[6.52527566e+09 2.60236192e-01 1.42287014e+00]
+  Cluster CS_0_38000: N=2, SUM[:3]=[1.14991000e+05 8.89103723e+00 1.68606645e+00], SUMSQ[:3]=[6.61148405e+09 6.31310903e+01 1.43277569e+00]
+  Cluster CS_2_41000: N=2, SUM[:3]=[ 9.09140000e+04  2.86818117e+00 -1.29775512e+00], SUMSQ[:3]=[4.13268615e+09 5.84682473e+00 8.43779242e-01]
+  Cluster CS_44_41000: N=2, SUM[:3]=[ 9.61970000e+04  3.80039132e+00 -2.30253220e+00], SUMSQ[:3]=[4.62964818e+09 2.92689546e+01 2.66318019e+00]
+  Cluster CS_24_41000: N=2, SUM[:3]=[ 1.16966000e+05  6.36963755e+00 -5.00453591e-01], SUMSQ[:3]=[6.84206084e+09 5.42196484e+01 7.36969176e-01]
+  Cluster CS_19_41000: N=2, SUM[:3]=[1.17338000e+05 3.29324484e+02 4.05198771e+00], SUMSQ[:3]=[6.88457746e+09 1.08630582e+05 2.54779575e+01]
+  Cluster CS_18_43000: N=2, SUM[:3]=[ 1.09516000e+05  5.41480422e-01 -1.63109422e+00], SUMSQ[:3]=[5.99744318e+09 3.27209973e+00 1.35826911e+00]
+  Cluster CS_4_43000: N=2, SUM[:3]=[ 1.16271000e+05 -3.90935659e-01 -1.26667041e+00], SUMSQ[:3]=[6.76154740e+09 1.13051147e+00 1.01729578e+00]
+  Cluster CS_41_43000: N=2, SUM[:3]=[ 1.23831000e+05  1.08281645e+00 -6.06926978e-02], SUMSQ[:3]=[7.67015584e+09 6.06334492e-01 4.06639165e-01]
+  Cluster CS_3_44000: N=2, SUM[:3]=[ 1.26635000e+05 -1.66210067e+00 -1.59033936e+00], SUMSQ[:3]=[8.01821161e+09 1.38150699e+00 1.41045442e+00]
+  Cluster CS_23_44000: N=2, SUM[:3]=[ 1.30781000e+05 -1.29488605e+00 -8.70249271e-01], SUMSQ[:3]=[8.55209779e+09 8.65438076e-01 1.88391986e+00]
+  Cluster CS_18_47000: N=2, SUM[:3]=[8.77720000e+04 4.00184739e+00 2.29015601e+00], SUMSQ[:3]=[3.85240379e+09 2.38860035e+01 6.85303952e+00]
+  Cluster CS_2_47000: N=2, SUM[:3]=[ 1.24004000e+05 -7.62115359e-01 -1.49208349e+00], SUMSQ[:3]=[7.68922564e+09 5.54020665e-01 1.11349548e+00]
+  Cluster CS_47_47000: N=2, SUM[:3]=[ 1.33985000e+05 -1.50908843e+00 -8.25959325e-01], SUMSQ[:3]=[8.97873962e+09 1.30844476e+00 3.49868144e-01]
+  Cluster CS_37_48000: N=2, SUM[:3]=[1.07982000e+05 4.32268852e+00 6.34534526e+00], SUMSQ[:3]=[5.83278928e+09 2.38113584e+01 4.96592540e+01]
+  Cluster CS_48_49000: N=2, SUM[:3]=[ 1.00924000e+05  5.24991676e-02 -2.07555324e-01], SUMSQ[:3]=[5.09853909e+09 3.69754258e-02 3.39009033e-01]
+  Cluster CS_35_49000: N=2, SUM[:3]=[1.30213000e+05 3.47579534e+01 2.27356415e+02], SUMSQ[:3]=[8.47771664e+09 1.03504782e+03 4.74742071e+04]
+  Cluster CS_20_49000: N=2, SUM[:3]=[1.43462000e+05 7.33857965e+00 1.02135878e+01], SUMSQ[:3]=[1.02923766e+10 2.70834004e+01 5.31660387e+01]
+  Cluster CS_42_49000: N=2, SUM[:3]=[ 1.43697000e+05 -2.90454042e+00 -8.71895015e-01], SUMSQ[:3]=[1.03244153e+10 4.23872282e+00 4.30323072e-01]
+  Cluster CS_25_52000: N=2, SUM[:3]=[1.23870000e+05 1.03067570e+01 1.01709466e+01], SUMSQ[:3]=[7.67213205e+09 5.49791452e+01 6.49634957e+01]
+  Cluster CS_9_52000: N=2, SUM[:3]=[ 1.42049000e+05 -9.69761014e-01  7.77028143e-01], SUMSQ[:3]=[1.00907585e+10 5.24539663e-01 1.42399493e+00]
+  Cluster CS_30_52000: N=3, SUM[:3]=[ 2.24858000e+05 -3.15716505e+00  1.80506575e+00], SUMSQ[:3]=[1.68587228e+10 3.34069680e+00 4.18663842e+00]
+  Cluster CS_8_52000: N=2, SUM[:3]=[1.49835000e+05 1.57780582e+00 9.12347958e-01], SUMSQ[:3]=[1.12252636e+10 1.24542858e+00 1.24711907e+00]
+  Cluster CS_5_54000: N=2, SUM[:3]=[ 5.44060000e+04  3.21549207e+00 -1.33790797e+00], SUMSQ[:3]=[1.48028917e+09 1.53503277e+01 8.98056035e-01]
+  Cluster CS_4_54000: N=2, SUM[:3]=[8.58470000e+04 1.77006304e+00 5.10001332e-01], SUMSQ[:3]=[3.69651332e+09 3.94671688e+00 1.68531562e-01]
+  Cluster CS_21_54000: N=2, SUM[:3]=[ 1.10524000e+05 -2.20121217e+00 -1.74193051e+00], SUMSQ[:3]=[6.11972356e+09 2.53986889e+00 2.03104808e+00]
+  Cluster CS_19_54000: N=2, SUM[:3]=[1.29681000e+05 4.82455349e+00 5.67022997e+00], SUMSQ[:3]=[8.40913528e+09 1.77335705e+01 2.57753496e+01]
+  Cluster CS_35_54000: N=2, SUM[:3]=[1.55300000e+05 4.24616430e+02 1.02387895e+00], SUMSQ[:3]=[1.20658383e+10 1.78159664e+05 8.32206424e-01]
+  Cluster CS_3_54000: N=3, SUM[:3]=[2.43686000e+05 6.84996623e+00 6.62919597e+00], SUMSQ[:3]=[1.97942889e+10 2.32153188e+01 3.76717902e+01]
+  Cluster CS_17_55000: N=2, SUM[:3]=[ 1.61744000e+05 -1.06514326e+00 -1.21517000e+00], SUMSQ[:3]=[1.30821096e+10 7.13775361e-01 8.52070154e-01]
   Cluster CS_15_55000: N=2, SUM[:3]=[ 1.63818000e+05 -1.76723909e+00  3.05116773e-02], SUMSQ[:3]=[1.34181851e+10 1.58017650e+00 9.59928931e-01]
-  Cluster CS_46_55000: N=2, SUM[:3]=[ 1.63800000e+05 -1.12120596e+00 -1.72489139e+00], SUMSQ[:3]=[1.34152325e+10 1.99386610e+00 2.07533346e+00]
-  Cluster CS_47_56000: N=2, SUM[:3]=[ 1.63449000e+05  2.19063424e+01 -7.64820158e-01], SUMSQ[:3]=[1.33578057e+10 5.41063014e+02 1.65147219e+00]
-  Cluster CS_47_57000: N=3, SUM[:3]=[ 2.78711375e+05 -6.46650630e-01  1.98902300e+00], SUMSQ[:3]=[2.65195275e+10 1.85291780e-01 2.68341038e+00]
-  Cluster CS_14_57000: N=3, SUM[:3]=[ 2.79939913e+05 -1.24488430e+00 -1.27181028e+00], SUMSQ[:3]=[2.67984725e+10 1.57753311e+00 2.45879928e+00]
-  Cluster CS_41_57000: N=2, SUM[:3]=[1.66179000e+05 7.24106812e+01 8.41665880e+01], SUMSQ[:3]=[1.38102009e+10 5.35740750e+03 6.97500774e+03]
-  Cluster CS_39_57000: N=2, SUM[:3]=[1.68641000e+05 8.20572466e-01 2.06045592e+00], SUMSQ[:3]=[1.42199157e+10 3.36702776e-01 2.12358885e+00]
-  Cluster CS_31_58000: N=2, SUM[:3]=[1.53857000e+05 5.05309737e+01 1.28248553e+01], SUMSQ[:3]=[1.18366233e+10 2.30797375e+03 1.04761832e+02]
-  Cluster CS_48_58000: N=2, SUM[:3]=[ 1.67408000e+05 -2.00280189e-01  1.92077523e+00], SUMSQ[:3]=[1.40137763e+10 2.48252779e+00 5.21648787e+00]
-  Cluster CS_49_58000: N=2, SUM[:3]=[ 1.68307000e+05 -4.86446500e-01  6.28849079e+00], SUMSQ[:3]=[1.41636727e+10 4.60010037e-01 4.20163184e+01]
-  Cluster CS_25_58000: N=3, SUM[:3]=[ 2.87388909e+05 -3.21176729e+00 -1.31356020e+00], SUMSQ[:3]=[2.81238317e+10 6.98040118e+00 3.24111174e+00]
-  Cluster CS_0_58000: N=4, SUM[:3]=[ 3.43430000e+05 -3.23313475e-01  5.04775614e+00], SUMSQ[:3]=[2.94860412e+10 6.75598473e+00 7.69371505e+00]
-  Cluster CS_4_59000: N=2, SUM[:3]=[1.73278000e+05 6.06595278e-01 1.31772818e+00], SUMSQ[:3]=[1.50129821e+10 3.55681098e+00 2.01721054e+00]
-  Cluster CS_20_59000: N=3, SUM[:3]=[2.73513500e+05 8.39666474e+01 3.35741142e+01], SUMSQ[:3]=[2.50223948e+10 2.90846430e+03 9.01441997e+02]
-  Cluster CS_22_59000: N=2, SUM[:3]=[ 1.76137000e+05 -2.46756792e+00 -2.22481227e+00], SUMSQ[:3]=[1.55121223e+10 3.05298418e+00 2.49511300e+00]
-  Cluster CS_37_60000: N=2, SUM[:3]=[1.51678000e+05 4.21105439e+02 1.34852409e-01], SUMSQ[:3]=[1.15031099e+10 1.78154195e+05 1.41012546e+00]
-  Cluster CS_34_60000: N=2, SUM[:3]=[ 1.61900000e+05  1.51528955e+00 -1.17721669e+00], SUMSQ[:3]=[1.31100507e+10 7.46176091e+00 1.69570952e+00]
-  Cluster CS_21_60000: N=2, SUM[:3]=[ 1.70449000e+05 -1.11318678e-01  1.58306330e+01], SUMSQ[:3]=[1.45289553e+10 1.94054231e-01 2.71340906e+02]
-  Cluster CS_14_60000: N=3, SUM[:3]=[264057.            434.47143364    406.06771183], SUMSQ[:3]=[2.32509637e+10 1.91531767e+05 1.64518113e+05]
-  Cluster CS_31_60000: N=2, SUM[:3]=[ 1.73563000e+05 -9.46369231e-01 -1.33879912e+00], SUMSQ[:3]=[1.50626724e+10 8.57766112e-01 1.22530577e+00]
-  Cluster CS_49_60000: N=2, SUM[:3]=[1.79475000e+05 1.34071618e+00 2.50957793e+00], SUMSQ[:3]=[1.61061631e+10 5.26764910e+00 9.70537276e+00]
-  Cluster CS_45_60000: N=2, SUM[:3]=[1.79942000e+05 5.07980585e+00 4.64962822e+00], SUMSQ[:3]=[1.61895621e+10 3.96818000e+01 3.27787634e+01]
-  Cluster CS_21_63000: N=2, SUM[:3]=[ 1.45425000e+05  1.14796306e+02 -9.39288288e-01], SUMSQ[:3]=[1.05770404e+10 1.33534467e+04 5.25149745e-01]
-  Cluster CS_32_63000: N=2, SUM[:3]=[1.60809000e+05 6.01109946e+00 3.77672362e+01], SUMSQ[:3]=[1.29311006e+10 5.67858659e+01 1.02752648e+03]
-  Cluster CS_22_63000: N=2, SUM[:3]=[ 1.79202000e+05 -2.01794654e+00 -1.38586760e+00], SUMSQ[:3]=[1.60566784e+10 2.40450175e+00 9.61238545e-01]
-  Cluster CS_41_63000: N=2, SUM[:3]=[ 1.8221800e+05 -1.5636282e+00 -1.9776336e+00], SUMSQ[:3]=[1.66044376e+10 1.31058166e+00 1.99161633e+00]
-  Cluster CS_49_63000: N=2, SUM[:3]=[ 1.82201000e+05 -1.02484840e+00 -1.81393078e+00], SUMSQ[:3]=[1.65987297e+10 2.58721096e+00 2.58513712e+00]
-  Cluster CS_48_63000: N=3, SUM[:3]=[ 2.82343000e+05  9.29333016e-01 -4.40219104e-01], SUMSQ[:3]=[2.65732512e+10 1.30966079e+00 2.10358606e+00]
-  Cluster CS_0_63000: N=2, SUM[:3]=[1.89101000e+05 2.39303484e+01 8.32566180e+01], SUMSQ[:3]=[1.78796994e+10 4.01644977e+02 6.41059151e+03]
-  Cluster CS_45_63000: N=3, SUM[:3]=[2.85028000e+05 2.59767082e+02 5.70780160e+00], SUMSQ[:3]=[2.70808616e+10 6.74115711e+04 4.79766945e+01]
-  Cluster CS_29_64000: N=3, SUM[:3]=[ 2.89289000e+05  7.02074695e+00 -1.10517368e-01], SUMSQ[:3]=[2.78971103e+10 3.80781461e+01 1.09162386e+00]
-  Cluster CS_30_64000: N=2, SUM[:3]=[1.94301000e+05 1.23572606e+00 7.50989675e-01], SUMSQ[:3]=[1.88764393e+10 3.35247883e+00 3.16742232e+00]
-  Cluster CS_31_64000: N=2, SUM[:3]=[1.94301000e+05 1.90758038e+00 4.26646554e+00], SUMSQ[:3]=[1.88764393e+10 1.07793240e+01 3.50694614e+01]
-  Cluster CS_42_65000: N=2, SUM[:3]=[1.89649000e+05 6.88017458e+00 1.43790364e-01], SUMSQ[:3]=[1.79837086e+10 5.59367842e+01 2.92474018e-01]
-  Cluster CS_14_65000: N=2, SUM[:3]=[1.93432000e+05 1.42552656e+02 5.86243548e+01], SUMSQ[:3]=[1.87103849e+10 1.39452509e+04 3.54161194e+03]
-  Cluster CS_3_65000: N=2, SUM[:3]=[1.93012000e+05 5.22041714e+00 3.13724546e+01], SUMSQ[:3]=[1.86275774e+10 1.94859266e+01 6.42041990e+02]
-  Cluster CS_47_65000: N=2, SUM[:3]=[ 1.94192000e+05  6.85492158e-01 -2.37456977e+00], SUMSQ[:3]=[1.88573026e+10 1.24247202e+00 2.82221347e+00]
-  Cluster CS_45_66000: N=3, SUM[:3]=[ 2.96111000e+05 -3.40892553e-01  2.34144968e+00], SUMSQ[:3]=[2.92275275e+10 4.20808141e+00 1.31810823e+01]
-  Cluster CS_7_66000: N=2, SUM[:3]=[1.99383000e+05 5.77820015e+01 3.98290176e+01], SUMSQ[:3]=[1.98771490e+10 1.73379095e+03 7.95471306e+02]
-  Cluster CS_30_66000: N=3, SUM[:3]=[ 2.98457000e+05 -1.93000823e-01 -2.71857911e+00], SUMSQ[:3]=[2.96921937e+10 4.28758998e+00 2.67098674e+00]
-  Cluster CS_14_67000: N=2, SUM[:3]=[ 1.83977000e+05 -1.18392633e+00 -2.60827720e+00], SUMSQ[:3]=[1.69242573e+10 1.00213578e+00 3.41005467e+00]
-  Cluster CS_23_67000: N=3, SUM[:3]=[2.84031000e+05 3.62301695e+00 2.59577742e+00], SUMSQ[:3]=[2.69015281e+10 1.60181419e+01 1.28694667e+01]
-  Cluster CS_39_67000: N=3, SUM[:3]=[ 3.05111000e+05 -3.14516419e+00 -3.40548867e+00], SUMSQ[:3]=[3.10321761e+10 3.39901048e+00 3.94403458e+00]
-  Cluster CS_48_67000: N=2, SUM[:3]=[2.04258000e+05 1.50670519e+00 1.56001223e+01], SUMSQ[:3]=[2.08606682e+10 2.22035240e+00 2.73469326e+02]
-  Cluster CS_3_68000: N=2, SUM[:3]=[2.10116000e+05 6.95314593e+01 9.16706014e+01], SUMSQ[:3]=[2.20743840e+10 5.01249375e+03 8.58088554e+03]
-  Cluster CS_47_68000: N=2, SUM[:3]=[2.10172000e+05 9.77631116e+01 1.08336579e+02], SUMSQ[:3]=[2.20861466e+10 8.32812414e+03 1.15477075e+04]
-  Cluster CS_31_69000: N=2, SUM[:3]=[ 1.66257000e+05 -5.64429045e-01 -4.79055643e-01], SUMSQ[:3]=[1.38374166e+10 1.69834180e+00 1.81746139e+00]
-  Cluster CS_42_69000: N=2, SUM[:3]=[1.95606000e+05 3.45675051e-01 3.11234995e+00], SUMSQ[:3]=[1.91308536e+10 1.02053143e+00 9.90609367e+00]
-  Cluster CS_24_69000: N=2, SUM[:3]=[ 2.03898000e+05 -1.62928259e+00 -1.37528217e+00], SUMSQ[:3]=[2.07872905e+10 1.43768614e+00 9.81760243e-01]
-  Cluster CS_25_69000: N=2, SUM[:3]=[ 2.11772000e+05 -1.93462682e+00 -1.81290090e+00], SUMSQ[:3]=[2.24241860e+10 1.92626020e+00 1.66151108e+00]
+  Cluster CS_32_57000: N=2, SUM[:3]=[1.50769000e+05 7.21451111e+01 2.60949640e+01], SUMSQ[:3]=[1.13675684e+10 2.88571110e+03 3.61980018e+02]
+  Cluster CS_3_57000: N=2, SUM[:3]=[1.53429000e+05 2.76522249e+00 2.44465208e+00], SUMSQ[:3]=[1.17714380e+10 6.58505363e+00 9.71716555e+00]
+  Cluster CS_39_57000: N=2, SUM[:3]=[ 1.67770000e+05 -6.16084129e-01  1.53385787e+01], SUMSQ[:3]=[1.40734798e+10 8.14431866e-01 2.72202769e+02]
+  Cluster CS_26_58000: N=2, SUM[:3]=[1.59825000e+05 6.24606395e+00 5.18456614e+00], SUMSQ[:3]=[1.27722259e+10 5.61858028e+01 4.16324192e+01]
+  Cluster CS_14_58000: N=4, SUM[:3]=[3.44841000e+05 4.33973878e+02 1.49252687e+02], SUMSQ[:3]=[2.97704797e+10 9.37383076e+04 1.10559344e+04]
+  Cluster CS_49_59000: N=2, SUM[:3]=[1.63741000e+05 8.95842773e+00 7.90658489e+00], SUMSQ[:3]=[1.34119908e+10 8.21627667e+01 6.29620242e+01]
+  Cluster CS_42_59000: N=2, SUM[:3]=[1.64385000e+05 7.21710534e+01 8.22172610e+01], SUMSQ[:3]=[1.35113061e+10 5.35783849e+03 6.97626325e+03]
+  Cluster CS_24_59000: N=3, SUM[:3]=[ 2.63473000e+05 -3.39349902e+00 -3.29986823e+00], SUMSQ[:3]=[2.31396992e+10 3.91033257e+00 3.65085831e+00]
+  Cluster CS_18_60000: N=2, SUM[:3]=[ 1.18777000e+05 -1.48761725e+00 -9.09075689e-01], SUMSQ[:3]=[7.05929189e+09 1.11352039e+00 8.04327198e-01]
+  Cluster CS_7_60000: N=3, SUM[:3]=[249140.            436.16758388    404.82996175], SUMSQ[:3]=[2.06998686e+10 1.91528511e+05 1.64510786e+05]
+  Cluster CS_0_60000: N=2, SUM[:3]=[1.79475000e+05 1.34071618e+00 2.50957793e+00], SUMSQ[:3]=[1.61061631e+10 5.26764910e+00 9.70537276e+00]
+  Cluster CS_43_63000: N=2, SUM[:3]=[1.43553000e+05 4.54186183e+01 4.97170271e+01], SUMSQ[:3]=[1.03063930e+10 1.97444159e+03 2.49343211e+03]
+  Cluster CS_3_63000: N=2, SUM[:3]=[1.70847000e+05 5.05023691e+00 3.68640661e-01], SUMSQ[:3]=[1.45963387e+10 2.17319710e+01 1.43017981e+00]
+  Cluster CS_49_63000: N=2, SUM[:3]=[1.77014000e+05 5.20378637e+00 5.54002370e+00], SUMSQ[:3]=[1.56711831e+10 3.94196275e+01 3.18094901e+01]
+  Cluster CS_22_63000: N=2, SUM[:3]=[ 1.8221800e+05 -1.5636282e+00 -1.9776336e+00], SUMSQ[:3]=[1.66044376e+10 1.31058166e+00 1.99161633e+00]
+  Cluster CS_23_63000: N=2, SUM[:3]=[ 1.82201000e+05 -1.02484840e+00 -1.81393078e+00], SUMSQ[:3]=[1.65987297e+10 2.58721096e+00 2.58513712e+00]
+  Cluster CS_14_64000: N=4, SUM[:3]=[3.88602000e+05 3.14330643e+00 5.01745522e+00], SUMSQ[:3]=[3.77528786e+10 1.41318028e+01 3.82368837e+01]
+  Cluster CS_31_65000: N=2, SUM[:3]=[1.79546000e+05 9.78539306e+00 8.03726304e+00], SUMSQ[:3]=[1.61184443e+10 1.07772525e+02 7.62923224e+01]
+  Cluster CS_49_65000: N=2, SUM[:3]=[1.89101000e+05 2.39303484e+01 8.32566180e+01], SUMSQ[:3]=[1.78796994e+10 4.01644977e+02 6.41059151e+03]
+  Cluster CS_17_65000: N=2, SUM[:3]=[1.90556000e+05 3.17164552e+00 5.93769789e+00], SUMSQ[:3]=[1.81565412e+10 2.00015437e+01 5.05830737e+01]
+  Cluster CS_47_65000: N=2, SUM[:3]=[1.89988000e+05 2.67088479e+02 7.28751332e+00], SUMSQ[:3]=[1.80478362e+10 6.74641994e+04 4.69862237e+01]
+  Cluster CS_2_65000: N=3, SUM[:3]=[2.95202000e+05 1.94787636e+02 1.76467126e+02], SUMSQ[:3]=[2.90481133e+10 2.00880930e+04 1.55370959e+04]
+  Cluster CS_14_67000: N=2, SUM[:3]=[1.62443000e+05 4.23514378e+00 3.21673689e+01], SUMSQ[:3]=[1.31938641e+10 3.36361882e+01 9.87802696e+02]
+  Cluster CS_27_67000: N=2, SUM[:3]=[ 1.99081000e+05 -1.64539433e+00 -1.28448978e+00], SUMSQ[:3]=[1.98226393e+10 1.53659010e+00 1.56280968e+00]
+  Cluster CS_40_67000: N=2, SUM[:3]=[ 1.97844000e+05 -1.86402237e+00 -1.19020206e+00], SUMSQ[:3]=[1.95711242e+10 1.88815696e+00 7.08518354e-01]
+  Cluster CS_15_69000: N=2, SUM[:3]=[ 1.72575000e+05 -3.82576108e-01 -8.93496454e-01], SUMSQ[:3]=[1.48910726e+10 1.31561629e-01 4.66149664e-01]
+  Cluster CS_32_69000: N=2, SUM[:3]=[ 1.91704000e+05  1.14410008e+02 -2.10608602e+00], SUMSQ[:3]=[1.83753223e+10 1.31738998e+04 2.27729044e+00]
+  Cluster CS_3_69000: N=2, SUM[:3]=[1.93482000e+05 2.67386935e+01 6.00209782e+01], SUMSQ[:3]=[1.87199491e+10 7.72561024e+02 3.54110283e+03]
+  Cluster CS_14_69000: N=3, SUM[:3]=[3.17045000e+05 6.89780440e+01 9.23266107e+01], SUMSQ[:3]=[3.35066362e+10 5.01268121e+03 8.58166947e+03]
   Cluster CS_0_69000: N=2, SUM[:3]=[ 2.10984000e+05 -2.05125141e+00 -2.59060049e+00], SUMSQ[:3]=[2.22571243e+10 2.20200504e+00 3.35569057e+00]
-  Cluster CS_8_69000: N=3, SUM[:3]=[ 3.17589000e+05 -1.84221498e+00 -8.09915304e-01], SUMSQ[:3]=[3.36213364e+10 1.76696056e+00 1.95925499e+00]
-  Cluster CS_27_69000: N=3, SUM[:3]=[3.18233000e+05 3.67347372e+00 7.72199678e+00], SUMSQ[:3]=[3.37576059e+10 5.81712544e+00 2.17540404e+01]
-  Cluster CS_47_71000: N=2, SUM[:3]=[2.18069000e+05 4.35043842e+00 7.92153350e+01], SUMSQ[:3]=[2.37770684e+10 2.13054064e+01 6.36548213e+03]
-  Cluster CS_18_72000: N=2, SUM[:3]=[9.18690000e+04 3.70888406e+00 6.99936879e+00], SUMSQ[:3]=[4.23263219e+09 1.00550326e+01 3.07199621e+01]
-  Cluster CS_3_72000: N=2, SUM[:3]=[1.33561000e+05 8.18693592e+01 5.48213869e+00], SUMSQ[:3]=[8.93392064e+09 6.82801763e+03 3.75574887e+01]
-  Cluster CS_27_72000: N=2, SUM[:3]=[ 2.13991000e+05 -2.77787149e+00 -1.58959493e-01], SUMSQ[:3]=[2.28960740e+10 4.15301906e+00 8.94578261e-02]
-  Cluster CS_31_72000: N=4, SUM[:3]=[435767.           2202.53918292    892.12913626], SUMSQ[:3]=[4.74760605e+10 1.94741935e+06 4.24880667e+05]
-  Cluster CS_35_72000: N=2, SUM[:3]=[ 2.18684000e+05 -8.92266393e-01  5.36154020e+00], SUMSQ[:3]=[2.39114602e+10 4.29493617e-01 4.32582103e+01]
-  Cluster CS_7_72000: N=2, SUM[:3]=[ 2.19581000e+05 -5.61253548e-01 -1.13506526e-01], SUMSQ[:3]=[2.41083083e+10 8.73005908e-01 2.12572230e-01]
-  Cluster CS_40_72000: N=4, SUM[:3]=[4.39460000e+05 1.89784037e+01 1.41358152e+01], SUMSQ[:3]=[4.82815643e+10 1.12036129e+02 1.19311604e+02]
-  Cluster CS_20_72000: N=3, SUM[:3]=[ 3.29664000e+05 -2.24009700e-01 -2.18997806e-01], SUMSQ[:3]=[3.62265217e+10 1.01142157e+00 3.61922355e-01]
-  Cluster CS_48_74000: N=4, SUM[:3]=[4.46345000e+05 5.53488982e+00 3.39481196e+01], SUMSQ[:3]=[4.98064639e+10 4.26517100e+01 5.65117166e+02]
-  Cluster CS_24_74000: N=2, SUM[:3]=[ 2.24890000e+05 -2.00604606e+00 -9.34642407e-01], SUMSQ[:3]=[2.52877858e+10 2.01457131e+00 9.00826551e-01]
-  Cluster CS_33_75000: N=2, SUM[:3]=[ 6.21330000e+04  3.68757069e+00 -2.14858019e+00], SUMSQ[:3]=[1.94313266e+09 2.51320114e+01 2.44938549e+00]
-  Cluster CS_4_75000: N=2, SUM[:3]=[1.74127000e+05 1.06791190e+03 4.92076814e+01], SUMSQ[:3]=[1.51601062e+10 6.02062345e+05 2.42653399e+03]
-  Cluster CS_31_75000: N=2, SUM[:3]=[ 1.98618000e+05 -1.13366270e+00 -1.84199005e+00], SUMSQ[:3]=[1.97246432e+10 1.48007354e+00 2.61972586e+00]
-  Cluster CS_22_75000: N=3, SUM[:3]=[3.17938000e+05 2.46663515e+01 6.31901290e+01], SUMSQ[:3]=[3.36952225e+10 5.01244277e+02 3.70961647e+03]
-  Cluster CS_24_75000: N=2, SUM[:3]=[221138.            351.4985309     485.86775332], SUMSQ[:3]=[2.44528049e+10 1.23506261e+05 2.35986336e+05]
-  Cluster CS_47_75000: N=2, SUM[:3]=[ 2.21809000e+05 -1.01371227e+00 -9.37353551e-01], SUMSQ[:3]=[2.46012816e+10 8.11526009e-01 5.81946352e-01]
-  Cluster CS_25_75000: N=3, SUM[:3]=[ 3.38875000e+05 -9.11245532e-01 -1.60908550e+00], SUMSQ[:3]=[3.82820602e+10 7.40581144e-01 9.55016329e-01]
-  Cluster CS_30_75000: N=3, SUM[:3]=[3.41513000e+05 1.27968872e+01 1.28617087e+00], SUMSQ[:3]=[3.88770883e+10 1.14981827e+02 8.62990696e+00]
-  Cluster CS_7_75000: N=2, SUM[:3]=[ 2.27870000e+05  4.71166694e+00 -2.38460767e+00], SUMSQ[:3]=[2.59625057e+10 3.15901928e+01 2.85531054e+00]
-  Cluster CS_48_75000: N=3, SUM[:3]=[ 3.41584000e+05  5.63766167e-01 -1.32250792e+00], SUMSQ[:3]=[3.88932116e+10 2.26264291e+00 1.65834462e+00]
-  Cluster CS_9_75000: N=6, SUM[:3]=[ 6.83334000e+05 -5.64853728e-01  1.45849884e-01], SUMSQ[:3]=[7.78242318e+10 1.13168536e+01 3.99310472e+01]
-  Cluster CS_27_75000: N=3, SUM[:3]=[3.41626000e+05 6.70936361e-01 7.93201983e-01], SUMSQ[:3]=[3.89027772e+10 6.44015422e-01 2.76694838e+00]
-  Cluster CS_0_75000: N=6, SUM[:3]=[6.83365000e+05 6.65914351e+00 7.22603554e+00], SUMSQ[:3]=[7.78312886e+10 4.14056315e+01 6.06292032e+01]
-  Cluster CS_41_75000: N=3, SUM[:3]=[ 3.41681000e+05  8.85988903e+00 -1.10795209e+00], SUMSQ[:3]=[3.89153027e+10 8.26462859e+01 1.15996710e+00]
-  Cluster CS_40_75000: N=5, SUM[:3]=[ 5.71098000e+05 -2.47421691e+00 -8.73596404e-01], SUMSQ[:3]=[6.52307022e+10 2.76528840e+00 2.83741311e+00]
-  Cluster CS_20_75000: N=3, SUM[:3]=[ 3.42596000e+05  3.48203766e+01 -2.48118591e+00], SUMSQ[:3]=[3.91240232e+10 5.94872092e+02 2.06819980e+00]
-  Cluster CS_46_79000: N=2, SUM[:3]=[2.29869000e+05 7.80586958e-01 9.15325051e-01], SUMSQ[:3]=[2.64203120e+10 6.61191014e+00 8.83094264e-01]
-  Cluster CS_13_79000: N=4, SUM[:3]=[4.59864000e+05 3.39475407e+00 3.13130949e+01], SUMSQ[:3]=[5.28691292e+10 1.54133538e+01 1.04278588e+03]
-  Cluster CS_38_79000: N=2, SUM[:3]=[ 2.30168000e+05 -2.40337980e+00 -2.01672748e+00], SUMSQ[:3]=[2.64888451e+10 2.95368605e+00 2.60773328e+00]
-  Cluster CS_42_79000: N=2, SUM[:3]=[2.29914000e+05 3.90084982e-02 1.28925576e+01], SUMSQ[:3]=[2.64302457e+10 5.65652792e-01 1.33451608e+02]
-  Cluster CS_9_79000: N=3, SUM[:3]=[ 3.57966333e+05 -4.10592109e+00 -2.87965672e+00], SUMSQ[:3]=[4.27224516e+10 6.40986907e+00 4.51324650e+00]
-  Cluster CS_46_80000: N=2, SUM[:3]=[2.36991000e+05 2.51410550e+00 4.11350167e+00], SUMSQ[:3]=[2.80825278e+10 1.25201048e+01 1.00584954e+01]
-  Cluster CS_23_80000: N=2, SUM[:3]=[ 2.37212000e+05  3.83855343e-01 -6.76021338e-01], SUMSQ[:3]=[2.81347665e+10 3.00886800e+00 1.39251595e+00]
-  Cluster CS_24_80000: N=2, SUM[:3]=[ 2.40078000e+05 -5.88047745e-01  5.01755714e-01], SUMSQ[:3]=[2.88188460e+10 3.81760829e-01 1.33098422e+00]
-  Cluster CS_41_80000: N=2, SUM[:3]=[ 2.40565000e+05 -1.91791230e+00 -5.42479977e-02], SUMSQ[:3]=[2.89357596e+10 2.48897646e+00 1.74038890e-02]
-  Cluster CS_25_80000: N=2, SUM[:3]=[ 2.41054000e+05 -1.82894939e+00  1.49119008e+00], SUMSQ[:3]=[2.90535175e+10 1.82063175e+00 1.11405569e+00]
-  Cluster CS_41_82000: N=2, SUM[:3]=[2.38917000e+05 2.65589488e+00 1.20067582e-01], SUMSQ[:3]=[2.85407831e+10 1.01678987e+01 1.13778778e-01]
-  Cluster CS_24_82000: N=2, SUM[:3]=[2.39989000e+05 1.49918217e+01 2.38845283e+01], SUMSQ[:3]=[2.87975395e+10 2.13155388e+02 4.99799829e+02]
-  Cluster CS_45_82000: N=2, SUM[:3]=[ 2.43551000e+05 -2.43906999e+00  3.68915015e+00], SUMSQ[:3]=[2.96585724e+10 2.97632801e+00 1.76970970e+01]
-  Cluster CS_49_83000: N=2, SUM[:3]=[2.45891000e+05 4.24697185e+00 8.31704736e-02], SUMSQ[:3]=[3.02311945e+10 1.33521607e+01 1.36251897e-01]
-  Cluster CS_20_83000: N=2, SUM[:3]=[ 2.47359000e+05 -2.30442965e+00 -1.39740735e+00], SUMSQ[:3]=[3.05932379e+10 2.66440093e+00 1.56967295e+00]
-  Cluster CS_22_83000: N=2, SUM[:3]=[ 2.49294000e+05 -1.50515571e+00 -1.61105740e+00], SUMSQ[:3]=[3.10737493e+10 1.34005492e+00 1.31485611e+00]
-  Cluster CS_49_84000: N=3, SUM[:3]=[3.49985000e+05 7.12134436e+01 1.55094986e+01], SUMSQ[:3]=[4.08328814e+10 4.40386196e+03 2.66668256e+02]
-  Cluster CS_9_84000: N=2, SUM[:3]=[ 2.48511000e+05 -1.86062270e+00 -2.19471717e+00], SUMSQ[:3]=[3.08795536e+10 1.77201783e+00 2.53873042e+00]
+  Cluster CS_31_71000: N=2, SUM[:3]=[ 2.03898000e+05 -1.62928259e+00 -1.37528217e+00], SUMSQ[:3]=[2.07872905e+10 1.43768614e+00 9.81760243e-01]
+  Cluster CS_14_71000: N=2, SUM[:3]=[ 2.13992000e+05  3.73271084e+00 -1.04022056e-01], SUMSQ[:3]=[2.28962880e+10 2.34565218e+01 1.05277442e-01]
+  Cluster CS_26_72000: N=2, SUM[:3]=[1.95228000e+05 1.95105755e+00 2.31953028e+01], SUMSQ[:3]=[1.90574682e+10 1.91516421e+00 5.93968214e+02]
+  Cluster CS_31_72000: N=2, SUM[:3]=[2.18050000e+05 3.37604570e+00 7.84098685e+01], SUMSQ[:3]=[2.37729296e+10 2.27578621e+01 6.36704370e+03]
+  Cluster CS_4_72000: N=3, SUM[:3]=[328227.           2203.84835817    892.79776459], SUMSQ[:3]=[3.59112089e+10 1.94741763e+06 4.24880220e+05]
+  Cluster CS_3_72000: N=2, SUM[:3]=[ 2.18684000e+05 -8.92266393e-01  5.36154020e+00], SUMSQ[:3]=[2.39114602e+10 4.29493617e-01 4.32582103e+01]
+  Cluster CS_49_72000: N=3, SUM[:3]=[3.29457000e+05 1.82940197e+01 1.47850654e+01], SUMSQ[:3]=[3.61809043e+10 1.11567748e+02 1.18890079e+02]
+  Cluster CS_47_72000: N=3, SUM[:3]=[ 3.29664000e+05 -2.24009700e-01 -2.18997806e-01], SUMSQ[:3]=[3.62265217e+10 1.01142157e+00 3.61922355e-01]
+  Cluster CS_31_74000: N=2, SUM[:3]=[ 2.24890000e+05 -2.00604606e+00 -9.34642407e-01], SUMSQ[:3]=[2.52877858e+10 2.01457131e+00 9.00826551e-01]
+  Cluster CS_44_75000: N=2, SUM[:3]=[6.49100000e+04 1.58608043e+01 1.89107058e+01], SUMSQ[:3]=[2.11756784e+09 1.95272376e+02 2.93487887e+02]
+  Cluster CS_26_75000: N=2, SUM[:3]=[1.33464000e+05 2.32140344e+00 1.75856382e+00], SUMSQ[:3]=[8.92149970e+09 1.00647733e+01 6.01388409e+00]
+  Cluster CS_18_75000: N=2, SUM[:3]=[1.34906000e+05 1.77476124e+01 4.40459561e+01], SUMSQ[:3]=[9.10830986e+09 3.69090074e+02 1.98508265e+03]
+  Cluster CS_24_75000: N=3, SUM[:3]=[3.08446000e+05 2.17040929e+01 5.98374517e+01], SUMSQ[:3]=[3.17350284e+10 4.96665530e+02 3.70280653e+03]
+  Cluster CS_9_75000: N=2, SUM[:3]=[221138.            351.4985309     485.86775332], SUMSQ[:3]=[2.44528049e+10 1.23506261e+05 2.35986336e+05]
+  Cluster CS_35_75000: N=2, SUM[:3]=[ 2.26222000e+05 -8.15219358e-02 -8.30218256e-01], SUMSQ[:3]=[2.55913618e+10 5.21398977e-02 3.48382144e-01]
+  Cluster CS_41_75000: N=3, SUM[:3]=[3.39774000e+05 2.89057732e-01 1.63242618e+01], SUMSQ[:3]=[3.84842480e+10 1.42681466e+01 1.27582797e+02]
+  Cluster CS_7_75000: N=4, SUM[:3]=[ 4.55105000e+05 -1.32005785e+00 -1.17295676e+00], SUMSQ[:3]=[5.17801928e+10 3.53521758e+00 3.80502789e+00]
+  Cluster CS_0_75000: N=2, SUM[:3]=[ 2.27870000e+05  4.71166694e+00 -2.38460767e+00], SUMSQ[:3]=[2.59625057e+10 3.15901928e+01 2.85531054e+00]
+  Cluster CS_20_75000: N=4, SUM[:3]=[ 4.55743000e+05 -3.27941361e+00 -3.52010059e+00], SUMSQ[:3]=[5.19254579e+10 3.33400296e+00 3.41386355e+00]
+  Cluster CS_4_75000: N=5, SUM[:3]=[ 5.6937100e+05  1.4318029e+00 -1.2059148e+00], SUMSQ[:3]=[6.48366709e+10 2.86780977e+00 3.96749345e+00]
+  Cluster CS_40_75000: N=5, SUM[:3]=[5.69447000e+05 2.14825189e+00 7.09606314e+00], SUMSQ[:3]=[6.48539822e+10 2.18383863e+01 6.74300102e+01]
+  Cluster CS_3_75000: N=4, SUM[:3]=[ 4.55544000e+05  8.55044645e+00 -2.27319679e+00], SUMSQ[:3]=[5.18800855e+10 8.27420406e+01 2.51776231e+00]
+  Cluster CS_15_75000: N=4, SUM[:3]=[4.55604000e+05 4.73880869e+00 3.49615186e+00], SUMSQ[:3]=[5.18937519e+10 2.88732918e+01 2.92039491e+01]
+  Cluster CS_17_77000: N=2, SUM[:3]=[2.29711000e+05 1.25212759e+00 6.97576225e-01], SUMSQ[:3]=[2.63836570e+10 3.37407265e+00 2.57779400e+00]
+  Cluster CS_49_77000: N=2, SUM[:3]=[ 2.29973000e+05  9.96922135e-01 -6.01710096e-01], SUMSQ[:3]=[2.64438798e+10 5.11217325e+00 2.40003235e-01]
+  Cluster CS_30_78000: N=2, SUM[:3]=[ 2.36174000e+05 -3.46315479e+00 -2.99961853e+00], SUMSQ[:3]=[2.78890791e+10 5.99672056e+00 4.49885566e+00]
+  Cluster CS_39_79000: N=2, SUM[:3]=[2.29869000e+05 7.80586958e-01 9.15325051e-01], SUMSQ[:3]=[2.64203120e+10 6.61191014e+00 8.83094264e-01]
+  Cluster CS_41_79000: N=2, SUM[:3]=[ 2.30124000e+05 -1.42057860e+00 -7.34729301e-01], SUMSQ[:3]=[2.64785615e+10 1.19509768e+00 6.04315238e-01]
+  Cluster CS_45_79000: N=2, SUM[:3]=[ 2.30527000e+05 -1.83199275e+00 -2.72502625e+00], SUMSQ[:3]=[2.65713824e+10 2.11382513e+00 3.77886950e+00]
+  Cluster CS_9_79000: N=2, SUM[:3]=[ 2.35500000e+05 -2.03320068e+00 -1.77229190e+00], SUMSQ[:3]=[2.77324838e+10 2.90721703e+00 1.91647512e+00]
+  Cluster CS_20_79000: N=2, SUM[:3]=[ 2.37212000e+05  3.83855343e-01 -6.76021338e-01], SUMSQ[:3]=[2.81347665e+10 3.00886800e+00 1.39251595e+00]
+  Cluster CS_35_79000: N=4, SUM[:3]=[4.75055000e+05 1.85545532e+02 1.51261138e+02], SUMSQ[:3]=[5.64193158e+10 3.51405105e+04 2.06076912e+04]
+  Cluster CS_14_80000: N=2, SUM[:3]=[2.28641000e+05 1.18399692e+00 2.57446021e+00], SUMSQ[:3]=[2.61388018e+10 9.97829333e-01 9.80486286e+00]
+  Cluster CS_17_80000: N=2, SUM[:3]=[ 2.29934000e+05 -1.73529530e+00 -2.32266247e+00], SUMSQ[:3]=[2.64350975e+10 1.59616975e+00 2.69825158e+00]
+  Cluster CS_49_80000: N=3, SUM[:3]=[ 3.60368000e+05 -2.11580026e+00 -7.73221970e-01], SUMSQ[:3]=[4.32885302e+10 2.71578859e+00 2.95655231e+00]
+  Cluster CS_19_80000: N=2, SUM[:3]=[ 2.40575000e+05 -1.49582297e+00 -5.58362767e-01], SUMSQ[:3]=[2.89381653e+10 2.33878096e+00 2.08894532e-01]
+  Cluster CS_0_82000: N=2, SUM[:3]=[ 2.40304000e+05 -3.58576074e-01  1.20077153e+00], SUMSQ[:3]=[2.88732470e+10 3.30410777e-01 1.09622669e+00]
+  Cluster CS_27_82000: N=3, SUM[:3]=[ 3.64591000e+05 -1.70548776e+00 -1.66412524e+00], SUMSQ[:3]=[4.43117030e+10 1.14324885e+00 1.60349598e+00]
+  Cluster CS_32_83000: N=2, SUM[:3]=[ 2.31250000e+05 -1.34296477e+00 -8.80193532e-01], SUMSQ[:3]=[2.67404905e+10 9.06915109e-01 4.20607273e-01]
+  Cluster CS_17_83000: N=3, SUM[:3]=[ 3.67222000e+05 -3.86541450e+00  2.80341095e+00], SUMSQ[:3]=[4.49530887e+10 5.01078668e+00 1.84816310e+01]
+  Cluster CS_27_83000: N=2, SUM[:3]=[ 2.49294000e+05 -1.50515571e+00 -1.61105740e+00], SUMSQ[:3]=[3.10737493e+10 1.34005492e+00 1.31485611e+00]
+  Cluster CS_4_84000: N=2, SUM[:3]=[ 1.97873000e+05 -4.66884911e-01 -1.24202934e+00], SUMSQ[:3]=[1.95836886e+10 1.81892853e+00 1.01106228e+00]
+  Cluster CS_45_84000: N=3, SUM[:3]=[ 3.71706000e+05  3.77388596e-01 -1.60303865e+00], SUMSQ[:3]=[4.60554143e+10 9.85655004e+00 1.61195718e+00]
   Cluster CS_7_84000: N=3, SUM[:3]=[ 3.76826000e+05  3.33314311e+01 -1.49915357e+00], SUMSQ[:3]=[4.73334794e+10 1.23354720e+03 9.50190738e-01]
-  Cluster CS_35_84000: N=4, SUM[:3]=[ 5.03869000e+05 -2.89441779e-01  4.44479525e-01], SUMSQ[:3]=[6.34709924e+10 3.79945198e-01 8.69357796e+00]
-  Cluster CS_42_85000: N=2, SUM[:3]=[ 2.443100e+05 -1.316524e+00 -1.726255e+00], SUMSQ[:3]=[2.98441841e+10 9.91956041e-01 1.59963588e+00]
-  Cluster CS_4_85000: N=3, SUM[:3]=[3.80019000e+05 5.09773135e-01 5.99507904e+00], SUMSQ[:3]=[4.81397813e+10 1.44183160e+00 1.20967607e+01]
-  Cluster CS_49_86000: N=2, SUM[:3]=[ 2.49638000e+05 -3.14553380e-01 -7.31023803e-01], SUMSQ[:3]=[3.11622013e+10 3.27053820e+00 8.08470800e-01]
-  Cluster CS_48_86000: N=2, SUM[:3]=[2.55347000e+05 3.12380064e+00 1.57283286e+01], SUMSQ[:3]=[3.26010899e+10 1.97691579e+01 2.66694400e+02]
-  Cluster CS_39_87000: N=2, SUM[:3]=[2.5285700e+05 2.3031261e+00 1.1708546e+01], SUMSQ[:3]=[3.19687911e+10 3.48790638e+00 1.09706607e+02]
-  Cluster CS_15_87000: N=2, SUM[:3]=[ 2.55338000e+05 -2.82638395e+00 -2.98877645e+00], SUMSQ[:3]=[3.26010886e+10 3.99487647e+00 4.49151499e+00]
-  Cluster CS_3_88000: N=2, SUM[:3]=[1.98971000e+05 3.48186243e+00 8.24932814e-01], SUMSQ[:3]=[1.97966287e+10 7.63469115e+00 3.90316888e-01]
-  Cluster CS_22_88000: N=2, SUM[:3]=[ 2.28986000e+05  1.30249938e+00 -1.72513223e+00], SUMSQ[:3]=[2.62172941e+10 1.06293726e+00 1.69024245e+00]
-  Cluster CS_47_88000: N=2, SUM[:3]=[ 2.39335000e+05 -1.82936743e-01 -3.03034231e-01], SUMSQ[:3]=[2.86420039e+10 1.70142029e-01 2.49075520e-01]
-  Cluster CS_41_88000: N=2, SUM[:3]=[2.50717000e+05 4.74181247e+00 1.25707244e+01], SUMSQ[:3]=[3.14315533e+10 1.14357253e+01 1.63277550e+02]
-  Cluster CS_49_88000: N=2, SUM[:3]=[ 2.58686000e+05 -1.09752893e-01 -9.17693228e-01], SUMSQ[:3]=[3.34592445e+10 3.80054982e-01 4.33560814e-01]
-  Cluster CS_48_88000: N=2, SUM[:3]=[ 2.60220000e+05  7.63839364e-01 -6.25132456e-01], SUMSQ[:3]=[3.38576149e+10 1.90385916e+00 2.73895616e-01]
-  Cluster CS_7_88000: N=2, SUM[:3]=[ 2.61486000e+05 -6.69935688e-01 -1.57733446e+00], SUMSQ[:3]=[3.41878836e+10 3.06728447e-01 1.28807799e+00]
-  Cluster CS_13_88000: N=4, SUM[:3]=[5.21485000e+05 6.02129192e+01 2.27748945e+01], SUMSQ[:3]=[6.79867079e+10 1.95726972e+03 2.71773566e+02]
-  Cluster CS_30_88000: N=3, SUM[:3]=[3.91642000e+05 4.73374107e+00 1.75149386e+00], SUMSQ[:3]=[5.11278187e+10 2.24597543e+01 1.62072637e+00]
-  Cluster CS_40_88000: N=4, SUM[:3]=[ 5.26160000e+05 -1.14825672e+00 -1.59595394e+00], SUMSQ[:3]=[6.92148925e+10 1.70776986e+00 5.01598551e+00]
-  Cluster CS_42_90000: N=3, SUM[:3]=[3.92337000e+05 4.12890345e-01 1.40590788e+00], SUMSQ[:3]=[5.13107673e+10 2.24368151e+00 5.42079931e+00]
-  Cluster CS_25_90000: N=3, SUM[:3]=[3.97892000e+05 1.21998766e+01 8.24701807e+00], SUMSQ[:3]=[5.27741169e+10 1.26145809e+02 8.54605449e+01]
-  Cluster CS_43_90000: N=3, SUM[:3]=[4.13371571e+05 3.55566958e+00 3.83008446e-01], SUMSQ[:3]=[5.71397543e+10 1.32297633e+01 3.79725239e+00]
-  Cluster CS_47_90000: N=5, SUM[:3]=[6.64792000e+05 2.06783651e+00 9.48889776e+00], SUMSQ[:3]=[8.83905963e+10 1.77213961e+01 9.28204832e+01]
-  Cluster CS_48_90000: N=2, SUM[:3]=[ 2.65488000e+05 -1.64832425e+00 -6.23883471e-01], SUMSQ[:3]=[3.52419698e+10 1.38504231e+00 7.93261667e-01]
-  Cluster CS_27_90000: N=2, SUM[:3]=[2.66461000e+05 1.93149088e+02 1.24017131e+02], SUMSQ[:3]=[3.55010098e+10 3.73727903e+04 1.53928449e+04]
-  Cluster CS_28_90000: N=5, SUM[:3]=[6.67098000e+05 1.38496547e+01 8.93894070e+01], SUMSQ[:3]=[8.90043330e+10 8.51195881e+01 4.30956370e+03]
-  Cluster CS_7_91000: N=3, SUM[:3]=[4.13468429e+05 9.26180445e+01 9.29850306e+01], SUMSQ[:3]=[5.70441923e+10 8.94161965e+03 8.84266243e+03]
-  Cluster CS_14_92000: N=2, SUM[:3]=[2.64662000e+05 1.19551218e+00 4.52445573e+00], SUMSQ[:3]=[3.50229872e+10 3.00107478e+00 1.82301219e+01]
-  Cluster CS_17_92000: N=2, SUM[:3]=[2.66273000e+05 4.26446003e+00 4.37992851e+00], SUMSQ[:3]=[3.54512181e+10 1.24811448e+01 2.05136603e+01]
-  Cluster CS_47_92000: N=2, SUM[:3]=[ 2.68826000e+05 -4.58793176e-01 -2.75884867e+00], SUMSQ[:3]=[3.61338412e+10 1.98862927e-01 3.94350952e+00]
-  Cluster CS_0_92000: N=2, SUM[:3]=[ 2.70491000e+05 -1.04589227e+00  1.41253346e+00], SUMSQ[:3]=[3.65844785e+10 6.71099044e-01 3.36131251e+00]
-  Cluster CS_41_92000: N=3, SUM[:3]=[ 4.06027000e+05  1.00329480e+00 -2.29872274e+00], SUMSQ[:3]=[5.49539534e+10 2.88613473e+00 1.87514423e+00]
-  Cluster CS_48_92000: N=10, SUM[:3]=[1.36155400e+06 8.43282864e+01 2.09670447e+02], SUMSQ[:3]=[1.85387283e+11 7.05838263e+03 6.63190532e+03]
-  Cluster CS_23_92000: N=2, SUM[:3]=[2.70488000e+05 4.57806873e+00 1.08995763e+03], SUMSQ[:3]=[3.65818791e+10 2.95571039e+01 1.08673418e+06]
-  Cluster CS_45_92000: N=3, SUM[:3]=[ 4.07452000e+05 -2.61010540e+00  1.98531121e-01], SUMSQ[:3]=[5.53393267e+10 2.30145931e+00 4.31486568e-01]
-  Cluster CS_14_94000: N=2, SUM[:3]=[2.68675000e+05 3.96875060e+00 6.05883539e-01], SUMSQ[:3]=[3.60931329e+10 1.64832937e+01 1.52267355e+00]
-  Cluster CS_17_94000: N=4, SUM[:3]=[ 5.54485000e+05 -3.26581007e+00 -2.16241270e+00], SUMSQ[:3]=[7.68649413e+10 3.17559767e+00 1.35357922e+00]
-  Cluster CS_23_95000: N=2, SUM[:3]=[ 2.27771000e+05 -1.31144506e+00 -1.35735632e+00], SUMSQ[:3]=[2.59398152e+10 1.09976368e+00 1.39470208e+00]
-  Cluster CS_24_95000: N=2, SUM[:3]=[2.53211000e+05 3.43580400e+01 9.30493581e+00], SUMSQ[:3]=[3.20587620e+10 1.23263642e+03 1.02468951e+02]
-  Cluster CS_27_95000: N=2, SUM[:3]=[ 2.74769000e+05 -6.40731672e-01 -1.75797105e+00], SUMSQ[:3]=[3.77497157e+10 3.98718620e-01 1.79411953e+00]
-  Cluster CS_40_95000: N=4, SUM[:3]=[ 5.57318000e+05  2.54235173e+01 -7.20309794e-01], SUMSQ[:3]=[7.76530989e+10 6.45535235e+02 3.51781684e+00]
-  Cluster CS_0_95000: N=4, SUM[:3]=[5.56328000e+05 2.13707042e+01 3.06571304e+01], SUMSQ[:3]=[7.73759473e+10 2.85950622e+02 9.63413195e+02]
-  Cluster CS_15_95000: N=3, SUM[:3]=[ 4.19237000e+05 -1.20764616e+00 -8.87099151e-01], SUMSQ[:3]=[5.85865758e+10 2.14601665e+00 2.02951006e+00]
-  Cluster CS_7_95000: N=3, SUM[:3]=[4.19604000e+05 5.45490059e+00 1.27885288e+01], SUMSQ[:3]=[5.86891723e+10 1.62131349e+01 8.08666257e+01]
-  Cluster CS_45_96000: N=3, SUM[:3]=[4.23254000e+05 2.11199310e+02 4.64555979e-01], SUMSQ[:3]=[5.97158947e+10 4.43933576e+04 1.04980277e+01]
-  Cluster CS_35_96000: N=2, SUM[:3]=[2.83055000e+05 3.95070112e+00 5.33401775e+00], SUMSQ[:3]=[4.00600665e+10 7.95355742e+00 1.42474729e+01]
-  Cluster CS_0_97000: N=3, SUM[:3]=[4.25224000e+05 5.05315313e+00 1.67162383e+01], SUMSQ[:3]=[6.02732651e+10 3.77212054e+01 1.45897998e+02]
-  Cluster CS_46_97000: N=2, SUM[:3]=[2.84389000e+05 3.32647562e-01 3.49363494e+00], SUMSQ[:3]=[4.04387181e+10 1.39010117e+00 2.02476060e+01]
-  Cluster CS_47_97000: N=2, SUM[:3]=[ 2.83950000e+05 -2.62966788e+00 -2.29556024e+00], SUMSQ[:3]=[4.03138013e+10 3.52192265e+00 2.65497847e+00]
-  Cluster CS_22_98000: N=6, SUM[:3]=[8.64327000e+05 5.91833190e+01 2.65014194e+01], SUMSQ[:3]=[1.24512159e+11 2.47724484e+03 4.36489092e+02]
-  Cluster CS_38_99000: N=3, SUM[:3]=[3.84761000e+05 1.91166363e+01 3.91110338e+00], SUMSQ[:3]=[4.93551671e+10 2.00475965e+02 1.12448891e+01]
-  Cluster CS_42_99000: N=2, SUM[:3]=[ 2.75359000e+05 -6.10516850e-01  1.86870134e+00], SUMSQ[:3]=[3.79156969e+10 4.36928125e-01 8.96270979e+00]
-  Cluster CS_31_99000: N=2, SUM[:3]=[2.76135000e+05 5.52191395e+00 7.63031101e+00], SUMSQ[:3]=[3.81257842e+10 2.46562784e+01 3.87875990e+01]
-  Cluster CS_14_99000: N=2, SUM[:3]=[ 2.81089000e+05 -1.88628346e+00 -6.25873491e-01], SUMSQ[:3]=[3.95065483e+10 1.89248753e+00 4.42608547e-01]
-  Cluster CS_45_99000: N=2, SUM[:3]=[ 2.88754000e+05 -5.03624976e-01 -1.44506068e+00], SUMSQ[:3]=[4.16897790e+10 1.82515124e+00 1.83621644e+00]
-  Cluster CS_17_99000: N=4, SUM[:3]=[5.91002000e+05 9.17837676e+01 2.12704527e+01], SUMSQ[:3]=[8.73882011e+10 6.91712470e+03 1.96625271e+02]
-  Cluster CS_25_99000: N=3, SUM[:3]=[4.35338000e+05 2.95383722e-01 3.70587175e+00], SUMSQ[:3]=[6.31732075e+10 2.42894559e+00 8.13753790e+00]
-  Cluster CS_39_99000: N=3, SUM[:3]=[4.36284000e+05 6.82679223e+00 1.26936716e+00], SUMSQ[:3]=[6.34482623e+10 5.60045947e+01 2.55749715e+00]
-  Cluster CS_48_100000: N=2, SUM[:3]=[ 2.92731000e+05 -8.68213266e-01 -3.62376392e-01], SUMSQ[:3]=[4.28461360e+10 6.90384863e-01 2.69421766e-01]
-  Cluster CS_47_100000: N=2, SUM[:3]=[ 2.92138000e+05 -2.55636692e+00 -6.10974401e-01], SUMSQ[:3]=[4.26723554e+10 3.62037875e+00 9.38776471e-01]
-  Cluster CS_0_100000: N=3, SUM[:3]=[ 4.40280000e+05  1.33734274e+00 -1.82403123e+00], SUMSQ[:3]=[6.46158457e+10 5.92489411e+00 1.72332334e+00]
-  Cluster CS_45_100000: N=2, SUM[:3]=[ 2.93548000e+05  5.63248539e+00 -2.14082032e+00], SUMSQ[:3]=[4.30852142e+10 3.83295773e+01 2.34799443e+00]
-  Cluster CS_40_101000: N=2, SUM[:3]=[2.94915000e+05 1.01600585e+01 1.23936439e+00], SUMSQ[:3]=[4.34883197e+10 5.71734559e+01 3.17945011e+00]
-  Cluster CS_47_102000: N=2, SUM[:3]=[ 2.97275000e+05 -1.83709028e+00 -2.29362637e+00], SUMSQ[:3]=[4.41874626e+10 2.47529812e+00 2.72490601e+00]
-  Cluster CS_23_103000: N=3, SUM[:3]=[4.46342000e+05 4.87189949e-01 8.98522008e+00], SUMSQ[:3]=[6.64084370e+10 4.85524510e+00 1.16752295e+02]
-  Cluster CS_15_103000: N=3, SUM[:3]=[4.49701000e+05 6.81231329e+01 5.39166157e+01], SUMSQ[:3]=[6.74105815e+10 3.38392651e+03 2.08128173e+03]
-  Cluster CS_49_103000: N=2, SUM[:3]=[ 3.01283000e+05 -2.56619596e+00 -3.15943468e+00], SUMSQ[:3]=[4.53857230e+10 3.31240053e+00 4.99287524e+00]
-  Cluster CS_37_104000: N=2, SUM[:3]=[ 2.83353000e+05 -5.62553506e-01 -1.73394054e+00], SUMSQ[:3]=[4.01505409e+10 3.71842713e-01 1.51888339e+00]
-  Cluster CS_17_104000: N=2, SUM[:3]=[2.90883000e+05 1.89747447e+00 4.25856549e+00], SUMSQ[:3]=[4.23064651e+10 1.92445137e+00 1.79906932e+01]
-  Cluster CS_0_104000: N=2, SUM[:3]=[ 3.02871000e+05 -8.80614221e-01  3.04712397e+00], SUMSQ[:3]=[4.58677736e+10 2.06901314e+00 1.12573068e+01]
-  Cluster CS_22_104000: N=3, SUM[:3]=[ 4.56684000e+05  1.96801312e+01 -4.17628133e+00], SUMSQ[:3]=[6.95202267e+10 4.62550204e+02 6.11258545e+00]
-  Cluster CS_24_104000: N=3, SUM[:3]=[ 4.57555000e+05 -1.64947391e-01 -3.81285429e-01], SUMSQ[:3]=[6.97855487e+10 8.76133805e+00 9.19203538e+00]
-  Cluster CS_42_105000: N=2, SUM[:3]=[ 3.02913000e+05 -5.14207497e-01 -4.95031795e-01], SUMSQ[:3]=[4.58794761e+10 2.05938805e-01 2.63086557e-01]
-  Cluster CS_45_105000: N=2, SUM[:3]=[ 3.06205000e+05 -4.27956939e-01 -2.09437621e+00], SUMSQ[:3]=[4.68830088e+10 2.16941715e+00 2.21683084e+00]
-  Cluster CS_47_105000: N=3, SUM[:3]=[ 4.59907000e+05  3.24812126e+00 -2.59935272e+00], SUMSQ[:3]=[7.05049338e+10 2.84417456e+01 2.36078407e+00]
-  Cluster CS_0_105000: N=2, SUM[:3]=[3.08132000e+05 2.04430468e+01 1.97076380e+00], SUMSQ[:3]=[4.74731332e+10 3.05790168e+02 1.16151415e+01]
-  Cluster CS_23_105000: N=2, SUM[:3]=[3.09100000e+05 1.12298036e+02 7.16857483e+01], SUMSQ[:3]=[4.77714050e+10 1.25187798e+04 5.34090016e+03]
+  Cluster CS_15_84000: N=2, SUM[:3]=[2.51916000e+05 2.90977180e+00 1.47238277e+00], SUMSQ[:3]=[3.17308357e+10 4.46881400e+00 1.76018414e+00]
+  Cluster CS_20_84000: N=2, SUM[:3]=[ 2.51939000e+05  4.31990191e-01 -1.26095474e+00], SUMSQ[:3]=[3.17366299e+10 9.73091459e-02 9.25732797e-01]
+  Cluster CS_9_86000: N=2, SUM[:3]=[ 2.40203000e+05  2.19821638e+00 -1.80455953e-01], SUMSQ[:3]=[2.88490630e+10 1.08298090e+01 3.06753436e-01]
+  Cluster CS_40_86000: N=3, SUM[:3]=[3.80015000e+05 8.23804945e-01 2.79408759e+00], SUMSQ[:3]=[4.81387736e+10 1.05018909e+00 7.76597693e+00]
+  Cluster CS_32_86000: N=2, SUM[:3]=[ 2.54731000e+05 -6.61515474e-01  9.79915035e+00], SUMSQ[:3]=[3.24443598e+10 1.61626957e+00 1.08320502e+02]
+  Cluster CS_17_88000: N=2, SUM[:3]=[2.17162000e+05 3.73367522e+01 5.75838741e+01], SUMSQ[:3]=[2.35818345e+10 1.49522165e+03 3.39380110e+03]
+  Cluster CS_23_88000: N=2, SUM[:3]=[ 2.25328000e+05 -7.98802346e-01 -2.85249136e-01], SUMSQ[:3]=[2.53894489e+10 1.04529926e+00 4.55814727e-02]
+  Cluster CS_22_88000: N=3, SUM[:3]=[ 3.4376500e+05  2.7012654e+01 -2.6796148e+00], SUMSQ[:3]=[3.93989896e+10 8.01102355e+02 3.90379394e+00]
+  Cluster CS_40_88000: N=3, SUM[:3]=[3.90387000e+05 3.38199094e+00 3.94532264e+00], SUMSQ[:3]=[5.08016223e+10 5.09299494e+00 7.75510036e+00]
+  Cluster CS_15_88000: N=3, SUM[:3]=[3.90909000e+05 3.61754398e+01 1.33697775e+01], SUMSQ[:3]=[5.09366161e+10 1.37946931e+03 1.83317340e+02]
+  Cluster CS_7_88000: N=4, SUM[:3]=[5.21939000e+05 1.73467091e+00 2.40624942e-01], SUMSQ[:3]=[6.81051305e+10 1.89267919e+00 3.84077112e-01]
+  Cluster CS_30_88000: N=4, SUM[:3]=[ 5.25516000e+05  2.77686429e+00 -2.32295372e+00], SUMSQ[:3]=[6.90463229e+10 9.38676889e+00 4.17469264e+00]
+  Cluster CS_21_90000: N=2, SUM[:3]=[2.53630000e+05 1.31697530e+00 1.19892448e+01], SUMSQ[:3]=[3.21644845e+10 4.79565331e+00 1.63854810e+02]
+  Cluster CS_42_90000: N=2, SUM[:3]=[2.56345000e+05 1.45294367e+01 5.48331141e+00], SUMSQ[:3]=[3.28574821e+10 1.86091350e+02 1.57160489e+01]
+  Cluster CS_0_90000: N=9, SUM[:3]=[1.24384300e+06 2.56650458e+01 1.10468001e+01], SUMSQ[:3]=[1.72376521e+11 3.69650745e+02 9.81309310e+01]
+  Cluster CS_4_90000: N=3, SUM[:3]=[3.99864000e+05 3.76793368e+02 1.32937026e+02], SUMSQ[:3]=[5.32973502e+10 6.96276730e+04 1.54828604e+04]
+  Cluster CS_20_91000: N=2, SUM[:3]=[ 2.68833000e+05  8.38397965e-02 -9.25698280e-02], SUMSQ[:3]=[3.61355926e+10 3.84308362e-02 2.73037379e+00]
+  Cluster CS_7_91000: N=3, SUM[:3]=[ 4.04049000e+05  2.13308609e+00 -2.56410491e+00], SUMSQ[:3]=[5.44185315e+10 3.02398933e+00 2.28352967e+00]
+  Cluster CS_3_92000: N=2, SUM[:3]=[2.40571000e+05 6.42496467e+01 1.47691326e+01], SUMSQ[:3]=[2.89486320e+10 4.35652029e+03 2.66927898e+02]
+  Cluster CS_22_92000: N=2, SUM[:3]=[ 2.43464000e+05 -1.55260032e+00 -1.75017804e+00], SUMSQ[:3]=[2.96448404e+10 1.20551412e+00 1.53374134e+00]
+  Cluster CS_45_92000: N=2, SUM[:3]=[ 2.65488000e+05 -1.64832425e+00 -6.23883471e-01], SUMSQ[:3]=[3.52419698e+10 1.38504231e+00 7.93261667e-01]
+  Cluster CS_30_92000: N=9, SUM[:3]=[1.22565000e+06 2.28045917e+00 1.28802478e+03], SUMSQ[:3]=[1.66917651e+11 3.48047564e+01 1.09331072e+06]
+  Cluster CS_40_92000: N=2, SUM[:3]=[ 2.71203000e+05 -1.59729791e+00 -3.95754725e-01], SUMSQ[:3]=[3.67755367e+10 1.27568030e+00 7.83109011e-02]
+  Cluster CS_7_92000: N=2, SUM[:3]=[ 2.72444000e+05 -9.64114848e-01 -3.70927572e-01], SUMSQ[:3]=[3.71128680e+10 1.02814998e+00 1.28481261e+00]
+  Cluster CS_0_94000: N=2, SUM[:3]=[ 2.76798000e+05 -2.04489970e+00 -8.33166003e-01], SUMSQ[:3]=[3.83085664e+10 2.09080740e+00 3.47082794e-01]
+  Cluster CS_25_95000: N=2, SUM[:3]=[ 2.54715000e+05 -2.17570508e+00  8.94660235e-01], SUMSQ[:3]=[3.24437493e+10 2.55567012e+00 7.09538073e+00]
+  Cluster CS_47_95000: N=2, SUM[:3]=[ 2.69205000e+05 -7.32023636e-01 -1.71864903e+00], SUMSQ[:3]=[3.62452101e+10 5.22331283e-01 1.69879580e+00]
+  Cluster CS_15_95000: N=2, SUM[:3]=[ 2.70491000e+05 -1.04589227e+00  1.41253346e+00], SUMSQ[:3]=[3.65844785e+10 6.71099044e-01 3.36131251e+00]
+  Cluster CS_8_95000: N=3, SUM[:3]=[ 4.16851000e+05 -1.88011986e+00  1.50466806e+00], SUMSQ[:3]=[5.79229938e+10 1.51934743e+00 9.03756927e+00]
+  Cluster CS_20_95000: N=5, SUM[:3]=[7.05447000e+05 3.88235472e+01 2.90693121e+01], SUMSQ[:3]=[9.96185675e+10 8.92417382e+02 9.66271583e+02]
+  Cluster CS_13_95000: N=2, SUM[:3]=[ 2.79758000e+05 -6.59433287e-01 -1.61949623e+00], SUMSQ[:3]=[3.91322751e+10 4.99051018e-01 1.35376164e+00]
+  Cluster CS_17_95000: N=3, SUM[:3]=[4.19604000e+05 5.45490059e+00 1.27885288e+01], SUMSQ[:3]=[5.86891723e+10 1.62131349e+01 8.08666257e+01]
+  Cluster CS_0_96000: N=2, SUM[:3]=[2.83055000e+05 3.95070112e+00 5.33401775e+00], SUMSQ[:3]=[4.00600665e+10 7.95355742e+00 1.42474729e+01]
+  Cluster CS_14_98000: N=5, SUM[:3]=[6.85349000e+05 1.22093685e+02 1.15177687e+01], SUMSQ[:3]=[9.41029725e+10 8.11658395e+03 1.14149195e+02]
+  Cluster CS_48_98000: N=2, SUM[:3]=[ 2.82907000e+05 -2.09672654e+00 -1.33558524e+00], SUMSQ[:3]=[4.00187272e+10 2.59567610e+00 1.17999269e+00]
+  Cluster CS_41_98000: N=3, SUM[:3]=[4.25930000e+05 4.37014234e+00 1.61221620e+01], SUMSQ[:3]=[6.04752757e+10 3.80853612e+01 1.46470201e+02]
+  Cluster CS_19_98000: N=5, SUM[:3]=[7.21443000e+05 6.37053570e+02 6.54328167e+02], SUMSQ[:3]=[1.04097425e+11 3.31032166e+05 2.61515976e+05]
+  Cluster CS_0_98000: N=2, SUM[:3]=[ 2.87372000e+05 -1.99963897e+00 -1.30869326e+00], SUMSQ[:3]=[4.12914866e+10 2.05947910e+00 1.82939395e+00]
+  Cluster CS_40_98000: N=3, SUM[:3]=[4.32911000e+05 2.91108783e+01 7.16767514e+00], SUMSQ[:3]=[6.24712097e+10 6.00408121e+02 2.71002877e+01]
+  Cluster CS_32_99000: N=2, SUM[:3]=[2.12448000e+05 2.42369478e+00 2.36356044e+00], SUMSQ[:3]=[2.25670824e+10 6.50849924e+00 9.74502389e+00]
+  Cluster CS_35_99000: N=2, SUM[:3]=[2.87296000e+05 2.18124413e+00 8.64773130e+00], SUMSQ[:3]=[4.12755649e+10 2.40196564e+00 3.74051934e+01]
+  Cluster CS_20_99000: N=2, SUM[:3]=[2.88891000e+05 2.68194586e+00 2.26720005e+00], SUMSQ[:3]=[4.17311995e+10 4.41941319e+00 5.06343895e+00]
+  Cluster CS_30_99000: N=3, SUM[:3]=[4.35001000e+05 1.44231826e+00 2.48735378e+00], SUMSQ[:3]=[6.30755048e+10 2.64966701e+00 6.87988080e+00]
+  Cluster CS_7_99000: N=4, SUM[:3]=[5.82544000e+05 1.07126263e+01 4.74637949e+00], SUMSQ[:3]=[8.48394189e+10 6.35912004e+01 5.88394588e+00]
+  Cluster CS_15_99000: N=2, SUM[:3]=[2.91378000e+05 8.72652731e+01 6.71651542e+00], SUMSQ[:3]=[4.24505898e+10 6.89841417e+03 2.81602385e+01]
+  Cluster CS_29_100000: N=3, SUM[:3]=[ 4.39823000e+05  5.96824169e+00 -2.64875644e+00], SUMSQ[:3]=[6.44815898e+10 3.84423095e+01 2.60599353e+00]
+  Cluster CS_0_101000: N=2, SUM[:3]=[ 2.92138000e+05 -2.55636692e+00 -6.10974401e-01], SUMSQ[:3]=[4.26723554e+10 3.62037875e+00 9.38776471e-01]
+  Cluster CS_22_102000: N=2, SUM[:3]=[2.64662000e+05 1.19551218e+00 4.52445573e+00], SUMSQ[:3]=[3.50229872e+10 3.00107478e+00 1.82301219e+01]
+  Cluster CS_20_102000: N=2, SUM[:3]=[ 2.97275000e+05 -1.83709028e+00 -2.29362637e+00], SUMSQ[:3]=[4.41874626e+10 2.47529812e+00 2.72490601e+00]
+  Cluster CS_38_103000: N=2, SUM[:3]=[ 2.79552000e+05 -1.67111596e+00 -1.33243278e+00], SUMSQ[:3]=[3.90746766e+10 1.93121239e+00 1.83118802e+00]
+  Cluster CS_40_103000: N=2, SUM[:3]=[2.98496000e+05 1.19690692e+00 1.00905138e+01], SUMSQ[:3]=[4.45499973e+10 4.35154691e+00 1.15530621e+02]
+  Cluster CS_32_103000: N=3, SUM[:3]=[4.51593000e+05 1.06830106e+01 2.43457186e+00], SUMSQ[:3]=[6.79788191e+10 1.78853875e+02 3.62857844e+01]
+  Cluster CS_15_104000: N=2, SUM[:3]=[3.01757000e+05 5.54778459e+01 4.40974283e+01], SUMSQ[:3]=[4.55314354e+10 3.20664583e+03 2.04117222e+03]
+  Cluster CS_35_104000: N=3, SUM[:3]=[ 4.55400000e+05 -1.98154205e+00  1.88181931e+00], SUMSQ[:3]=[6.91328694e+10 3.28105523e+00 1.26152418e+01]
+  Cluster CS_23_105000: N=2, SUM[:3]=[2.58292000e+05 3.62903095e+01 1.84582014e+01], SUMSQ[:3]=[3.33777947e+10 1.23349866e+03 1.71841951e+02]
+  Cluster CS_4_105000: N=4, SUM[:3]=[6.15367000e+05 1.10172354e+02 6.93762565e+01], SUMSQ[:3]=[9.46721983e+10 1.25212908e+04 5.34387623e+03]
+  Cluster CS_7_105000: N=2, SUM[:3]=[ 3.06768000e+05  2.14400148e+00 -2.30331218e+00], SUMSQ[:3]=[4.70533813e+10 1.19027936e+01 2.66035810e+00]
+  Cluster CS_42_106000: N=2, SUM[:3]=[2.91478000e+05 5.16448274e-01 1.72389021e+01], SUMSQ[:3]=[4.24814945e+10 1.40749974e-01 1.84718496e+02]

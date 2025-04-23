@@ -1,0 +1,1081 @@
+Cluster 0:
+  Rock: 318 songs
+  Experimental: 227 songs
+  Electronic: 210 songs
+  Folk: 79 songs
+  Hip-Hop: 60 songs
+  ( with no genre): 997 songs
+
+Cluster 1:
+  Rock: 12 songs
+  Spoken: 5 songs
+  Folk: 4 songs
+  Experimental: 4 songs
+  Soul-RnB: 3 songs
+
+Cluster 2:
+  Rock: 19 songs
+  Experimental: 8 songs
+  Electronic: 6 songs
+  Pop: 5 songs
+  Folk: 3 songs
+  ( with no genre): 29 songs
+
+Cluster 3:
+  Rock: 15 songs
+  Spoken: 8 songs
+  Experimental: 3 songs
+  Electronic: 2 songs
+  Folk: 2 songs
+  ( with no genre): 1 songs
+
+Cluster 4:
+  Rock: 27 songs
+  Spoken: 7 songs
+  Folk: 4 songs
+  Electronic: 3 songs
+  Experimental: 3 songs
+  ( with no genre): 5 songs
+
+Cluster 5:
+  Rock: 96 songs
+  Experimental: 77 songs
+  Electronic: 71 songs
+  Folk: 32 songs
+  Hip-Hop: 21 songs
+  ( with no genre): 256 songs
+
+Cluster 6:
+  Rock: 9824 songs
+  Experimental: 7083 songs
+  Electronic: 6370 songs
+  Hip-Hop: 2195 songs
+  Folk: 1746 songs
+  ( with no genre): 32952 songs
+
+Cluster 7:
+  Rock: 10 songs
+  Spoken: 8 songs
+  Experimental: 6 songs
+  Soul-RnB: 3 songs
+  Jazz: 3 songs
+  ( with no genre): 9 songs
+
+Cluster 8:
+  Rock: 9 songs
+  Spoken: 7 songs
+  Folk: 2 songs
+  Experimental: 1 songs
+
+Cluster 9:
+  Rock: 40 songs
+  Folk: 12 songs
+  Experimental: 8 songs
+  Electronic: 4 songs
+  Hip-Hop: 3 songs
+  ( with no genre): 10 songs
+
+Cluster CS_0_12000:
+  Folk: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_0_18000:
+  Hip-Hop: 2 songs
+  Folk: 1 songs
+
+Cluster CS_0_23000:
+  Electronic: 1 songs
+
+Cluster CS_0_24000:
+  ( with no genre): 1 songs
+
+Cluster CS_0_33000:
+  ( with no genre): 3 songs
+
+Cluster CS_0_35000:
+  Experimental: 1 songs
+
+Cluster CS_0_38000:
+  Experimental: 1 songs
+
+Cluster CS_0_4000:
+  ( with no genre): 2 songs
+
+Cluster CS_0_60000:
+  Spoken: 1 songs
+  Electronic: 1 songs
+
+Cluster CS_0_69000:
+  ( with no genre): 2 songs
+
+Cluster CS_0_75000:
+  Hip-Hop: 1 songs
+  Folk: 1 songs
+
+Cluster CS_0_9000:
+  Experimental: 2 songs
+
+Cluster CS_0_90000:
+  Rock: 1 songs
+  ( with no genre): 3 songs
+
+Cluster CS_0_94000:
+  Rock: 1 songs
+
+Cluster CS_0_96000:
+  Experimental: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_0_98000:
+  Hip-Hop: 1 songs
+
+Cluster CS_10_23000:
+  Experimental: 1 songs
+
+Cluster CS_10_27000:
+  ( with no genre): 1 songs
+
+Cluster CS_10_32000:
+  Rock: 1 songs
+
+Cluster CS_10_4000:
+  Rock: 1 songs
+  Jazz: 1 songs
+
+Cluster CS_13_35000:
+  Jazz: 1 songs
+
+Cluster CS_13_63000:
+  Experimental: 1 songs
+
+Cluster CS_14_34000:
+  Experimental: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_14_58000:
+  Classical: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_14_64000:
+  Electronic: 1 songs
+  ( with no genre): 3 songs
+
+Cluster CS_14_67000:
+  Pop: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_14_69000:
+  Electronic: 1 songs
+  ( with no genre): 2 songs
+
+Cluster CS_14_71000:
+  Experimental: 2 songs
+
+Cluster CS_14_80000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_14_9000:
+  Experimental: 1 songs
+
+Cluster CS_14_98000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_15_55000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_15_69000:
+  Classical: 2 songs
+
+Cluster CS_15_75000:
+  Folk: 1 songs
+  ( with no genre): 3 songs
+
+Cluster CS_15_8000:
+  ( with no genre): 1 songs
+
+Cluster CS_15_84000:
+  ( with no genre): 1 songs
+
+Cluster CS_15_88000:
+  ( with no genre): 1 songs
+
+Cluster CS_15_95000:
+  ( with no genre): 1 songs
+
+Cluster CS_16_4000:
+  Pop: 1 songs
+  Rock: 1 songs
+
+Cluster CS_17_11000:
+  ( with no genre): 2 songs
+
+Cluster CS_17_12000:
+  Rock: 1 songs
+  Old-Time / Historic: 1 songs
+
+Cluster CS_17_23000:
+  ( with no genre): 2 songs
+
+Cluster CS_17_35000:
+  Electronic: 1 songs
+
+Cluster CS_17_55000:
+  Hip-Hop: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_17_65000:
+  Rock: 1 songs
+
+Cluster CS_17_77000:
+  Hip-Hop: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_17_80000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_17_83000:
+  ( with no genre): 2 songs
+
+Cluster CS_17_88000:
+  ( with no genre): 1 songs
+
+Cluster CS_17_9000:
+  Rock: 1 songs
+  Experimental: 1 songs
+
+Cluster CS_17_95000:
+  ( with no genre): 3 songs
+
+Cluster CS_18_12000:
+  Folk: 1 songs
+
+Cluster CS_18_17000:
+  Rock: 1 songs
+  Hip-Hop: 1 songs
+
+Cluster CS_18_43000:
+  ( with no genre): 2 songs
+
+Cluster CS_18_47000:
+  Pop: 1 songs
+
+Cluster CS_18_60000:
+  Folk: 1 songs
+  Experimental: 1 songs
+
+Cluster CS_18_75000:
+  Hip-Hop: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_19_14000:
+  Folk: 1 songs
+  ( with no genre): 2 songs
+
+Cluster CS_19_41000:
+  Pop: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_19_54000:
+  Rock: 1 songs
+
+Cluster CS_19_80000:
+  ( with no genre): 2 songs
+
+Cluster CS_19_98000:
+  Electronic: 4 songs
+  Rock: 1 songs
+
+Cluster CS_1_4000:
+  Electronic: 15 songs
+  Rock: 14 songs
+  Experimental: 6 songs
+  Hip-Hop: 5 songs
+  Folk: 3 songs
+  ( with no genre): 51 songs
+
+Cluster CS_20_14000:
+  ( with no genre): 2 songs
+
+Cluster CS_20_21000:
+  Old-Time / Historic: 1 songs
+
+Cluster CS_20_26000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_20_27000:
+  ( with no genre): 2 songs
+
+Cluster CS_20_35000:
+  Experimental: 8 songs
+
+Cluster CS_20_4000:
+  Electronic: 1 songs
+
+Cluster CS_20_49000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_20_75000:
+  Electronic: 2 songs
+  Rock: 1 songs
+
+Cluster CS_20_84000:
+  ( with no genre): 2 songs
+
+Cluster CS_20_91000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_20_95000:
+  Electronic: 1 songs
+  Experimental: 1 songs
+  ( with no genre): 2 songs
+
+Cluster CS_20_99000:
+  Electronic: 1 songs
+
+Cluster CS_21_11000:
+  ( with no genre): 2 songs
+
+Cluster CS_21_17000:
+  Rock: 1 songs
+
+Cluster CS_21_23000:
+  Old-Time / Historic: 1 songs
+
+Cluster CS_21_54000:
+  International: 1 songs
+  Experimental: 1 songs
+
+Cluster CS_21_90000:
+  Experimental: 1 songs
+
+Cluster CS_22_102000:
+  ( with no genre): 2 songs
+
+Cluster CS_22_15000:
+  Experimental: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_22_24000:
+  International: 1 songs
+
+Cluster CS_22_32000:
+  Hip-Hop: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_22_63000:
+  Hip-Hop: 1 songs
+  Rock: 1 songs
+
+Cluster CS_22_88000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_22_92000:
+  ( with no genre): 2 songs
+
+Cluster CS_23_105000:
+  ( with no genre): 1 songs
+
+Cluster CS_23_17000:
+  ( with no genre): 1 songs
+
+Cluster CS_23_26000:
+  ( with no genre): 1 songs
+
+Cluster CS_23_32000:
+  Electronic: 1 songs
+  Pop: 1 songs
+
+Cluster CS_23_38000:
+  Electronic: 1 songs
+
+Cluster CS_23_63000:
+  Rock: 1 songs
+
+Cluster CS_23_88000:
+  Folk: 2 songs
+
+Cluster CS_24_12000:
+  Rock: 2 songs
+
+Cluster CS_24_17000:
+  Rock: 1 songs
+  Electronic: 1 songs
+
+Cluster CS_24_4000:
+  Rock: 4 songs
+  Electronic: 1 songs
+
+Cluster CS_24_41000:
+  ( with no genre): 2 songs
+
+Cluster CS_24_59000:
+  Classical: 1 songs
+  Jazz: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_24_75000:
+  Experimental: 1 songs
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_25_12000:
+  ( with no genre): 2 songs
+
+Cluster CS_25_29000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_25_43000:
+  Rock: 1 songs
+
+Cluster CS_25_52000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_25_9000:
+  ( with no genre): 2 songs
+
+Cluster CS_25_95000:
+  ( with no genre): 1 songs
+
+Cluster CS_26_11000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_26_35000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_26_58000:
+  Folk: 1 songs
+
+Cluster CS_26_72000:
+  Classical: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_26_75000:
+  Experimental: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_27_12000:
+  ( with no genre): 3 songs
+
+Cluster CS_27_14000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_27_18000:
+  ( with no genre): 1 songs
+
+Cluster CS_27_35000:
+  ( with no genre): 2 songs
+
+Cluster CS_27_67000:
+  Experimental: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_27_82000:
+  Rock: 1 songs
+  ( with no genre): 2 songs
+
+Cluster CS_27_83000:
+  Experimental: 2 songs
+
+Cluster CS_27_9000:
+  Electronic: 1 songs
+
+Cluster CS_28_12000:
+  ( with no genre): 1 songs
+
+Cluster CS_28_4000:
+  Experimental: 1 songs
+  Soul-RnB: 1 songs
+
+Cluster CS_2_14000:
+  Folk: 1 songs
+  Rock: 1 songs
+
+Cluster CS_2_21000:
+  Rock: 1 songs
+  Experimental: 1 songs
+
+Cluster CS_2_26000:
+  Electronic: 1 songs
+
+Cluster CS_2_27000:
+  Experimental: 50 songs
+  Electronic: 45 songs
+  Rock: 40 songs
+  Hip-Hop: 18 songs
+  Folk: 13 songs
+  ( with no genre): 225 songs
+
+Cluster CS_2_4000:
+  Rock: 7 songs
+
+Cluster CS_2_41000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_2_47000:
+  Experimental: 1 songs
+
+Cluster CS_2_65000:
+  Electronic: 1 songs
+  ( with no genre): 2 songs
+
+Cluster CS_30_18000:
+  ( with no genre): 2 songs
+
+Cluster CS_30_24000:
+  ( with no genre): 1 songs
+
+Cluster CS_30_52000:
+  ( with no genre): 1 songs
+
+Cluster CS_30_88000:
+  ( with no genre): 1 songs
+
+Cluster CS_30_92000:
+  Pop: 2 songs
+  Experimental: 1 songs
+  ( with no genre): 3 songs
+
+Cluster CS_31_16000:
+  ( with no genre): 1 songs
+
+Cluster CS_31_27000:
+  ( with no genre): 2 songs
+
+Cluster CS_31_29000:
+  ( with no genre): 1 songs
+
+Cluster CS_31_65000:
+  ( with no genre): 1 songs
+
+Cluster CS_31_71000:
+  ( with no genre): 2 songs
+
+Cluster CS_31_72000:
+  Electronic: 1 songs
+
+Cluster CS_31_74000:
+  ( with no genre): 2 songs
+
+Cluster CS_31_8000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_31_9000:
+  ( with no genre): 1 songs
+
+Cluster CS_32_11000:
+  Soul-RnB: 1 songs
+
+Cluster CS_32_17000:
+  Old-Time / Historic: 1 songs
+
+Cluster CS_32_4000:
+  Pop: 1 songs
+  Rock: 1 songs
+
+Cluster CS_32_69000:
+  Electronic: 1 songs
+  Rock: 1 songs
+
+Cluster CS_32_83000:
+  Electronic: 1 songs
+
+Cluster CS_32_86000:
+  Rock: 2 songs
+
+Cluster CS_32_9000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_32_99000:
+  Experimental: 2 songs
+
+Cluster CS_33_4000:
+  Rock: 1 songs
+
+Cluster CS_34_18000:
+  Rock: 1 songs
+
+Cluster CS_34_23000:
+  Folk: 1 songs
+  Jazz: 1 songs
+
+Cluster CS_34_27000:
+  ( with no genre): 1 songs
+
+Cluster CS_34_75000:
+  Rock: 1 songs
+
+Cluster CS_35_104000:
+  ( with no genre): 2 songs
+
+Cluster CS_35_20000:
+  International: 1 songs
+
+Cluster CS_35_4000:
+  Rock: 4 songs
+  Blues: 2 songs
+  International: 1 songs
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_35_49000:
+  ( with no genre): 2 songs
+
+Cluster CS_35_79000:
+  ( with no genre): 3 songs
+
+Cluster CS_35_99000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_36_4000:
+  Rock: 2 songs
+
+Cluster CS_37_27000:
+  ( with no genre): 4 songs
+
+Cluster CS_37_48000:
+  Experimental: 1 songs
+
+Cluster CS_38_103000:
+  ( with no genre): 1 songs
+
+Cluster CS_38_11000:
+  ( with no genre): 1 songs
+
+Cluster CS_38_12000:
+  Electronic: 1 songs
+
+Cluster CS_38_17000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_38_21000:
+  Folk: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_38_23000:
+  Folk: 1 songs
+
+Cluster CS_39_12000:
+  Hip-Hop: 4 songs
+  ( with no genre): 3 songs
+
+Cluster CS_39_35000:
+  Pop: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_39_4000:
+  Blues: 3 songs
+  ( with no genre): 2 songs
+
+Cluster CS_39_57000:
+  Rock: 1 songs
+
+Cluster CS_39_79000:
+  Experimental: 1 songs
+  Rock: 1 songs
+
+Cluster CS_3_12000:
+  ( with no genre): 1 songs
+
+Cluster CS_3_14000:
+  Rock: 2 songs
+
+Cluster CS_3_18000:
+  Rock: 1 songs
+  ( with no genre): 4 songs
+
+Cluster CS_3_44000:
+  Folk: 2 songs
+
+Cluster CS_3_54000:
+  ( with no genre): 3 songs
+
+Cluster CS_3_57000:
+  ( with no genre): 2 songs
+
+Cluster CS_3_63000:
+  Classical: 1 songs
+  Experimental: 1 songs
+
+Cluster CS_3_69000:
+  Experimental: 1 songs
+
+Cluster CS_3_72000:
+  Classical: 1 songs
+
+Cluster CS_3_75000:
+  Folk: 1 songs
+  ( with no genre): 2 songs
+
+Cluster CS_3_9000:
+  ( with no genre): 1 songs
+
+Cluster CS_3_92000:
+  Electronic: 1 songs
+
+Cluster CS_40_14000:
+  ( with no genre): 2 songs
+
+Cluster CS_40_16000:
+  Rock: 1 songs
+
+Cluster CS_40_26000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_40_35000:
+  ( with no genre): 2 songs
+
+Cluster CS_40_67000:
+  ( with no genre): 2 songs
+
+Cluster CS_40_75000:
+  Folk: 2 songs
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_40_86000:
+  Experimental: 1 songs
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_40_88000:
+  ( with no genre): 1 songs
+
+Cluster CS_40_92000:
+  Instrumental: 1 songs
+  Experimental: 1 songs
+
+Cluster CS_40_98000:
+  Electronic: 2 songs
+  ( with no genre): 1 songs
+
+Cluster CS_41_12000:
+  Hip-Hop: 1 songs
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_41_17000:
+  Rock: 1 songs
+
+Cluster CS_41_23000:
+  Electronic: 1 songs
+
+Cluster CS_41_26000:
+  Rock: 1 songs
+
+Cluster CS_41_4000:
+  Electronic: 1 songs
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_41_43000:
+  ( with no genre): 2 songs
+
+Cluster CS_41_75000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_41_79000:
+  Electronic: 1 songs
+
+Cluster CS_41_98000:
+  Rock: 1 songs
+
+Cluster CS_42_106000:
+  ( with no genre): 1 songs
+
+Cluster CS_42_29000:
+  ( with no genre): 1 songs
+
+Cluster CS_42_4000:
+  ( with no genre): 1 songs
+
+Cluster CS_42_49000:
+  Pop: 1 songs
+  Rock: 1 songs
+
+Cluster CS_42_59000:
+  ( with no genre): 1 songs
+
+Cluster CS_42_90000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_43_63000:
+  ( with no genre): 1 songs
+
+Cluster CS_44_4000:
+  Rock: 1 songs
+  Electronic: 1 songs
+
+Cluster CS_44_41000:
+  ( with no genre): 1 songs
+
+Cluster CS_44_75000:
+  ( with no genre): 1 songs
+
+Cluster CS_45_12000:
+  ( with no genre): 2 songs
+
+Cluster CS_45_20000:
+  Hip-Hop: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_45_23000:
+  Electronic: 1 songs
+  ( with no genre): 3 songs
+
+Cluster CS_45_79000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_45_84000:
+  Hip-Hop: 1 songs
+  ( with no genre): 2 songs
+
+Cluster CS_45_92000:
+  ( with no genre): 1 songs
+
+Cluster CS_46_4000:
+  Rock: 1 songs
+  Spoken: 1 songs
+
+Cluster CS_47_12000:
+  Hip-Hop: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_47_15000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_47_16000:
+  Experimental: 1 songs
+  Hip-Hop: 1 songs
+
+Cluster CS_47_18000:
+  ( with no genre): 1 songs
+
+Cluster CS_47_21000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_47_23000:
+  Electronic: 2 songs
+
+Cluster CS_47_24000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_47_4000:
+  Rock: 3 songs
+
+Cluster CS_47_47000:
+  ( with no genre): 1 songs
+
+Cluster CS_47_65000:
+  Rock: 1 songs
+  Electronic: 1 songs
+
+Cluster CS_47_72000:
+  ( with no genre): 3 songs
+
+Cluster CS_48_18000:
+  Hip-Hop: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_48_33000:
+  Electronic: 1 songs
+
+Cluster CS_48_4000:
+  International: 4 songs
+  Rock: 2 songs
+
+Cluster CS_48_49000:
+  ( with no genre): 2 songs
+
+Cluster CS_48_98000:
+  ( with no genre): 2 songs
+
+Cluster CS_49_21000:
+  ( with no genre): 2 songs
+
+Cluster CS_49_23000:
+  Rock: 1 songs
+
+Cluster CS_49_24000:
+  ( with no genre): 2 songs
+
+Cluster CS_49_29000:
+  ( with no genre): 1 songs
+
+Cluster CS_49_34000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_49_59000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_49_63000:
+  International: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_49_65000:
+  Rock: 2 songs
+
+Cluster CS_49_72000:
+  ( with no genre): 2 songs
+
+Cluster CS_49_80000:
+  ( with no genre): 3 songs
+
+Cluster CS_4_105000:
+  Electronic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_4_15000:
+  Classical: 1 songs
+
+Cluster CS_4_30000:
+  Experimental: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_4_32000:
+  Folk: 1 songs
+
+Cluster CS_4_35000:
+  Rock: 1 songs
+  Jazz: 1 songs
+
+Cluster CS_4_43000:
+  Experimental: 1 songs
+  Pop: 1 songs
+
+Cluster CS_4_54000:
+  ( with no genre): 1 songs
+
+Cluster CS_4_72000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_4_75000:
+  Folk: 1 songs
+  Electronic: 1 songs
+  Rock: 1 songs
+  ( with no genre): 2 songs
+
+Cluster CS_4_84000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_4_90000:
+  Rock: 2 songs
+
+Cluster CS_5_4000:
+  Rock: 4 songs
+
+Cluster CS_5_9000:
+  Rock: 1 songs
+
+Cluster CS_6_12000:
+  Rock: 1 songs
+
+Cluster CS_6_20000:
+  ( with no genre): 1 songs
+
+Cluster CS_7_105000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_7_20000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_7_26000:
+  Hip-Hop: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_7_27000:
+  Experimental: 1 songs
+
+Cluster CS_7_60000:
+  Rock: 1 songs
+  Electronic: 1 songs
+  Soul-RnB: 1 songs
+
+Cluster CS_7_75000:
+  Hip-Hop: 2 songs
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_7_84000:
+  ( with no genre): 3 songs
+
+Cluster CS_7_91000:
+  ( with no genre): 3 songs
+
+Cluster CS_7_92000:
+  ( with no genre): 1 songs
+
+Cluster CS_7_99000:
+  Experimental: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_8_35000:
+  Experimental: 2 songs
+  ( with no genre): 1 songs
+
+Cluster CS_8_52000:
+  ( with no genre): 2 songs
+
+Cluster CS_8_9000:
+  Rock: 1 songs
+  ( with no genre): 2 songs
+
+Cluster CS_8_95000:
+  Electronic: 2 songs
+
+Cluster CS_9_15000:
+  Hip-Hop: 1 songs
+
+Cluster CS_9_27000:
+  Old-Time / Historic: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_9_30000:
+  ( with no genre): 2 songs
+
+Cluster CS_9_4000:
+  Electronic: 1 songs
+
+Cluster CS_9_52000:
+  ( with no genre): 1 songs
+
+Cluster CS_9_75000:
+  Rock: 1 songs
+  ( with no genre): 1 songs
+
+Cluster CS_9_79000:
+  ( with no genre): 1 songs
+
+Cluster CS_9_86000:
+  Electronic: 1 songs
+
