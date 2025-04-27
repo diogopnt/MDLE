@@ -2,7 +2,7 @@ from pyspark import SparkContext
 import csv
 from itertools import combinations
 
-sc = SparkContext(appName="AprioriAlgorithm")
+sc = SparkContext(appName="AprioriAlgorithm-Final")
 
 data = sc.textFile("conditions.csv/conditions.csv")
 
@@ -26,13 +26,15 @@ min_support = 1000
 
 # PHASE 1: Frequent 1-itemsets
 # Count how many patients have each individual condition code (1-itemsets)
-frequent_1_itemsets = (
+frequent_1_itemsets_with_counts = (
     patient_transactions.flatMap(lambda x: [(item, 1) for item in x[1]])
     .reduceByKey(lambda a, b: a + b) # Sum the counts per condition code
     .filter(lambda x: x[1] >= min_support)  # Keep only those with support ≥ threshold
-    .map(lambda x: x[0])  # Keep only item IDs
-    .collect()
+    .cache()
 )
+
+# Extract just the item IDs from the frequent 1-itemsets for broadcasting
+frequent_1_itemsets = frequent_1_itemsets_with_counts.map(lambda x: x[0]).collect()
 
 # Store frequent 1-itemsets in a set and broadcast to all workers
 frequent_1_set = set(frequent_1_itemsets)  
@@ -48,7 +50,7 @@ def gen_candidates_2(transaction):
 frequent_2_itemsets = (
     patient_transactions.flatMap(lambda x: [(c, 1) for c in gen_candidates_2(x[1])])
     .reduceByKey(lambda a, b: a + b) # Sum counts of each pair
-    .filter(lambda x: x[1] >= min_support) # keep only those with sufficient support
+    .filter(lambda x: x[1] >= min_support) # Keep only those with sufficient support
     .cache()
 )
 
@@ -62,7 +64,7 @@ def gen_candidates_3(transaction):
     items = sorted([item for item in transaction if item in broadcast_L1.value])
     candidates = combinations(items, 3)
     
-    # Helper function to check if all 2-subsets are frequent (i.e., in L2)
+    # Helper function to check if all 2-subsets are frequent
     def all_2subsets_frequent(triple):
         return all(tuple(sorted(pair)) in broadcast_L2.value for pair in combinations(triple, 2))
     return [c for c in candidates if all_2subsets_frequent(c)] # Prune candidates that contain infrequent 2-subsets
@@ -72,18 +74,41 @@ frequent_3_itemsets = (
     patient_transactions.flatMap(lambda x: [(c, 1) for c in gen_candidates_3(x[1])])
     .reduceByKey(lambda a, b: a + b)
     .filter(lambda x: x[1] >= min_support)
+    .cache()
 )
 
-# Show top 10 for k=2
-top_2 = frequent_2_itemsets.takeOrdered(10, key=lambda x: -x[1])
-print("Top 10 frequent itemsets of size 2:")
-for itemset, support in top_2:
-    print(f"{itemset} -> support: {support}")
+# ========= Collect and Prepare Output =========
 
-# Show top 10 for k=3
+# Take Top 10 most frequent itemsets for k = 1, 2, 3
+top_1 = frequent_1_itemsets_with_counts.takeOrdered(10, key=lambda x: -x[1])
+top_2 = frequent_2_itemsets.takeOrdered(10, key=lambda x: -x[1])
 top_3 = frequent_3_itemsets.takeOrdered(10, key=lambda x: -x[1])
-print("\nTop 10 frequent itemsets of size 3:")
-for itemset, support in top_3:
-    print(f"{itemset} -> support: {support}")
+
+# Count of frequent itemsets
+count_1 = frequent_1_itemsets_with_counts.count()
+count_2 = frequent_2_itemsets.count()
+count_3 = frequent_3_itemsets.count()
+
+# ========= Save Results =========
+with open("B1_output.txt", "w") as f:
+    f.write("=== Frequent Itemsets Analysis ===\n\n")
+    
+    f.write(f"Count of frequent itemsets (size 1): {count_1}\n")
+    f.write(f"Count of frequent itemsets (size 2): {count_2}\n")
+    f.write(f"Count of frequent itemsets (size 3): {count_3}\n\n")
+    
+    f.write("Top 10 frequent itemsets of size 1:\n")
+    for item, support in top_1:
+        f.write(f"{item} -> support: {support}\n")
+    
+    f.write("\nTop 10 frequent itemsets of size 2:\n")
+    for itemset, support in top_2:
+        f.write(f"{itemset} -> support: {support}\n")
+    
+    f.write("\nTop 10 frequent itemsets of size 3:\n")
+    for itemset, support in top_3:
+        f.write(f"{itemset} -> support: {support}\n")
+
+print("Results saved to B1_output.txt")
 
 sc.stop()

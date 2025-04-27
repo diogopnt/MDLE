@@ -32,7 +32,7 @@ def generate_recommendations(user_friends_pair):
             if fof != user and fof not in friends:
                 mutuals[fof] += 1
 
-    # Sort recommendations by number of mutual friends (descending),then by user ID (ascending) in case of tie
+    # Sort recommendations by number of mutual friends (descending), then by user ID (ascending) in case of tie
     sorted_candidates = sorted(mutuals.items(), key=lambda x: (-x[1], x[0]))
     recommendations = [str(candidate[0]) for candidate in sorted_candidates[:10]]
     
@@ -42,8 +42,13 @@ def generate_recommendations(user_friends_pair):
 recommendations = user_friends.map(generate_recommendations)
 
 # Format output as a tab-separated string: <UserID> <TAB> <Comma-separated list of recommendations>
-output = recommendations.map(lambda x: f"{x[0]}\t{','.join(x[1])}")
+output_lines = recommendations.map(lambda x: f"{x[0]}\t{','.join(x[1])}").collect()
 
-output.saveAsTextFile("recommendations_output")
+# Save all the results into a single .txt file
+with open("recommendations_output.txt", "w") as f:
+    for line in output_lines:
+        f.write(line + "\n")
+
+print("Results saved successfully to recommendations_output.txt!")
 
 sc.stop()
