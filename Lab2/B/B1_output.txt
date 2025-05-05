@@ -5,37 +5,37 @@ Count of frequent itemsets (size 2): 2940
 Count of frequent itemsets (size 3): 13395
 
 Top 10 frequent itemsets of size 1:
-444814009 -> support: 751940
-195662009 -> support: 524692
-10509002 -> support: 461495
-162864005 -> support: 365567
-271737000 -> support: 355372
-15777000 -> support: 354315
-59621000 -> support: 305134
-40055000 -> support: 250239
-72892002 -> support: 205390
-19169002 -> support: 201894
+444814009 (Viral sinusitis (disorder)) -> support: 751940
+195662009 (Acute viral pharyngitis (disorder)) -> support: 524692
+10509002 (Acute bronchitis (disorder)) -> support: 461495
+162864005 (Body mass index 30+ - obesity (finding)) -> support: 365567
+271737000 (Anemia (disorder)) -> support: 355372
+15777000 (Prediabetes) -> support: 354315
+59621000 (Hypertension) -> support: 305134
+40055000 (Chronic sinusitis (disorder)) -> support: 250239
+72892002 (Normal pregnancy) -> support: 205390
+19169002 (Miscarriage in first trimester) -> support: 201894
 
 Top 10 frequent itemsets of size 2:
-('195662009', '444814009') -> support: 343651
-('10509002', '444814009') -> support: 302516
-('15777000', '271737000') -> support: 289176
-('162864005', '444814009') -> support: 243812
-('271737000', '444814009') -> support: 236847
-('15777000', '444814009') -> support: 236320
-('10509002', '195662009') -> support: 211065
-('444814009', '59621000') -> support: 203450
-('162864005', '195662009') -> support: 167438
-('40055000', '444814009') -> support: 165530
+195662009 (Acute viral pharyngitis (disorder)), 444814009 (Viral sinusitis (disorder)) -> support: 343651
+10509002 (Acute bronchitis (disorder)), 444814009 (Viral sinusitis (disorder)) -> support: 302516
+15777000 (Prediabetes), 271737000 (Anemia (disorder)) -> support: 289176
+162864005 (Body mass index 30+ - obesity (finding)), 444814009 (Viral sinusitis (disorder)) -> support: 243812
+271737000 (Anemia (disorder)), 444814009 (Viral sinusitis (disorder)) -> support: 236847
+15777000 (Prediabetes), 444814009 (Viral sinusitis (disorder)) -> support: 236320
+10509002 (Acute bronchitis (disorder)), 195662009 (Acute viral pharyngitis (disorder)) -> support: 211065
+444814009 (Viral sinusitis (disorder)), 59621000 (Hypertension) -> support: 203450
+162864005 (Body mass index 30+ - obesity (finding)), 195662009 (Acute viral pharyngitis (disorder)) -> support: 167438
+40055000 (Chronic sinusitis (disorder)), 444814009 (Viral sinusitis (disorder)) -> support: 165530
 
 Top 10 frequent itemsets of size 3:
-('15777000', '271737000', '444814009') -> support: 192819
-('10509002', '195662009', '444814009') -> support: 139174
-('15777000', '195662009', '271737000') -> support: 132583
-('10509002', '15777000', '271737000') -> support: 115510
-('162864005', '195662009', '444814009') -> support: 111860
-('195662009', '271737000', '444814009') -> support: 108560
-('15777000', '195662009', '444814009') -> support: 108083
-('15777000', '271737000', '59621000') -> support: 99818
-('10509002', '162864005', '444814009') -> support: 97384
-('10509002', '271737000', '444814009') -> support: 94793
+15777000 (Prediabetes), 271737000 (Anemia (disorder)), 444814009 (Viral sinusitis (disorder)) -> support: 192819
+10509002 (Acute bronchitis (disorder)), 195662009 (Acute viral pharyngitis (disorder)), 444814009 (Viral sinusitis (disorder)) -> support: 139174
+15777000 (Prediabetes), 195662009 (Acute viral pharyngitis (disorder)), 271737000 (Anemia (disorder)) -> support: 132583
+10509002 (Acute bronchitis (disorder)), 15777000 (Prediabetes), 271737000 (Anemia (disorder)) -> support: 115510
+162864005 (Body mass index 30+ - obesity (finding)), 195662009 (Acute viral pharyngitis (disorder)), 444814009 (Viral sinusitis (disorder)) -> support: 111860
+195662009 (Acute viral pharyngitis (disorder)), 271737000 (Anemia (disorder)), 444814009 (Viral sinusitis (disorder)) -> support: 108560
+15777000 (Prediabetes), 195662009 (Acute viral pharyngitis (disorder)), 444814009 (Viral sinusitis (disorder)) -> support: 108083
+15777000 (Prediabetes), 271737000 (Anemia (disorder)), 59621000 (Hypertension) -> support: 99818
+10509002 (Acute bronchitis (disorder)), 162864005 (Body mass index 30+ - obesity (finding)), 444814009 (Viral sinusitis (disorder)) -> support: 97384
+10509002 (Acute bronchitis (disorder)), 271737000 (Anemia (disorder)), 444814009 (Viral sinusitis (disorder)) -> support: 94793

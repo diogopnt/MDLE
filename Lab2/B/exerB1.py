@@ -14,6 +14,14 @@ rows = data.filter(lambda line: line != header)
 def parse_csv_line(line):
     return next(csv.reader([line]))
 
+# Extract relevant fields: (CODE, DESCRIPTION)
+code_to_desc = (
+    rows.map(parse_csv_line)
+        .map(lambda x: (x[4], x[5]))  # (CODE, DESCRIPTION)
+        .distinct()
+        .collectAsMap()
+)
+
 # Extract relevant fields: (patient_id, condition_code)
 patient_code_pairs = rows.map(parse_csv_line).map(lambda x: (x[2], x[4]))
 
@@ -77,8 +85,6 @@ frequent_3_itemsets = (
     .cache()
 )
 
-# ========= Collect and Prepare Output =========
-
 # Take Top 10 most frequent itemsets for k = 1, 2, 3
 top_1 = frequent_1_itemsets_with_counts.takeOrdered(10, key=lambda x: -x[1])
 top_2 = frequent_2_itemsets.takeOrdered(10, key=lambda x: -x[1])
@@ -89,7 +95,12 @@ count_1 = frequent_1_itemsets_with_counts.count()
 count_2 = frequent_2_itemsets.count()
 count_3 = frequent_3_itemsets.count()
 
-# ========= Save Results =========
+def conditions(itemset):
+    if isinstance(itemset, str):
+        return f"{itemset} ({code_to_desc.get(itemset, 'Unknown')})"
+    return ", ".join(f"{item} ({code_to_desc.get(item, 'Unknown')})" for item in itemset)
+
+
 with open("B1_output.txt", "w") as f:
     f.write("=== Frequent Itemsets Analysis ===\n\n")
     
@@ -99,15 +110,15 @@ with open("B1_output.txt", "w") as f:
     
     f.write("Top 10 frequent itemsets of size 1:\n")
     for item, support in top_1:
-        f.write(f"{item} -> support: {support}\n")
+        f.write(f"{conditions(item)} -> support: {support}\n")
     
     f.write("\nTop 10 frequent itemsets of size 2:\n")
     for itemset, support in top_2:
-        f.write(f"{itemset} -> support: {support}\n")
+        f.write(f"{conditions(itemset)} -> support: {support}\n")
     
     f.write("\nTop 10 frequent itemsets of size 3:\n")
     for itemset, support in top_3:
-        f.write(f"{itemset} -> support: {support}\n")
+        f.write(f"{conditions(itemset)} -> support: {support}\n")
 
 print("Results saved to B1_output.txt")
 

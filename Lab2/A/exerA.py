@@ -1,7 +1,6 @@
 from pyspark import SparkContext
 from collections import defaultdict
 
-# Initialize Spark context 
 sc = SparkContext(appName="PeopleYouMightKnow")
 
 # Load the input file as an RDD
@@ -44,7 +43,6 @@ recommendations = user_friends.map(generate_recommendations)
 # Format output as a tab-separated string: <UserID> <TAB> <Comma-separated list of recommendations>
 output_lines = recommendations.map(lambda x: f"{x[0]}\t{','.join(x[1])}").collect()
 
-# Save all the results into a single .txt file
 with open("recommendations_output.txt", "w") as f:
     for line in output_lines:
         f.write(line + "\n")

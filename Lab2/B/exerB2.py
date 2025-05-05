@@ -14,6 +14,11 @@ rows = data.filter(lambda line: line != header)
 def parse_csv_line(line):
     return next(csv.reader([line]))
 
+parsed_rows = rows.map(parse_csv_line)
+
+# Build a mapping from code → description (we assume code-description pairs are consistent)
+conditions = dict(parsed_rows.map(lambda x: (x[4], x[5])).distinct().collect())
+
 # Extract relevant fields: (patient_id, condition_code)
 patient_code_pairs = rows.map(parse_csv_line).map(lambda x: (x[2], x[4]))
 
@@ -157,7 +162,7 @@ for itemset, supp in frequent_2_itemsets.items():
                 association_rules.append(metrics)
 
 # Generate rules from frequent 3-itemsets
-# Here we generate rules of the form (X,Y) → Z and (X) → (Y,Z)
+# Generate rules of the form (X,Y) → Z and (X) → (Y,Z)
 for itemset, supp in frequent_3_itemsets.items():
     items = list(itemset)
     for i in range(1, len(items)):
@@ -176,49 +181,10 @@ sorted_rules = sorted(filtered_rules, key=lambda x: -x["standardized_lift"])
 output_path = "association_rules_output.txt"
 with open(output_path, "w") as f:
     for rule in sorted_rules:
-        antecedent = ", ".join(rule["antecedent"])
-        consequent = ", ".join(rule["consequent"])
+        antecedent = ", ".join([conditions.get(code, code) for code in rule["antecedent"]])
+        consequent = ", ".join([conditions.get(code, code) for code in rule["consequent"]])
         f.write(f"{antecedent} -> {consequent} | SL: {rule['standardized_lift']:.4f}, lift: {rule['lift']:.4f}, conf: {rule['confidence']:.4f}, interest: {rule['interest']:.4f}\n")
 
 print(f"\n{len(sorted_rules)} association rules written to {output_path}")
     
 sc.stop()
-
-'''
-A = '126906006'
-B = '92691004'
-AB = tuple(sorted([A, B]))
-
-support_A = frequent_1_itemsets.get(A, 0)
-support_B = frequent_1_itemsets.get(B, 0)
-support_AB = frequent_2_itemsets.get(AB, 0)
-
-print(f"\n--- Verificação manual para {A} -> {B} ---")
-print(f"Suporte A (126906006): {support_A}")
-print(f"Suporte B (92691004): {support_B}")
-print(f"Suporte A ∪ B: {support_AB}")
-print(f"Total de transações: {num_transactions}")
-
-
-prob_B = support_B / num_transactions
-conf = support_AB / support_A
-interest = conf - prob_B
-lift = conf / prob_B
-
-# Lift máximo e mínimo
-prob_A = support_A / num_transactions
-lift_max = min(1 / prob_B, 1 / prob_A)
-lift_min = max((prob_A + prob_B - 1) / (prob_A * prob_B), 0)
-
-if lift_max == lift_min:
-    standardized_lift = 0
-else:
-    standardized_lift = (lift - lift_min) / (lift_max - lift_min)
-
-# Mostrar os resultados calculados
-print(f"\nConfiança calculada: {conf:.4f}")
-print(f"Interesse calculado: {interest:.4f}")
-print(f"Lift calculado: {lift:.4f}")
-print(f"Standardized Lift calculado: {standardized_lift:.4f}")
-print(f"Lift max: {lift_max:.4f}, Lift min: {lift_min:.4f}") 
-'''
