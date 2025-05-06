@@ -6,15 +6,12 @@ import json
 
 sc = SparkContext(appName="BFR-Clustering-Final")
 
-# ============== CONFIGURATION ==============
 DATA_PATH = "fma_metadata/features.csv"
 K = 10  # Number of final clusters
 CHUNK_SIZE = 1000  # Number of points per chunk
 ALPHA = 2  # Mahalanobis distance threshold multiplier
 INIT_MULTIPLIER = 5  # Number of clusters in initial overclustering
 log_lines = []  # Log messages will be stored here
-
-# ============== HELPER FUNCTIONS ==============
 
 # Compute Mahalanobis distance between a point and a cluster
 def mahalanobis_distance(point, stats):
@@ -38,8 +35,6 @@ def log_cluster_stats(name, clusters):
     for cid, (N, SUM, SUMSQ) in clusters.items():
         log_lines.append(f"  Cluster {cid}: N={N}, SUM[:3]={SUM[:3]}, SUMSQ[:3]={SUMSQ[:3]}")
 
-# ============== LOAD AND PARSE DATA ==============
-
 # Read the data file
 raw_lines = sc.textFile(DATA_PATH)
 
@@ -59,7 +54,7 @@ parsed_data = cleaned_lines.map(parse_line).filter(lambda x: x is not None)
 data = parsed_data.zipWithIndex().map(lambda x: (x[1], x[0]))
 total_points = data.count()
 
-# ============== BFR STRUCTURES ==============
+# BFR STRUCTURES 
 
 DS = {}  # Discard Set: summarized clusters with many points
 CS = {}  # Compression Set: summarized clusters with few points
@@ -129,8 +124,6 @@ if rs_vectors:
         else:
             RS.extend(points)
 
-# ============== CHUNK PROCESSING ==============
-
 for i in range(CHUNK_SIZE, total_points, CHUNK_SIZE):
     # Get the next data chunk
     chunk = data.filter(lambda x: i <= x[0] < i + CHUNK_SIZE).collect()
@@ -190,8 +183,7 @@ for i in range(CHUNK_SIZE, total_points, CHUNK_SIZE):
     log_lines.append(f"CS clusters: {len(CS)} ({sum([v[0] for v in CS.values()])} points)")
     log_lines.append(f"RS points: {len(RS)}")
 
-# ============== FINAL MERGE ==============
-
+# Final Merge
 # Try merging CS clusters into DS if they are close enough
 for cid, stats in list(CS.items()):
     for dsid, ds_stats in DS.items():
@@ -205,11 +197,9 @@ log_lines.append(f"DS clusters: {len(DS)}")
 log_lines.append(f"CS clusters: {len(CS)}")
 log_lines.append(f"RS points: {len(RS)}")
 
-# Log final cluster statistics
 log_cluster_stats("Discard Set (DS)", DS)
 log_cluster_stats("Compression Set (CS)", CS)
 
-# Save log and cluster assignment mapping
 with open("C2_output.txt", "w") as f:
     for line in log_lines:
         f.write(line + "\n")
@@ -217,5 +207,4 @@ with open("C2_output.txt", "w") as f:
 with open("track_cluster_map.json", "w") as f_map:
     json.dump(track_cluster_map, f_map)
 
-# Stop Spark context
 sc.stop()

@@ -4,7 +4,7 @@ from sklearn.cluster import AgglomerativeClustering
 from scipy.spatial.distance import pdist
 import matplotlib.pyplot as plt
 
-# Load features.csv with a multi-index header (3 levels: feature group, statistic, feature name)
+# Load features.csv with a multi-index header
 features = pd.read_csv("fma_metadata/features.csv", index_col=0, header=[0, 1, 2])
 
 # Load tracks.csv with a 2-level header (used to select subsets like "small", "medium", "large")
@@ -15,7 +15,7 @@ subset_mask = tracks[("set", "subset")] == "small"
 features = features[subset_mask]
 
 # Keep only columns where the second level of the header is 'mean'
-# This ensures we use only the average values of the audio features
+# Ensures that only the average values of the audio features
 cols_mean = [col for col in features.columns if col[1] == "mean"]
 features = features[cols_mean]
 

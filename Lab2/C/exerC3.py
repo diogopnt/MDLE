@@ -4,47 +4,44 @@ import pandas as pd
 
 sc = SparkContext(appName="C3-Genre-Analysis")
 
-# ========== Load cluster assignments (from C2) ==========
+# Load cluster assignments (from C2) 
 with open("track_cluster_map.json", "r") as f:
     cluster_map = {int(k): v for k, v in json.load(f).items()}  # track_id → cluster_id
 
-# ========== Load genre information from tracks.csv ==========
+# Load genre information from tracks.csv
 tracks = pd.read_csv("fma_metadata/tracks.csv", header=[0, 1], index_col=0, low_memory=False)
 track_genres = tracks[('track', 'genre_top')]  # Series: index = track_id, value = genre (or NaN)
 
-# ========== Convert data to PySpark RDDs ==========
-
+# Convert data to PySpark RDDs
 # Full genre RDD (including NaNs)
 genre_rdd_full = sc.parallelize(track_genres.items())  # (track_id, genre or NaN)
 
 # Cluster RDD from cluster_map
 cluster_rdd = sc.parallelize(cluster_map.items())  # (track_id, cluster_id)
 
-# ========== Join genre and cluster info ==========
+# Join genre and cluster info 
 joined_rdd = cluster_rdd.join(genre_rdd_full)  # (track_id, (cluster_id, genre))
-# --> (track_id, (cluster_id, genre)) where genre might be NaN
 
 # Separate those with genre and those without
 valid_genre_rdd = joined_rdd.filter(lambda x: pd.notna(x[1][1])) \
-                            .map(lambda x: (x[1][0], x[1][1]))  # (cluster_id, genre)
+                            .map(lambda x: (x[1][0], x[1][1]))  
 missing_genre_rdd = joined_rdd.filter(lambda x: pd.isna(x[1][1])) \
-                              .map(lambda x: (x[1][0], 1))  # (cluster_id, 1)
+                              .map(lambda x: (x[1][0], 1)) 
 
-# ========== Count genres per cluster ==========
+# Count genres per cluster 
 # Step 1: Count genre frequencies per cluster
 genre_counts = (
     valid_genre_rdd
-    .map(lambda x: ((x[0], x[1]), 1))  # ((cluster_id, genre), 1)
+    .map(lambda x: ((x[0], x[1]), 1))  
     .reduceByKey(lambda a, b: a + b)
-    .map(lambda x: (x[0][0], (x[0][1], x[1])))  # (cluster_id, (genre, count))
+    .map(lambda x: (x[0][0], (x[0][1], x[1])))  
     .groupByKey()
     .mapValues(lambda items: sorted(items, key=lambda x: -x[1])[:5])  # Top 5 genres
 )
 
-# Step 2: Count (sem género) songs per cluster
+# Step 2: Count (no genre) songs per cluster
 missing_counts = missing_genre_rdd.reduceByKey(lambda a, b: a + b)  # (cluster_id, count)
 
-# ========== Combine and write final results ==========
 genre_dict = dict(genre_counts.collect())        # cluster_id → list of (genre, count)
 missing_dict = dict(missing_counts.collect())    # cluster_id → count
 
