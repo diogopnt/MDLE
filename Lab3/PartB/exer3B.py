@@ -1,8 +1,8 @@
 from pyspark.sql import SparkSession
-from pyspark.sql.functions import col, collect_set, sum as _sum
+from pyspark.sql.functions import col, collect_set, sum as _sum, abs as sql_abs, pow, avg, first
 from pyspark.ml.feature import MinHashLSH
 from pyspark.ml.feature import CountVectorizer
-from pyspark.sql.functions import abs as sql_abs
+from pyspark.sql.window import Window
 
 #spark = SparkSession.builder.appName("MovieLensCF").getOrCreate()
 
@@ -96,8 +96,59 @@ with open("predicted_ratings.txt", "w", encoding="utf-8") as f:
     for row in output_rows:
         line = f"{row['userId']}\t{row['targetMovie']}\t{row['predicted_rating']:.4f}\n"
         f.write(line)
+        
+# 9. Generate predictions for the pares of the validation set (user, movie)
+val_candidates_with_sim = val.join(similar_movies, val.movieId == similar_movies.movie1) \
+    .select(
+        col("userId"),
+        col("movieId").alias("targetMovie"),
+        col("movie2").alias("neighborMovie"),
+        col("similarity"),
+        col("rating").alias("true_rating")
+    )   
+    
+# 10. Get the ratings that user has given to the neighbor movie
+val_candidates_with_ratings = val_candidates_with_sim.join(
+    train.withColumnRenamed("movieId", "neighborMovie"),
+    on=["userId", "neighborMovie"]
+).select(
+    col("userId"),
+    col("targetMovie"),
+    col("neighborMovie"),
+    col("similarity"),
+    col("rating"), # neighbor movie rating
+    col("true_rating") # true rating for the target movie
+)  
 
-# todo: Evaluate the model
+# 11. Calculate the weighted predicted rating  
+val_weighted_scores = val_candidates_with_ratings.withColumn(
+    "weighted_rating", col("similarity") * col("rating")
+).withColumn(
+    "abs_similarity", sql_abs(col("similarity"))
+)
+
+window_spec = Window.partitionBy("userId", "targetMovie")
+val_with_true = val_weighted_scores.withColumn("true_rating_preserved", first("true_rating").over(window_spec))
+
+val_predictions = val_with_true.groupBy("userId", "targetMovie").agg(
+    (_sum("weighted_rating") / _sum("abs_similarity")).alias("predicted_rating"),
+    first("true_rating_preserved").alias("true_rating")
+)
+
+# 12. Join with the true ratings to calculate RMSE and MAE
+val_with_errors = val_predictions.withColumn(
+    "abs_error", sql_abs(col("true_rating") - col("predicted_rating"))
+).withColumn(
+    "squared_error", pow(col("true_rating") - col("predicted_rating"), 2)
+)
+
+mae = val_with_errors.agg(avg("abs_error").alias("MAE")).collect()[0]["MAE"]
+rmse = val_with_errors.agg(avg("squared_error").alias("RMSE")).collect()[0][0] ** 0.5
+
+print(f"\n=== Evaluation Metrics ===")
+print(f"MAE  (Mean Absolute Error): {mae:.4f}")
+print(f"RMSE (Root Mean Squared Error): {rmse:.4f}")
+
 # todo: Only recommend N movies per user with the highest predicted ratings
 # todo: Use bigger datasets
 # todo: Use parameters to choose N movies to recommend, number of hash tables, dataset to use and the threshold of similarity
