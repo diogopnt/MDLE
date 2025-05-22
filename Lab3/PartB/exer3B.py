@@ -3,6 +3,7 @@ from pyspark.sql.functions import col, collect_set, sum as _sum, abs as sql_abs,
 from pyspark.ml.feature import MinHashLSH
 from pyspark.ml.feature import CountVectorizer
 from pyspark.sql.window import Window
+import csv
 
 #spark = SparkSession.builder.appName("MovieLensCF").getOrCreate()
 
@@ -15,7 +16,9 @@ spark = SparkSession.builder \
 
 # 1. Read the ratings data
 ratings = spark.read.csv("ml-latest-small/ratings.csv", header=True, inferSchema=True)
+moviesCSV = spark.read.csv("ml-latest-small/movies.csv", header=True, inferSchema=True)
 ratings.show(5)
+moviesCSV.show(5)
 
 # 2. Divide the data into training and validation sets
 train, val = ratings.randomSplit([0.9, 0.1], seed=42)
@@ -89,13 +92,25 @@ predictions = weighted_scores.groupBy("userId", "targetMovie").agg(
 
 predictions.orderBy("userId", "targetMovie").show(50, truncate=False)
 
-# 8. Export predictions to a .txt file
-output_rows = predictions.orderBy("userId", "targetMovie").collect()
+predictions_mt = predictions.join(moviesCSV, predictions.targetMovie == moviesCSV.movieId, "left") \
+    .select(
+        "userId",
+        "targetMovie",
+        "title",
+        "predicted_rating"
+    )
+    
+predictions_mt.orderBy("userId", "predicted_rating", ascending=False).show(50, truncate=False)
 
-with open("predicted_ratings.txt", "w", encoding="utf-8") as f:
+# 8. Export predictions to a .txt file
+#output_rows = predictions.orderBy("userId", "targetMovie").collect()
+output_rows = predictions_mt.orderBy("userId", "predicted_rating", ascending=[True, False]).collect()
+
+with open("output3B.csv", "w", encoding="utf-8") as f:
+    writer = csv.writer(f)
+    writer.writerow(["UserID", "MovieID", "Movie Name", "Predicted Rating"])
     for row in output_rows:
-        line = f"{row['userId']}\t{row['targetMovie']}\t{row['predicted_rating']:.4f}\n"
-        f.write(line)
+        writer.writerow([row["userId"], row["targetMovie"], row["title"], f"{row['predicted_rating']:.4f}"])
         
 # 9. Generate predictions for the pares of the validation set (user, movie)
 val_candidates_with_sim = val.join(similar_movies, val.movieId == similar_movies.movie1) \
@@ -149,6 +164,7 @@ print(f"\n=== Evaluation Metrics ===")
 print(f"MAE  (Mean Absolute Error): {mae:.4f}")
 print(f"RMSE (Root Mean Squared Error): {rmse:.4f}")
 
+# todo: A predicted rating cannot be more than 5
 # todo: Only recommend N movies per user with the highest predicted ratings
 # todo: Use bigger datasets
 # todo: Use parameters to choose N movies to recommend, number of hash tables, dataset to use and the threshold of similarity
