@@ -13,10 +13,23 @@ spark = SparkSession.builder \
     .config("spark.driver.memory", "4g") \
     .getOrCreate()
 
+#.config("spark.memory.fraction", "0.8") \
 
 # 1. Read the ratings data
-ratings = spark.read.csv("ml-latest-small/ratings.csv", header=True, inferSchema=True)
-moviesCSV = spark.read.csv("ml-latest-small/movies.csv", header=True, inferSchema=True)
+ratings = spark.read.csv("ml-1m/ratings.dat", sep="::",header=True, inferSchema=True)
+moviesCSV = spark.read.csv("ml-1m/movies.dat", sep="::", header=True, inferSchema=True)
+
+ratings = ratings.toDF("userId", "movieId", "rating", "timestamp")
+moviesCSV = moviesCSV.toDF("movieId", "title", "genres")
+
+ratings = ratings.withColumn("userId", col("userId").cast("int")) \
+                 .withColumn("movieId", col("movieId").cast("int")) \
+                 .withColumn("rating", col("rating").cast("float"))
+
+moviesCSV = moviesCSV.withColumn("movieId", col("movieId").cast("int")) \
+                     .withColumn("title", col("title").cast("string")) \
+                     .withColumn("genres", col("genres").cast("string"))
+
 ratings.show(5)
 moviesCSV.show(5)
 
@@ -106,7 +119,7 @@ predictions_mt.orderBy("userId", "predicted_rating", ascending=False).show(50, t
 #output_rows = predictions.orderBy("userId", "targetMovie").collect()
 output_rows = predictions_mt.orderBy("userId", "predicted_rating", ascending=[True, False]).collect()
 
-with open("output3B.csv", "w", encoding="utf-8") as f:
+with open("output3B2.csv", "w", encoding="utf-8") as f:
     writer = csv.writer(f)
     writer.writerow(["UserID", "MovieID", "Movie Name", "Predicted Rating"])
     for row in output_rows:
@@ -165,3 +178,12 @@ print(f"MAE  (Mean Absolute Error): {mae:.4f}")
 print(f"RMSE (Root Mean Squared Error): {rmse:.4f}")
 
 # todo: A predicted rating cannot be more than 5
+# todo: Only recommend N movies per user with the highest predicted ratings (Also an improvement - because of the .crossJoin)
+# todo: Use parameters to choose N movies to recommend, number of hash tables, dataset to use and the threshold of similarity
+
+## Improvements:
+# Delete .show() calls to avoid printing large datasets
+# Delete .count() calls to avoid counting large datasets
+# Utilize caching for large datasets to speed up processing
+# Try to read the data from the dat files in a more efficient way
+# Maybe delete .collect() calls to avoid collecting large datasets to the driver
