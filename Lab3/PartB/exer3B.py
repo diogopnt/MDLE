@@ -11,6 +11,7 @@ spark = SparkSession.builder \
     .appName("MovieLensCF") \
     .config("spark.executor.memory", "4g") \
     .config("spark.driver.memory", "4g") \
+    .config("spark.local.dir", "/mnt/c/Users/diogo/Spark/spark-temp") \
     .getOrCreate()
 
 
